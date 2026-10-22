@@ -88,6 +88,33 @@ collections:
           - { label: "Biblioteca Central de la UNAM", value: "unam" }
           - { label: "Campo del Tropicana Field", value: "beisbol" }
           - { label: "Vista aérea del Autódromo Hermanos Rodríguez", value: "autodromo" }
+          - { label: "La Tierra vista desde el Apolo 17", value: "tierra" }
+          - { label: "Sede de la ONU en Nueva York", value: "onu" }
+          - { label: "Salón de la Asamblea General de la ONU", value: "asamblea_onu" }
+          - { label: "Casa Blanca, Washington", value: "casablanca" }
+          - { label: "Capitolio de Estados Unidos", value: "capitolio_eeuu" }
+          - { label: "Piso de remates de la Bolsa de Nueva York", value: "wallstreet" }
+          - { label: "Kremlin de Moscú", value: "kremlin" }
+          - { label: "Plaza Roja de Moscú", value: "moscu" }
+          - { label: "Palacio de Invierno, San Petersburgo", value: "sanpetersburgo" }
+          - { label: "Congreso Nacional de Brasil, Brasilia", value: "brasil" }
+          - { label: "Lanzamiento de un cohete Falcon 9", value: "cohete" }
+          - { label: "Buque petrolero en altamar", value: "petrolero" }
+          - { label: "Billete de un dólar", value: "dolar" }
+          - { label: "Túnel del Gran Colisionador de Hadrones (CERN)", value: "cern" }
+          - { label: "Campo ultraprofundo del telescopio Hubble", value: "espacio" }
+          - { label: "Hemiciclo del Parlamento Europeo", value: "europarl" }
+          - { label: "Palacio de Westminster, Londres", value: "londres" }
+          - { label: "Puerta de Brandeburgo, Berlín", value: "berlin" }
+          - { label: "Ciudad Prohibida, Pekín", value: "pekin" }
+          - { label: "Torre de Tokio", value: "tokio" }
+          - { label: "Jerusalén y la Cúpula de la Roca", value: "jerusalen" }
+          - { label: "Casa Rosada, Buenos Aires", value: "buenosaires" }
+          - { label: "Palacio de La Moneda, Santiago de Chile", value: "santiago" }
+          - { label: "Partido de futbol", value: "futbol" }
+          - { label: "Letrero de Hollywood", value: "hollywood" }
+          - { label: "Estetoscopio", value: "salud" }
+          - { label: "Logotipo de bitcoin", value: "bitcoin" }
       - label: Fuentes
         name: fuentes
         widget: list

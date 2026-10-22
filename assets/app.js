@@ -5,6 +5,8 @@ var NOTAS=(window.NOTAS||[]).slice(), IMG=window.IMAGENES||{};
 var MARCA="La Nota Universal";
 var CATS={mundo:"Mundo",mexico:"México",politica:"Política",economia:"Economía",tecnologia:"Tecnología",ciencia:"Ciencia",salud:"Salud",deportes:"Deportes",entretenimiento:"Entretenimiento"};
 var ORDEN_NAV=["mundo","mexico","politica","economia","tecnologia","ciencia","salud","deportes","entretenimiento"];
+/* foto de respaldo por sección cuando la nota no trae una */
+var RESPALDO={mundo:"tierra",mexico:"zocalo",politica:"senado",economia:"wallstreet",tecnologia:"tech",ciencia:"cern",salud:"salud",deportes:"futbol",entretenimiento:"hollywood"};
 var MESES=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
 var RELOJES=[["Ciudad de México","America/Mexico_City"],["Nueva York","America/New_York"],["Londres","Europe/London"],["Madrid","Europe/Madrid"],["Moscú","Europe/Moscow"],["Pekín","Asia/Shanghai"],["Tokio","Asia/Tokyo"]];
 
@@ -17,7 +19,7 @@ var HOY={
   agenda:H.agenda||[]
 };
 
-NOTAS.forEach(function(n){n.d=(n.f||"").slice(0,10)});
+NOTAS.forEach(function(n){n.d=(n.f||"").slice(0,10);if(!n.foto)n.img=fotoDe(n)});
 function porId(id){for(var i=0;i<NOTAS.length;i++)if(NOTAS[i].id===id)return NOTAS[i];return null}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function fecha(d){var p=d.split("-");return parseInt(p[2],10)+" de "+MESES[parseInt(p[1],10)-1]+" de "+p[0]}
@@ -26,6 +28,7 @@ function url(n){return "/nota.html?id="+encodeURIComponent(n.id)}
 function urlSec(c){return "/seccion.html?s="+c}
 function param(k){try{return new URLSearchParams(location.search).get(k)}catch(e){return null}}
 function imgSrc(key,w){var m=IMG[key];if(!m)return "";if(/^(img\/|\/|https?:)/.test(m.file))return m.file;return "https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(m.file)+"?width="+(w||1000)}
+function fotoDe(n){return IMG[n.img]?n.img:(RESPALDO[n.c]||"tierra")}
 function imagen(key,tag,w,eager,foto){
   var m=IMG[key]||{};var src=foto||imgSrc(key,w);
   return '<div class="img'+(src?'':' sin-foto')+'">'+(src?'<img src="'+esc(src)+'" alt="'+esc(m.alt||"")+'" loading="'+(eager?"eager":"lazy")+'" decoding="async" referrerpolicy="no-referrer">':'')+(tag?'<span class="tagimg">'+esc(tag)+'</span>':'')+'</div>';

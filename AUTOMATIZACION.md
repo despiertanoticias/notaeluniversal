@@ -31,7 +31,7 @@ Reglas:
 - `seccion`: mundo, mexico, politica, economia, tecnologia, ciencia, salud, deportes o entretenimiento. Al menos 8 de las 20 deben ser de `mundo`.
 - `fecha`: la hora de la ejecución en la Ciudad de México. Usa minutos distintos para conservar el orden de importancia (la más importante con la hora más reciente).
 - Marca `"destacada": true` en las 4 más importantes.
-- `imagen_tema`: una de las claves de `assets/imagenes.js` solo si la foto corresponde al lugar o tema de la nota. Si ninguna encaja, déjalo vacío (`""`): el sitio muestra un fondo con la marca. Nunca uses una foto de un lugar distinto al de la noticia.
+- `imagen_tema`: la clave de `assets/imagenes.js` que mejor corresponda al lugar o tema (hay fotos de México y del mundo: ONU, Casa Blanca, Kremlin, Wall Street, Brasil, Londres, Pekín, etc.). Nunca uses una foto de un lugar distinto al de la noticia. Si ninguna encaja, déjalo vacío (`""`) y el sitio pone automáticamente una foto genérica de la sección. Si una foto nueva haría falta seguido, puedes agregarla a `assets/imagenes.js` con un archivo de Wikimedia Commons que hayas verificado que existe.
 - **Redacta todo con tus propias palabras.** No copies frases de los medios; como máximo, una cita breve (menos de 15 palabras) entre comillas si la frase exacta importa.
 - **No inventes datos.** Cada cifra, nombre o fecha debe estar en la fuente enlazada. Si una fuente solo da el titular, escribe una nota breve con eso.
 - Cada nota lleva al menos una fuente con su enlace real.
