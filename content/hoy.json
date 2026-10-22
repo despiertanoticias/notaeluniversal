@@ -1,14 +1,14 @@
 {
-  "fecha": "Miércoles 21 de octubre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Jueves 22 de octubre de 2026",
+  "actualizado": "06:59 h",
   "ciudad": "CDMX",
   "temp": 20,
-  "mercados_nota": "Cierre del 21 oct",
+  "mercados_nota": "Dólar, Brent, oro y bitcoin: mañana del 22 oct; índices de EE.UU.: cierre del 21 oct",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.67",
-      "cambio": "+1%",
+      "valor": "18.74",
+      "cambio": "+0.29%",
       "nivel": "sube"
     },
     {
@@ -31,23 +31,43 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "108.82 USD",
-      "cambio": "",
-      "nivel": "igual"
+      "valor": "111.05 USD",
+      "cambio": "+2%",
+      "nivel": "sube"
+    },
+    {
+      "nombre": "Oro",
+      "valor": "4,088 USD",
+      "cambio": "-1.3%",
+      "nivel": "baja"
+    },
+    {
+      "nombre": "Bitcoin",
+      "valor": "~84,800 USD",
+      "cambio": "+1.28%",
+      "nivel": "sube"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Steve Witkoff, en San Petersburgo para impulsar negociaciones de paz sobre Ucrania"
+      "texto": "Premios Billboard de la Música Latina en Miami"
+    },
+    {
+      "cuando": "23 oct",
+      "texto": "Arranca la Serie Mundial: Brewers vs. Rays en Milwaukee"
     },
     {
       "cuando": "25 oct",
-      "texto": "Segunda vuelta presidencial en Brasil: Lula frente a Flávio Bolsonaro"
+      "texto": "Segunda vuelta presidencial en Brasil y elecciones legislativas en Serbia"
     },
     {
-      "cuando": "28 oct",
-      "texto": "Checo Pérez maneja un Cadillac de F1 en Paseo de la Reforma"
+      "cuando": "3 nov",
+      "texto": "Elecciones legislativas de medio mandato en Estados Unidos"
+    },
+    {
+      "cuando": "10 nov",
+      "texto": "Previsto reinicio de negociaciones de paz entre Rusia, Ucrania y EE.UU."
     }
   ]
 }
