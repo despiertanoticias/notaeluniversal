@@ -1,0 +1,53 @@
+{
+  "fecha": "Miércoles 21 de octubre de 2026",
+  "actualizado": "18:30 h",
+  "ciudad": "CDMX",
+  "temp": 20,
+  "mercados_nota": "Cierre del 21 oct",
+  "mercados": [
+    {
+      "nombre": "Dólar / peso",
+      "valor": "18.67",
+      "cambio": "+1%",
+      "nivel": "sube"
+    },
+    {
+      "nombre": "Dow Jones",
+      "valor": "+360 pts",
+      "cambio": "0.7%",
+      "nivel": "sube"
+    },
+    {
+      "nombre": "S&P 500",
+      "valor": "",
+      "cambio": "0.6%",
+      "nivel": "sube"
+    },
+    {
+      "nombre": "Nasdaq",
+      "valor": "",
+      "cambio": "1.1%",
+      "nivel": "sube"
+    },
+    {
+      "nombre": "Petróleo Brent",
+      "valor": "108.82 USD",
+      "cambio": "",
+      "nivel": "igual"
+    }
+  ],
+  "agenda": [
+    {
+      "cuando": "Hoy",
+      "texto": "Steve Witkoff, en San Petersburgo para impulsar negociaciones de paz sobre Ucrania"
+    },
+    {
+      "cuando": "25 oct",
+      "texto": "Segunda vuelta presidencial en Brasil: Lula frente a Flávio Bolsonaro"
+    },
+    {
+      "cuando": "28 oct",
+      "texto": "Checo Pérez maneja un Cadillac de F1 en Paseo de la Reforma"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[build]
+  publish = "."
+  command = "node scripts/build.mjs"
+
+[[redirects]]
+  from = "https://www.notaeluniversal.com/*"
+  to = "https://notaeluniversal.com/:splat"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/assets/datos.js"
+  [headers.values]
+    Cache-Control = "public, max-age=60"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
