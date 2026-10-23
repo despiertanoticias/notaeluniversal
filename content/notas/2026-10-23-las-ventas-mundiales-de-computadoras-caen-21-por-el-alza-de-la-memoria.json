@@ -1,0 +1,22 @@
+{
+  "titulo": "Las ventas mundiales de computadoras caen 21 % por el alza de la memoria RAM",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-23T06:42",
+  "resumen": "Los envíos globales de PC sumaron 57 millones de unidades en el tercer trimestre de 2026, 21 % menos que un año antes, según Counterpoint Research. La consultora atribuye la caída a la escasez y el encarecimiento de la memoria RAM, impulsado en parte por la demanda de la inteligencia artificial.",
+  "cuerpo": "Lenovo lideró con 15 millones de equipos (-23 %), seguida de HP (-31 %), Dell (-25 %), Apple (-11 %) y ASUS (-7 %). Counterpoint prevé que la caída se profundice a 27 % en el cuarto trimestre y que los volúmenes de 2027 se mantengan similares a los de 2026.",
+  "imagen_tema": "tech2",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Europa Press / Infobae",
+      "enlace": "https://www.infobae.com/america/agencias/2026/10/23/la-venta-global-de-ordenadores-disminuye-un-21-en-el-tercer-trimestre-de-2026-y-seguira-disminuyendo-hasta-un-6-mas/"
+    },
+    {
+      "medio": "Counterpoint Research",
+      "enlace": "https://counterpointresearch.com/en/insights/global-pc-shipments-plunge-21-percent-in-q3-2026"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
