@@ -1,0 +1,18 @@
+{
+  "titulo": "El Nasdaq se desploma 2.58 % por los gastos en IA de Meta y otras tecnológicas",
+  "seccion": "economia",
+  "fecha": "2026-10-22T18:37",
+  "resumen": "Wall Street cerró este jueves con fuertes caídas en el sector tecnológico: el Nasdaq perdió 2.58 % hasta 26,008.86 puntos, su peor día desde junio, y el S&P 500 bajó 1.19 % a 7,664.77. El Dow Jones apenas subió 0.03 %, a 52,873.60 puntos. El petróleo Brent avanzó 4 %, a 113.17 dólares por barril.",
+  "cuerpo": "Meta cayó 7 % pese a superar las previsiones de ingresos, tras reportar su primer flujo de caja negativo en más de una década por su inversión en inteligencia artificial. Tesla retrocedió 3.1 %, Nvidia 4.4 %, Lam Research 11.8 % y CoreWeave 10.1 %.\n\nLos inversionistas dudan del costo de financiar centros de datos y chips de IA. También pesaron las caídas en Asia y el alza del crudo, que alcanza su nivel más alto en cinco meses por la incertidumbre de la guerra con Irán.",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/10/22/wall-street-cerro-con-fuertes-caidas-el-nasdaq-perdio-258-por-las-dudas-sobre-el-costo-de-la-expansion-en-inteligencia-artificial/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}
