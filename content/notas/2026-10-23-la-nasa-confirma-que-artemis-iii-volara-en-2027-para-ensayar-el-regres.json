@@ -1,0 +1,22 @@
+{
+  "titulo": "La NASA confirma que Artemis III volará en 2027 para ensayar el regreso a la Luna",
+  "seccion": "ciencia",
+  "fecha": "2026-10-23T18:22",
+  "resumen": "El administrador de la NASA, Jared Isaacman, presentó en el Centro Espacial Kennedy el plan para acelerar el programa Artemis y volver a pisar la Luna en 2028. Artemis III, prevista para 2027, llevará a cuatro astronautas a la órbita baja terrestre para probar los sistemas necesarios para los alunizajes. Artemis IV será la primera misión del programa en descender a la superficie lunar.",
+  "cuerpo": "",
+  "imagen_tema": "espacio",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "NASA",
+      "enlace": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
+    },
+    {
+      "medio": "Space.com",
+      "enlace": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

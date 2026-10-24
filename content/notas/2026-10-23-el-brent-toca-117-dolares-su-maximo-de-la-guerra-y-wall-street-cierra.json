@@ -1,0 +1,22 @@
+{
+  "titulo": "El Brent toca 117 dólares, su máximo de la guerra, y Wall Street cierra a la baja",
+  "seccion": "economia",
+  "fecha": "2026-10-23T18:35",
+  "resumen": "El petróleo Brent superó brevemente los 117 dólares por barril y cerró arriba de 116, su nivel más alto desde abril, ante el temor a un ataque de EE.UU. contra Irán. El Dow Jones cayó 1.23 % hasta 52,215 puntos, el S&P 500 bajó 0.52 % y el Nasdaq 0.21 %. Las petroleras subieron y las aerolíneas y cruceros cayeron más de 3 %.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Nación (EFE)",
+      "enlace": "https://www.lanacion.com.ar/estados-unidos/wall-street-cierra-a-la-baja-impactada-por-un-nuevo-repunte-del-petroleo-nid23102026/"
+    },
+    {
+      "medio": "CBS News",
+      "enlace": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

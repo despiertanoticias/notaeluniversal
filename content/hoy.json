@@ -1,38 +1,38 @@
 {
   "fecha": "Viernes 23 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:40 h",
   "ciudad": "CDMX",
   "temp": 20,
-  "mercados_nota": "Dólar: apertura del 23 oct; Dow Jones, S&P 500 y Nasdaq: cierre del 22 oct; Brent, oro y bitcoin: mañana del 23 oct; euro: mañana del 23 oct",
+  "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq y Brent: cierre del 23 oct; euro, oro y bitcoin: mañana del 23 oct",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.79",
-      "cambio": "+0.43%",
-      "nivel": "sube"
+      "valor": "18.65",
+      "cambio": "-0.34%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,873.60",
-      "cambio": "+0.03%",
-      "nivel": "sube"
+      "valor": "52,215.16",
+      "cambio": "-1.23%",
+      "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,664.77",
-      "cambio": "-1.19%",
+      "valor": "7,623.86",
+      "cambio": "-0.52%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "26,008.86",
-      "cambio": "-2.58%",
+      "valor": "25,955.34",
+      "cambio": "-0.21%",
       "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "113.75 USD",
-      "cambio": "+0.5%",
+      "valor": "~116 USD",
+      "cambio": "+2%",
       "nivel": "sube"
     },
     {
@@ -60,6 +60,10 @@
       "texto": "Juego 1 de la Serie Mundial: Rays vs. Cerveceros en Milwaukee; último debate presidencial en Brasil"
     },
     {
+      "cuando": "24 oct",
+      "texto": "Jornada de protestas contra el costo de vida en Francia, con 70,000 policías desplegados"
+    },
+    {
       "cuando": "25 oct",
       "texto": "Segunda vuelta presidencial en Brasil, presidenciales en Bulgaria y legislativas en Serbia"
     },
@@ -70,10 +74,6 @@
     {
       "cuando": "3 nov",
       "texto": "Elecciones legislativas de medio mandato en Estados Unidos"
-    },
-    {
-      "cuando": "10 nov",
-      "texto": "Posible nueva ronda de negociaciones entre EE.UU., Rusia y Ucrania"
     }
   ]
 }
