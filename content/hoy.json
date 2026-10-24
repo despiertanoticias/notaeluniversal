@@ -1,9 +1,9 @@
 {
-  "fecha": "Viernes 23 de octubre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Sábado 24 de octubre de 2026",
+  "actualizado": "06:50 h",
   "ciudad": "CDMX",
   "temp": 20,
-  "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq y Brent: cierre del 23 oct; euro, oro y bitcoin: mañana del 23 oct",
+  "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 23 oct; euro, oro y bitcoin: mañana del 23 oct",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -31,8 +31,8 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "~116 USD",
-      "cambio": "+2%",
+      "valor": "116.72 USD",
+      "cambio": "+3.1%",
       "nivel": "sube"
     },
     {
@@ -57,15 +57,15 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Juego 1 de la Serie Mundial: Rays vs. Cerveceros en Milwaukee; último debate presidencial en Brasil"
-    },
-    {
-      "cuando": "24 oct",
-      "texto": "Jornada de protestas contra el costo de vida en Francia, con 70,000 policías desplegados"
+      "texto": "Juego 2 de la Serie Mundial en Milwaukee (Cerveceros ganan 1-0); protestas en Francia, Italia y Portugal"
     },
     {
       "cuando": "25 oct",
-      "texto": "Segunda vuelta presidencial en Brasil, presidenciales en Bulgaria y legislativas en Serbia"
+      "texto": "Segunda vuelta presidencial en Brasil, legislativas en Serbia y presidenciales en Bulgaria"
+    },
+    {
+      "cuando": "26 oct",
+      "texto": "Inicia el quinto pleno del Comité Central del Partido Comunista de China (hasta el 29)"
     },
     {
       "cuando": "27 oct",
