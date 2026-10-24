@@ -48,7 +48,7 @@ fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
 // sitemap.xml para buscadores
 const DOMINIO = "https://notaeluniversal.com";
 const xmlEsc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
-const urls = [`${DOMINIO}/`, ...SECCIONES.map(c => `${DOMINIO}/seccion.html?s=${c}`),
+const urls = [`${DOMINIO}/`, `${DOMINIO}/privacy`, ...SECCIONES.map(c => `${DOMINIO}/seccion.html?s=${c}`),
   ...notas.slice(0, MAX_NOTAS).map(n => `${DOMINIO}/nota.html?id=${encodeURIComponent(n.id)}`)];
 fs.writeFileSync(path.join(RAIZ, "sitemap.xml"),
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +

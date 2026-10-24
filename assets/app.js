@@ -102,8 +102,8 @@ function pie(){
   return '<footer class="pie"><div class="wrap"><div><span class="marca"><img src="/assets/logo.webp" width="900" height="328" alt="'+MARCA+'"></span>'+
   '<p style="margin:14px 0 0;max-width:46ch">Información global en tiempo real. Las notas resumen información de otros medios y enlazan a sus fuentes originales.</p></div>'+
   '<div><h5>Secciones</h5><ul>'+ORDEN_NAV.slice(0,6).map(function(c){return '<li><a href="'+urlSec(c)+'">'+CATS[c]+'</a></li>'}).join("")+'</ul></div>'+
-  '<div><h5>La Nota</h5><ul><li><a href="/creditos.html">Créditos de imágenes</a></li><li><a href="/#suscribete">Boletín</a></li><li>Acerca de</li><li>Contacto</li><li>Política de privacidad</li></ul></div>'+
-  '<div class="copy">© '+new Date().getFullYear()+' '+MARCA+'. Fotografías de Wikimedia Commons con licencias libres; ver <a href="/creditos.html" style="text-decoration:underline">créditos</a>.</div></div></footer>';
+  '<div><h5>La Nota</h5><ul><li><a href="/creditos.html">Créditos de imágenes</a></li><li><a href="/#suscribete">Boletín</a></li><li>Acerca de</li><li>Contacto</li><li><a href="/privacy">Aviso de privacidad</a></li></ul></div>'+
+  '<div class="copy">© '+new Date().getFullYear()+' '+MARCA+'. Sitio operado por Atlas Media Network, LLC · <a href="/privacy" style="text-decoration:underline">Aviso de privacidad</a>. Fotografías de Wikimedia Commons con licencias libres; ver <a href="/creditos.html" style="text-decoration:underline">créditos</a>.</div></div></footer>';
 }
 
 /* ---------- páginas ---------- */
@@ -173,11 +173,13 @@ function creditos(){
 
 /* ---------- arranque ---------- */
 var pagina=document.body.getAttribute("data-pagina"), raiz=document.getElementById("app"), r;
+var legal=document.getElementById("legal"), legalHTML=legal?legal.innerHTML:"";
 if(!NOTAS.length&&pagina==="portada")r={actual:"portada",html:'<div class="wrap"><p class="vacio">Pronto publicaremos las primeras notas.</p></div>'};
 else if(pagina==="portada")r={actual:"portada",html:portada()};
 else if(pagina==="seccion")r=seccion();
 else if(pagina==="nota")r=nota();
 else if(pagina==="creditos")r={actual:"",html:creditos()};
+else if(pagina==="privacidad")r={actual:"",html:'<div class="wrap"><main class="cuerpo" id="contenido"><article class="legal">'+legalHTML+'</article>'+rail()+'</main></div>'};
 else r={actual:"",html:'<div class="wrap"><main class="cuerpo" id="contenido"><div><div class="cabeza"><h1>Página no encontrada</h1></div><p class="vacio">La dirección no existe. Vuelve a la <a href="/" style="text-decoration:underline">portada</a>.</p></div>'+rail()+'</main></div>'};
 raiz.innerHTML=cabecera(r.actual)+r.html+pie();
 

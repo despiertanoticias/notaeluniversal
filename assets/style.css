@@ -219,3 +219,19 @@ footer.pie h5{font-size:12px;font-weight:800;text-transform:uppercase;letter-spa
 footer.pie ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
 footer.pie a:hover{color:#fff;text-decoration:underline}
 footer.pie .copy{grid-column:1/-1;border-top:1px solid rgba(255,255,255,.12);padding-top:18px;font-size:12.5px}
+
+/* páginas legales */
+.legal{max-width:760px;padding-top:26px;font-size:17.5px;line-height:1.65}
+.legal h1{font-size:clamp(30px,4.4vw,46px);font-weight:900;font-stretch:88%;line-height:1.05;margin:0 0 8px}
+.legal .vigencia{font-family:var(--ui);font-size:13px;color:var(--suave);margin:0 0 22px}
+.legal h2{font-size:24px;font-weight:800;font-stretch:92%;margin:34px 0 10px;padding-top:14px;border-top:1px solid var(--linea)}
+.legal h3{font-size:19px;font-weight:800;margin:20px 0 6px}
+.legal p,.legal ul{margin:0 0 14px}
+.legal ul{padding-left:22px}
+.legal li{margin-bottom:6px}
+.legal a{color:var(--acento);text-decoration:underline;text-underline-offset:3px}
+.legal .indice{background:var(--gris);border-radius:8px;padding:16px 18px 6px;font-family:var(--ui);font-size:14px;margin:0 0 10px}
+.legal .indice ol{margin:8px 0 10px;padding-left:20px;columns:2;column-gap:28px}
+@media (max-width:560px){.legal .indice ol{columns:1}}
+.legal .caja{background:var(--gris);border-left:4px solid var(--turquesa);border-radius:0 6px 6px 0;padding:14px 18px;margin:0 0 16px;font-family:var(--ui);font-size:15px}
+.legal .tabla{margin:0 0 16px}
