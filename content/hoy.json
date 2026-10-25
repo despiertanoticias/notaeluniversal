@@ -1,9 +1,9 @@
 {
   "fecha": "Sábado 24 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:45 h",
   "ciudad": "CDMX",
   "temp": 20,
-  "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 23 oct; euro, oro y bitcoin: mañana del 23 oct",
+  "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq, Brent y euro: cierre del viernes 23 oct; oro y bitcoin: mañana del 23 oct",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -37,8 +37,8 @@
     },
     {
       "nombre": "Euro / dólar",
-      "valor": "1.1195",
-      "cambio": "-0.2%",
+      "valor": "1.1204",
+      "cambio": "-0.15%",
       "nivel": "baja"
     },
     {
@@ -57,7 +57,7 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Juego 2 de la Serie Mundial en Milwaukee (Cerveceros ganan 1-0); protestas en Francia, Italia y Portugal"
+      "texto": "Juego 2 de la Serie Mundial en Milwaukee (Cerveceros ganan 1-0 a los Rays)"
     },
     {
       "cuando": "25 oct",
@@ -65,15 +65,15 @@
     },
     {
       "cuando": "26 oct",
-      "texto": "Inicia el quinto pleno del Comité Central del Partido Comunista de China (hasta el 29)"
+      "texto": "Inicia el quinto pleno del Comité Central del Partido Comunista de China; juego 3 de la Serie Mundial en Tampa Bay"
     },
     {
       "cuando": "27 oct",
-      "texto": "Elecciones parlamentarias en Israel"
+      "texto": "Elecciones parlamentarias en Israel; Pezeshkian se reúne con Putin en Moscú"
     },
     {
-      "cuando": "3 nov",
-      "texto": "Elecciones legislativas de medio mandato en Estados Unidos"
+      "cuando": "29 oct",
+      "texto": "Decisión de tasas del Banco Central Europeo"
     }
   ]
 }
