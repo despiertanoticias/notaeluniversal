@@ -1,8 +1,8 @@
 {
-  "fecha": "Sábado 24 de octubre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Domingo 25 de octubre de 2026",
+  "actualizado": "06:50 h",
   "ciudad": "CDMX",
-  "temp": 20,
+  "temp": 12,
   "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq, Brent y euro: cierre del viernes 23 oct; oro y bitcoin: mañana del 23 oct",
   "mercados": [
     {
@@ -57,15 +57,11 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Juego 2 de la Serie Mundial en Milwaukee (Cerveceros ganan 1-0 a los Rays)"
-    },
-    {
-      "cuando": "25 oct",
       "texto": "Segunda vuelta presidencial en Brasil, legislativas en Serbia y presidenciales en Bulgaria"
     },
     {
       "cuando": "26 oct",
-      "texto": "Inicia el quinto pleno del Comité Central del Partido Comunista de China; juego 3 de la Serie Mundial en Tampa Bay"
+      "texto": "Inicia el quinto pleno del Comité Central del Partido Comunista de China; juego 3 de la Serie Mundial (Cerveceros ganan 2-0)"
     },
     {
       "cuando": "27 oct",
@@ -74,6 +70,10 @@
     {
       "cuando": "29 oct",
       "texto": "Decisión de tasas del Banco Central Europeo"
+    },
+    {
+      "cuando": "1 nov",
+      "texto": "Posible segunda vuelta presidencial en Bulgaria"
     }
   ]
 }
