@@ -1,6 +1,6 @@
 {
   "fecha": "Domingo 25 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:55 h",
   "ciudad": "CDMX",
   "temp": 12,
   "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq, Brent y euro: cierre del viernes 23 oct; oro y bitcoin: mañana del 23 oct",
@@ -56,24 +56,24 @@
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Segunda vuelta presidencial en Brasil, legislativas en Serbia y presidenciales en Bulgaria"
-    },
-    {
       "cuando": "26 oct",
-      "texto": "Inicia el quinto pleno del Comité Central del Partido Comunista de China; juego 3 de la Serie Mundial (Cerveceros ganan 2-0)"
+      "texto": "Inicia el quinto pleno del Partido Comunista de China (hasta el 29); Taddei entrega su renuncia al INE; juego 3 de la Serie Mundial"
     },
     {
       "cuando": "27 oct",
-      "texto": "Elecciones parlamentarias en Israel; Pezeshkian se reúne con Putin en Moscú"
+      "texto": "Elecciones parlamentarias en Israel"
+    },
+    {
+      "cuando": "28 oct",
+      "texto": "Decisión de tasas de la Reserva Federal de EE.UU."
     },
     {
       "cuando": "29 oct",
-      "texto": "Decisión de tasas del Banco Central Europeo"
+      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU."
     },
     {
       "cuando": "1 nov",
-      "texto": "Posible segunda vuelta presidencial en Bulgaria"
+      "texto": "Segunda vuelta presidencial en Bulgaria entre Yotova y Gyurov"
     }
   ]
 }
