@@ -1,15 +1,15 @@
 {
-  "fecha": "Domingo 25 de octubre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Lunes 26 de octubre de 2026",
+  "actualizado": "06:55 h",
   "ciudad": "CDMX",
   "temp": 12,
-  "mercados_nota": "Dólar, Dow Jones, S&P 500, Nasdaq, Brent y euro: cierre del viernes 23 oct; oro y bitcoin: mañana del 23 oct",
+  "mercados_nota": "Dólar/peso y Brent: mañana del lunes 26 oct; Dow Jones, S&P 500, Nasdaq y euro: cierre del viernes 23 oct; oro y bitcoin: mañana del 23 oct",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.65",
-      "cambio": "-0.34%",
-      "nivel": "baja"
+      "valor": "18.67",
+      "cambio": "+0.02%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
@@ -31,9 +31,9 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "116.72 USD",
-      "cambio": "+3.1%",
-      "nivel": "sube"
+      "valor": "114.51 USD",
+      "cambio": "-1.89%",
+      "nivel": "baja"
     },
     {
       "nombre": "Euro / dólar",
@@ -56,12 +56,12 @@
   ],
   "agenda": [
     {
-      "cuando": "26 oct",
-      "texto": "Inicia el quinto pleno del Partido Comunista de China (hasta el 29); Taddei entrega su renuncia al INE; juego 3 de la Serie Mundial"
+      "cuando": "Hoy",
+      "texto": "Inicia el quinto pleno del Partido Comunista de China (hasta el 29); juego 3 de la Serie Mundial en Tampa (18:00 h CDMX)"
     },
     {
       "cuando": "27 oct",
-      "texto": "Elecciones parlamentarias en Israel"
+      "texto": "Elecciones parlamentarias en Israel; Cuba presenta en la ONU su resolución contra el embargo (27-28 oct)"
     },
     {
       "cuando": "28 oct",
@@ -72,8 +72,8 @@
       "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU."
     },
     {
-      "cuando": "1 nov",
-      "texto": "Segunda vuelta presidencial en Bulgaria entre Yotova y Gyurov"
+      "cuando": "3 nov",
+      "texto": "Elecciones intermedias en Estados Unidos"
     }
   ]
 }
