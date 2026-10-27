@@ -1,64 +1,60 @@
 {
   "fecha": "Lunes 26 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:40 h",
   "ciudad": "CDMX",
   "temp": 12,
-  "mercados_nota": "Dólar/peso y Brent: mañana del lunes 26 oct; Dow Jones, S&P 500, Nasdaq y euro: cierre del viernes 23 oct; oro y bitcoin: mañana del 23 oct",
+  "mercados_nota": "Cierre del lunes 26 oct (dólar/peso: promedio de cierre; Nasdaq: Nasdaq 100); temperatura: dato de la mañana",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.67",
-      "cambio": "+0.02%",
-      "nivel": "sube"
+      "valor": "18.55",
+      "cambio": "-0.63%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,215.16",
-      "cambio": "-1.23%",
-      "nivel": "baja"
+      "valor": "52,361",
+      "cambio": "+0.28%",
+      "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,623.86",
-      "cambio": "-0.52%",
-      "nivel": "baja"
+      "valor": "7,676",
+      "cambio": "+0.70%",
+      "nivel": "sube"
     },
     {
-      "nombre": "Nasdaq",
-      "valor": "25,955.34",
-      "cambio": "-0.21%",
-      "nivel": "baja"
+      "nombre": "Nasdaq 100",
+      "valor": "26,169",
+      "cambio": "+0.82%",
+      "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "114.51 USD",
-      "cambio": "-1.89%",
+      "valor": "110.15 USD",
+      "cambio": "-0.53%",
       "nivel": "baja"
     },
     {
       "nombre": "Euro / dólar",
-      "valor": "1.1204",
-      "cambio": "-0.15%",
+      "valor": "1.1174",
+      "cambio": "-0.26%",
       "nivel": "baja"
     },
     {
       "nombre": "Oro",
-      "valor": "4,016 USD",
-      "cambio": "-0.2%",
+      "valor": "4,026 USD",
+      "cambio": "-0.29%",
       "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "~81,400 USD",
-      "cambio": "-0.36%",
+      "valor": "79,909 USD",
+      "cambio": "-0.71%",
       "nivel": "baja"
     }
   ],
   "agenda": [
-    {
-      "cuando": "Hoy",
-      "texto": "Inicia el quinto pleno del Partido Comunista de China (hasta el 29); juego 3 de la Serie Mundial en Tampa (18:00 h CDMX)"
-    },
     {
       "cuando": "27 oct",
       "texto": "Elecciones parlamentarias en Israel; Cuba presenta en la ONU su resolución contra el embargo (27-28 oct)"
@@ -69,7 +65,11 @@
     },
     {
       "cuando": "29 oct",
-      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU."
+      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU.; cierra el pleno del Partido Comunista de China"
+    },
+    {
+      "cuando": "31 oct",
+      "texto": "Nueva jornada nacional de protestas en Francia"
     },
     {
       "cuando": "3 nov",
