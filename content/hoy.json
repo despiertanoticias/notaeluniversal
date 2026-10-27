@@ -1,15 +1,15 @@
 {
-  "fecha": "Lunes 26 de octubre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Martes 27 de octubre de 2026",
+  "actualizado": "06:40 h",
   "ciudad": "CDMX",
   "temp": 12,
-  "mercados_nota": "Cierre del lunes 26 oct (dólar/peso: promedio de cierre; Nasdaq: Nasdaq 100); temperatura: dato de la mañana",
+  "mercados_nota": "Dólar/peso: apertura del martes 27 oct; resto: cierre del lunes 26 oct (Nasdaq: Nasdaq 100); temperatura: mínima prevista por el SMN",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.55",
-      "cambio": "-0.63%",
-      "nivel": "baja"
+      "valor": "18.62",
+      "cambio": "+0.26%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
@@ -56,20 +56,20 @@
   ],
   "agenda": [
     {
-      "cuando": "27 oct",
-      "texto": "Elecciones parlamentarias en Israel; Cuba presenta en la ONU su resolución contra el embargo (27-28 oct)"
+      "cuando": "Hoy",
+      "texto": "Elecciones parlamentarias en Israel; cumbre de países exportadores de gas en Moscú; cuarto juego de la Serie Mundial"
     },
     {
       "cuando": "28 oct",
-      "texto": "Decisión de tasas de la Reserva Federal de EE.UU."
+      "texto": "Decisión de tasas de la Reserva Federal; la Asamblea General de la ONU vota la resolución de Cuba contra el embargo"
     },
     {
       "cuando": "29 oct",
-      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU.; cierra el pleno del Partido Comunista de China"
+      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU."
     },
     {
-      "cuando": "31 oct",
-      "texto": "Nueva jornada nacional de protestas en Francia"
+      "cuando": "1 nov",
+      "texto": "Gran Premio de México de F1; arranca la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov)"
     },
     {
       "cuando": "3 nov",
