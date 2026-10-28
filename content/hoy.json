@@ -1,38 +1,38 @@
 {
   "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:50 h",
   "ciudad": "CDMX",
-  "temp": 12,
-  "mercados_nota": "Dólar/peso: apertura del martes 27 oct; resto: cierre del lunes 26 oct (Nasdaq: Nasdaq 100); temperatura: mínima prevista por el SMN",
+  "temp": 24,
+  "mercados_nota": "Dólar/peso, Dow Jones, S&P 500, Nasdaq 100 y Brent: cierre del martes 27 oct; euro, oro y bitcoin: dato previo; temperatura: máxima prevista por el SMN",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.62",
-      "cambio": "+0.26%",
+      "valor": "18.68",
+      "cambio": "+0.55%",
       "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,361",
-      "cambio": "+0.28%",
+      "valor": "52,378",
+      "cambio": "+0.03%",
       "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,676",
-      "cambio": "+0.70%",
+      "valor": "7,723",
+      "cambio": "+0.60%",
       "nivel": "sube"
     },
     {
       "nombre": "Nasdaq 100",
-      "valor": "26,169",
-      "cambio": "+0.82%",
+      "valor": "26,478",
+      "cambio": "+1.18%",
       "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "110.15 USD",
-      "cambio": "-0.53%",
+      "valor": "113.88 USD",
+      "cambio": "-1.67%",
       "nivel": "baja"
     },
     {
@@ -57,7 +57,7 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Elecciones parlamentarias en Israel; cumbre de países exportadores de gas en Moscú; cuarto juego de la Serie Mundial"
+      "texto": "Cuarto juego de la Serie Mundial (Cerveceros ganan 3-0); continúa el recuento de votos en Israel"
     },
     {
       "cuando": "28 oct",
