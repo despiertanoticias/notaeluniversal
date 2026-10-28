@@ -1,15 +1,15 @@
 {
-  "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Miércoles 28 de octubre de 2026",
+  "actualizado": "06:50 h",
   "ciudad": "CDMX",
   "temp": 24,
-  "mercados_nota": "Dólar/peso, Dow Jones, S&P 500, Nasdaq 100 y Brent: cierre del martes 27 oct; euro, oro y bitcoin: dato previo; temperatura: máxima prevista por el SMN",
+  "mercados_nota": "Dólar/peso: apertura del miércoles 28 oct; Dow Jones, S&P 500, Nasdaq 100 y Brent: cierre del martes 27 oct; euro, oro y bitcoin: dato previo; temperatura: máxima prevista",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.68",
-      "cambio": "+0.55%",
-      "nivel": "sube"
+      "valor": "18.63",
+      "cambio": "-0.24%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
@@ -57,11 +57,11 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Cuarto juego de la Serie Mundial (Cerveceros ganan 3-0); continúa el recuento de votos en Israel"
+      "texto": "Decisión de tasas de la Reserva Federal; la ONU vota la resolución de Cuba contra el embargo; quinto juego de la Serie Mundial (Cerveceros 3-1)"
     },
     {
-      "cuando": "28 oct",
-      "texto": "Decisión de tasas de la Reserva Federal; la Asamblea General de la ONU vota la resolución de Cuba contra el embargo"
+      "cuando": "28-29 oct",
+      "texto": "Tercera cumbre Rusia-África en Moscú"
     },
     {
       "cuando": "29 oct",
