@@ -1,39 +1,39 @@
 {
   "fecha": "Miércoles 28 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:40 h",
   "ciudad": "CDMX",
   "temp": 24,
-  "mercados_nota": "Dólar/peso: apertura del miércoles 28 oct; Dow Jones, S&P 500, Nasdaq 100 y Brent: cierre del martes 27 oct; euro, oro y bitcoin: dato previo; temperatura: máxima prevista",
+  "mercados_nota": "Dólar/peso, Dow Jones, S&P 500 y Nasdaq Composite: cierre del miércoles 28 oct; Brent, oro y bitcoin: cierre europeo del 28 oct; euro: dato previo; temperatura: máxima prevista",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.63",
-      "cambio": "-0.24%",
+      "valor": "18.64",
+      "cambio": "-0.21%",
       "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,378",
-      "cambio": "+0.03%",
+      "valor": "52,504",
+      "cambio": "+0.24%",
       "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,723",
-      "cambio": "+0.60%",
+      "valor": "7,748",
+      "cambio": "+0.33%",
       "nivel": "sube"
     },
     {
-      "nombre": "Nasdaq 100",
-      "valor": "26,478",
-      "cambio": "+1.18%",
+      "nombre": "Nasdaq",
+      "valor": "26,561",
+      "cambio": "+0.32%",
       "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "113.88 USD",
-      "cambio": "-1.67%",
-      "nivel": "baja"
+      "valor": "116.25 USD",
+      "cambio": "+2.08%",
+      "nivel": "sube"
     },
     {
       "nombre": "Euro / dólar",
@@ -43,29 +43,25 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,026 USD",
-      "cambio": "-0.29%",
-      "nivel": "baja"
+      "valor": "4,066 USD",
+      "cambio": "+0.21%",
+      "nivel": "sube"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "79,909 USD",
-      "cambio": "-0.71%",
-      "nivel": "baja"
+      "valor": "81,124 USD",
+      "cambio": "+0.56%",
+      "nivel": "sube"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Decisión de tasas de la Reserva Federal; la ONU vota la resolución de Cuba contra el embargo; quinto juego de la Serie Mundial (Cerveceros 3-1)"
-    },
-    {
-      "cuando": "28-29 oct",
-      "texto": "Tercera cumbre Rusia-África en Moscú"
+      "texto": "Quinto juego de la Serie Mundial (Cerveceros 3-1)"
     },
     {
       "cuando": "29 oct",
-      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU."
+      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU.; resultados de Amazon; cierra la cumbre Rusia-África en Moscú"
     },
     {
       "cuando": "1 nov",
@@ -74,6 +70,10 @@
     {
       "cuando": "3 nov",
       "texto": "Elecciones intermedias en Estados Unidos"
+    },
+    {
+      "cuando": "4-5 nov",
+      "texto": "Resultados oficiales de las elecciones en Israel (4 nov); XXX Cumbre Iberoamericana en Madrid"
     }
   ]
 }
