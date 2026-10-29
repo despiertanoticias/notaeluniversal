@@ -1,14 +1,14 @@
 {
-  "fecha": "Miércoles 28 de octubre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Jueves 29 de octubre de 2026",
+  "actualizado": "07:00 h",
   "ciudad": "CDMX",
   "temp": 24,
-  "mercados_nota": "Dólar/peso, Dow Jones, S&P 500 y Nasdaq Composite: cierre del miércoles 28 oct; Brent, oro y bitcoin: cierre europeo del 28 oct; euro: dato previo; temperatura: máxima prevista",
+  "mercados_nota": "Dólar/peso, Dow Jones, S&P 500 y Nasdaq Composite: cierre del miércoles 28 oct; Brent: jueves 29 oct en Asia; euro, oro y bitcoin: dato previo; temperatura: máxima prevista (24-26 °C, SMN)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.64",
-      "cambio": "-0.21%",
+      "valor": "18.62",
+      "cambio": "-0.24%",
       "nivel": "baja"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "116.25 USD",
-      "cambio": "+2.08%",
-      "nivel": "sube"
+      "valor": "110.32 USD",
+      "cambio": "-1.20%",
+      "nivel": "baja"
     },
     {
       "nombre": "Euro / dólar",
@@ -57,11 +57,11 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Quinto juego de la Serie Mundial (Cerveceros 3-1)"
+      "texto": "Decisión de tasas del BCE; PIB del tercer trimestre de EE.UU.; resultados de Amazon e Intel; cierra la cumbre Rusia-África en Moscú"
     },
     {
-      "cuando": "29 oct",
-      "texto": "Decisión de tasas del Banco Central Europeo; PIB del tercer trimestre de EE.UU.; resultados de Amazon; cierra la cumbre Rusia-África en Moscú"
+      "cuando": "30 oct",
+      "texto": "Decisión del Banco de Japón; termina la cumbre Canadá-UE en Montreal"
     },
     {
       "cuando": "1 nov",
