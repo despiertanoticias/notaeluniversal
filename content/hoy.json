@@ -1,38 +1,38 @@
 {
   "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "18:45 h",
   "ciudad": "CDMX",
   "temp": 24,
-  "mercados_nota": "Dólar/peso, Dow Jones, S&P 500 y Nasdaq Composite: cierre del miércoles 28 oct; Brent: jueves 29 oct en Asia; euro, oro y bitcoin: dato previo; temperatura: máxima prevista (24-26 °C, SMN)",
+  "mercados_nota": "Dólar/peso, Dow Jones, S&P 500, Nasdaq Composite y Brent: cierre del jueves 29 oct; euro, oro y bitcoin: dato previo; temperatura: máxima prevista (dato previo, SMN)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.62",
-      "cambio": "-0.24%",
-      "nivel": "baja"
+      "valor": "18.83",
+      "cambio": "+1.05%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,504",
-      "cambio": "+0.24%",
-      "nivel": "sube"
+      "valor": "52,342",
+      "cambio": "-0.25%",
+      "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,748",
-      "cambio": "+0.33%",
-      "nivel": "sube"
+      "valor": "7,720",
+      "cambio": "-0.30%",
+      "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "26,561",
-      "cambio": "+0.32%",
-      "nivel": "sube"
+      "valor": "26,184",
+      "cambio": "-1.38%",
+      "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "110.32 USD",
-      "cambio": "-1.20%",
+      "valor": "114.88 USD",
+      "cambio": "-0.38%",
       "nivel": "baja"
     },
     {
@@ -56,16 +56,12 @@
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Decisión de tasas del BCE; PIB del tercer trimestre de EE.UU.; resultados de Amazon e Intel; cierra la cumbre Rusia-África en Moscú"
-    },
-    {
       "cuando": "30 oct",
-      "texto": "Decisión del Banco de Japón; termina la cumbre Canadá-UE en Montreal"
+      "texto": "Decisión del Banco de Japón; termina la cumbre Canadá-UE en Montreal; arrancan las prácticas del GP de México"
     },
     {
       "cuando": "1 nov",
-      "texto": "Gran Premio de México de F1; arranca la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov)"
+      "texto": "Gran Premio de México de F1, carrera 300 de Checo Pérez; arranca la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov)"
     },
     {
       "cuando": "3 nov",
@@ -73,7 +69,11 @@
     },
     {
       "cuando": "4-5 nov",
-      "texto": "Resultados oficiales de las elecciones en Israel (4 nov); XXX Cumbre Iberoamericana en Madrid"
+      "texto": "XXX Cumbre Iberoamericana en Madrid; audiencia del caso Villavicencio en Ecuador (5 nov)"
+    },
+    {
+      "cuando": "Próx. semana",
+      "texto": "Herzog recibe los resultados oficiales de las elecciones en Israel e inicia consultas para formar gobierno"
     }
   ]
 }
