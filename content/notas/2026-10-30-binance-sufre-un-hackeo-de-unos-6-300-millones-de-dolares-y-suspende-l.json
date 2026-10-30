@@ -1,0 +1,22 @@
+{
+  "titulo": "Binance sufre un hackeo de unos 6,300 millones de dólares y suspende los retiros",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-30T06:59",
+  "resumen": "La plataforma de criptomonedas Binance informó que un intruso entró a sus sistemas, posiblemente a través de la computadora de un ingeniero, y realizó retiros no autorizados. Primero calculó el daño en 3,000 millones de dólares y luego lo elevó a cerca de 6,300 millones. La empresa dice que los fondos de los usuarios están a salvo, que cubrirá las pérdidas con su fondo de protección SAFU y que prevé reanudar los retiros en 45 horas; Tether y Circle congelaron unos 3,000 millones en activos. El bitcoin bajó a alrededor de 77,500 dólares.",
+  "cuerpo": "",
+  "imagen_tema": "bitcoin",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/tecno/2026/10/30/binance-admitio-que-recibio-un-ataque-complejo-y-aseguro-que-los-fondos-de-los-clientes-estan-a-salvo/"
+    },
+    {
+      "medio": "El Cronista",
+      "enlace": "https://www.cronista.com/finanzas-mercados/binance-sufrio-un-hackeo-por-us-6300-millones-suspendio-sus-retiros-en-el-que-seria-el-mayor-robo-cripto-de-la-historia/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}
