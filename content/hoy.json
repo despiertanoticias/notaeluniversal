@@ -1,38 +1,38 @@
 {
   "fecha": "Viernes 30 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:30 h",
   "ciudad": "CDMX",
   "temp": 24,
-  "mercados_nota": "Dólar/peso: apertura del viernes 30 oct; Brent y bitcoin: mañana del viernes 30 oct; euro: referencia del 30 oct; Dow Jones, S&P 500 y Nasdaq: cierre del jueves 29 oct; oro: dato previo; temperatura: dato previo (SMN)",
+  "mercados_nota": "Dólar/peso: cierre del viernes 30 oct (Banxico); Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 30 oct; euro, oro y bitcoin: datos previos; temperatura: dato previo (SMN)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.88",
-      "cambio": "+0.09%",
-      "nivel": "sube"
+      "valor": "18.80",
+      "cambio": "-0.18%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,342",
-      "cambio": "-0.25%",
+      "valor": "51,770",
+      "cambio": "-1.09%",
       "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,720",
-      "cambio": "-0.30%",
+      "valor": "7,580",
+      "cambio": "-1.82%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "26,184",
-      "cambio": "-1.38%",
+      "valor": "25,436",
+      "cambio": "-2.86%",
       "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "113.51 USD",
-      "cambio": "+2.5%",
+      "valor": "117.64 USD",
+      "cambio": "+2.4%",
       "nivel": "sube"
     },
     {
@@ -56,8 +56,8 @@
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Reunión de cancilleres del G20 en Atlanta (30-31 oct); el Consejo de Seguridad de la ONU vota la renovación de la MINURSO; prácticas libres del GP de México"
+      "cuando": "31 oct",
+      "texto": "Segundo día de la reunión de cancilleres del G20 en Atlanta; vence el mandato de la MINURSO sin renovación"
     },
     {
       "cuando": "1 nov",
@@ -72,8 +72,8 @@
       "texto": "XXX Cumbre Iberoamericana en Madrid; audiencia del caso Villavicencio en Ecuador (5 nov)"
     },
     {
-      "cuando": "9 nov",
-      "texto": "Nóvaya Gazeta cierra su redacción en Moscú"
+      "cuando": "8-11 nov",
+      "texto": "Visita del papa León XIV a Argentina"
     }
   ]
 }

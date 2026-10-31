@@ -1,0 +1,22 @@
+{
+  "titulo": "Firmas de rastreo atribuyen el robo a Binance a hackers de Corea del Norte",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-30T18:19",
+  "resumen": "TRM Labs atribuyó con alto grado de confianza el ataque contra Binance a TraderTraitor, unidad norcoreana vinculada al grupo Lazarus, y el director de Chainalysis, Jonathan Levin, apuntó en la misma dirección. Según TRM, el atacante movió unos 6,360 millones de dólares desde billeteras de la plataforma en diez cadenas de bloques, la mayor parte en unos 20 minutos. Binance dice que no halló filtración de claves privadas y que colabora con las autoridades.",
+  "cuerpo": "",
+  "imagen_tema": "bitcoin",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Reporte Asia",
+      "enlace": "https://reporteasia.com/destacado/2026/10/30/corea-norte-bajo-sospecha-hackeo-usd-6-000-millones-binance/"
+    },
+    {
+      "medio": "Bitcoin.com News",
+      "enlace": "https://news.bitcoin.com/security/binance-hack-north-korea-lazarus-tradertraitor/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
