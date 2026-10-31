@@ -1,9 +1,9 @@
 {
-  "fecha": "Viernes 30 de octubre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Sábado 31 de octubre de 2026",
+  "actualizado": "06:45 h",
   "ciudad": "CDMX",
-  "temp": 24,
-  "mercados_nota": "Dólar/peso: cierre del viernes 30 oct (Banxico); Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 30 oct; euro, oro y bitcoin: datos previos; temperatura: dato previo (SMN)",
+  "temp": 12,
+  "mercados_nota": "Mercados cerrados en fin de semana. Dólar/peso: cierre del viernes 30 oct (Banxico); Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 30 oct; euro, oro y bitcoin: datos previos; temperatura: mínima pronosticada para el sábado 31 oct",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -56,12 +56,12 @@
   ],
   "agenda": [
     {
-      "cuando": "31 oct",
-      "texto": "Segundo día de la reunión de cancilleres del G20 en Atlanta; vence el mandato de la MINURSO sin renovación"
+      "cuando": "Hoy",
+      "texto": "Zelenski se reúne con Erdogan en Estambul; cierra la reunión de cancilleres del G20 en Atlanta; Gran Desfile de Día de Muertos en la CDMX (14:00)"
     },
     {
       "cuando": "1 nov",
-      "texto": "Gran Premio de México de F1, carrera 300 de Checo Pérez; arranca la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov)"
+      "texto": "Gran Premio de México de F1; arranca la cumbre de la Commonwealth en Antigua y Barbuda; la UE empieza a cobrar 2 euros por paquete importado"
     },
     {
       "cuando": "3 nov",
@@ -69,7 +69,7 @@
     },
     {
       "cuando": "4-5 nov",
-      "texto": "XXX Cumbre Iberoamericana en Madrid; audiencia del caso Villavicencio en Ecuador (5 nov)"
+      "texto": "XXX Cumbre Iberoamericana en Madrid; huelga general en Francia (5 nov)"
     },
     {
       "cuando": "8-11 nov",
