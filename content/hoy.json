@@ -1,9 +1,9 @@
 {
-  "fecha": "Sábado 31 de octubre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Domingo 1 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "ciudad": "CDMX",
-  "temp": 25,
-  "mercados_nota": "Mercados cerrados en fin de semana. Dólar/peso: cierre del viernes 30 oct (Banxico); Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 30 oct; euro, oro y bitcoin: datos previos; temperatura: máxima pronosticada por el SMN para el sábado 31 oct (25 a 27 °C)",
+  "temp": 6,
+  "mercados_nota": "Mercados cerrados en fin de semana. Dólar/peso: cierre del viernes 30 oct (Banxico); Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 30 oct; euro, oro y bitcoin: datos previos; temperatura: mínima pronosticada por el SMN para el amanecer del domingo 1 nov (4 a 6 °C; máxima de 25 a 27 °C)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -56,8 +56,8 @@
   ],
   "agenda": [
     {
-      "cuando": "1 nov",
-      "texto": "Gran Premio de México de F1 (14:00); arranca la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov); la UE empieza a cobrar 2 euros por paquete importado"
+      "cuando": "Hoy",
+      "texto": "Gran Premio de México de F1 (14:00); segunda vuelta presidencial en Bulgaria; arranca la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov); reunión virtual de la OPEP+"
     },
     {
       "cuando": "3 nov",
@@ -72,8 +72,8 @@
       "texto": "Visita del papa León XIV a Argentina"
     },
     {
-      "cuando": "29 nov",
-      "texto": "Conferencia ministerial de la OPEP+"
+      "cuando": "9-20 nov",
+      "texto": "COP31, cumbre del clima de la ONU en Antalya, Turquía"
     }
   ]
 }
