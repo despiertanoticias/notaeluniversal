@@ -1,0 +1,22 @@
+{
+  "titulo": "Hackean la app de alertas antiaéreas de Ucrania con falsos avisos nucleares y químicos",
+  "seccion": "mundo",
+  "fecha": "2026-11-02T06:51",
+  "resumen": "La Fuerza Aérea ucraniana informó que la aplicación oficial Air Alert fue probablemente comprometida por el enemigo la noche del domingo, cuando usuarios de todo el país recibieron falsas alertas de amenaza nuclear, química y de combates callejeros. Aclaró que no hay riesgo de radiación. Moscú, por su parte, dijo que su propia aplicación de alertas difundió \"información falsa\".",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Kyiv Independent",
+      "enlace": "https://kyivindependent.com/ukraines-air-raid-alert-system-hacked-air-force-says-as-false-nuclear-chemical-warnings-sound/"
+    },
+    {
+      "medio": "Al Jazeera",
+      "enlace": "https://www.aljazeera.com/news/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
