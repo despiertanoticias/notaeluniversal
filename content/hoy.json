@@ -1,9 +1,9 @@
 {
   "fecha": "Domingo 1 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:30 h",
   "ciudad": "CDMX",
   "temp": 6,
-  "mercados_nota": "Mercados cerrados en fin de semana. Dólar/peso: cierre del viernes 30 oct (Banxico); Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 30 oct; euro, oro y bitcoin: datos previos; temperatura: mínima pronosticada por el SMN para el amanecer del domingo 1 nov (4 a 6 °C; máxima de 25 a 27 °C)",
+  "mercados_nota": "Mercados cerrados en fin de semana. Dólar/peso: cierre del viernes 30 oct (Banxico); Dow Jones, S&P 500, Nasdaq y Brent: cierre del viernes 30 oct; euro, oro y bitcoin: datos previos; temperatura: mínima pronosticada por el SMN para el amanecer del domingo 1 nov (no se encontró una lectura actual)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -57,7 +57,7 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Gran Premio de México de F1 (14:00); segunda vuelta presidencial en Bulgaria; arranca la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov); reunión virtual de la OPEP+"
+      "texto": "Sigue la cumbre de la Commonwealth en Antigua y Barbuda (1-4 nov); a las 22:59 hora local vence la tregua en el frente de Jersón, Ucrania"
     },
     {
       "cuando": "3 nov",
@@ -65,7 +65,7 @@
     },
     {
       "cuando": "4-5 nov",
-      "texto": "XXX Cumbre Iberoamericana en Madrid; huelga general en Francia (5 nov)"
+      "texto": "XXX Cumbre Iberoamericana en Madrid; Herzog inicia consultas para formar gobierno en Israel (4 nov); huelga general en Francia (5 nov)"
     },
     {
       "cuando": "8-11 nov",
