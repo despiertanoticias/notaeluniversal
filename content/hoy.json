@@ -1,9 +1,9 @@
 {
-  "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "18:35 h",
+  "fecha": "Martes 3 de noviembre de 2026",
+  "actualizado": "06:35 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Dólar/peso y euro/peso: cierre del lunes 2 nov (Infobae, con datos de Dow Jones); Dow Jones, S&P 500 y Nasdaq: cierre del lunes 2 nov (EFE); Brent: cierre del lunes 2 nov, contrato de enero (EFE); bitcoin: lunes 2 nov (La Nación); oro: dato previo; temperatura: mínima pronosticada para la CDMX (no se encontró una lectura actual; el SMN prevé máximas de 26 a 28 °C el lunes 2 nov)",
+  "mercados_nota": "Dólar/peso y euro/peso: cierre del lunes 2 nov (Infobae); Dow Jones, S&P 500 y Nasdaq: cierre del lunes 2 nov (EFE); Brent: martes 3 nov, 09:36 GMT (Infobae); oro y bitcoin: martes 3 nov por la mañana (Yahoo Finance); temperatura: dato previo (no se encontró una lectura actual del SMN para la CDMX)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -31,9 +31,9 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "104.77 USD",
-      "cambio": "-7.63%",
-      "nivel": "baja"
+      "valor": "106.60 USD",
+      "cambio": "+1.80%",
+      "nivel": "sube"
     },
     {
       "nombre": "Euro / peso",
@@ -43,33 +43,33 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,066 USD",
-      "cambio": "+0.21%",
-      "nivel": "sube"
+      "valor": "3,913 USD",
+      "cambio": "-1.43%",
+      "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "78,804 USD",
-      "cambio": "+1.19%",
-      "nivel": "sube"
+      "valor": "76,952 USD",
+      "cambio": "-0.93%",
+      "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "Mañana",
-      "texto": "Elecciones intermedias en Estados Unidos: se renuevan las 435 bancas de la Cámara, 35 del Senado y 36 gubernaturas"
+      "cuando": "Hoy",
+      "texto": "Elecciones intermedias en EE.UU.: se votan las 435 bancas de la Cámara, 35 del Senado y 36 gubernaturas"
     },
     {
-      "cuando": "3 nov",
-      "texto": "España aprueba el real decreto de ayudas a las víctimas del choque de trenes de Urda; el ministro Óscar Puente comparece en el Congreso"
+      "cuando": "Hoy, 12:00",
+      "texto": "Se anuncia el Premio Cervantes 2026 en Madrid"
     },
     {
       "cuando": "4-5 nov",
       "texto": "XXX Cumbre Iberoamericana en Madrid; huelga general en Francia (5 nov)"
     },
     {
-      "cuando": "8-11 nov",
-      "texto": "Visita del papa León XIV a Argentina"
+      "cuando": "10-11 nov",
+      "texto": "Negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
     },
     {
       "cuando": "9-20 nov",
