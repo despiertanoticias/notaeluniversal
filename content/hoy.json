@@ -1,45 +1,45 @@
 {
   "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:35 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Dólar/peso: apertura del lunes 2 nov (Infobae); Brent y euro/dólar: operaciones tempranas del lunes 2 nov (AP); Dow Jones, S&P 500 y Nasdaq: cierre del viernes 30 oct (los futuros suben el lunes); oro y bitcoin: datos previos; temperatura: mínima pronosticada para la CDMX el lunes 2 nov (no se encontró una lectura actual)",
+  "mercados_nota": "Dólar/peso y euro/peso: cierre del lunes 2 nov (Infobae, con datos de Dow Jones); Dow Jones, S&P 500 y Nasdaq: cierre del lunes 2 nov (EFE); Brent: cierre del lunes 2 nov, contrato de enero (EFE); bitcoin: lunes 2 nov (La Nación); oro: dato previo; temperatura: mínima pronosticada para la CDMX (no se encontró una lectura actual; el SMN prevé máximas de 26 a 28 °C el lunes 2 nov)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.74",
-      "cambio": "-0.26%",
+      "valor": "18.57",
+      "cambio": "-1.19%",
       "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "51,770",
-      "cambio": "-1.09%",
-      "nivel": "baja"
+      "valor": "51,983",
+      "cambio": "+0.41%",
+      "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,580",
-      "cambio": "-1.82%",
+      "valor": "7,541",
+      "cambio": "-0.51%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,436",
-      "cambio": "-2.86%",
+      "valor": "25,164",
+      "cambio": "-1.07%",
       "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "109.66 USD",
-      "cambio": "-3.3%",
+      "valor": "104.77 USD",
+      "cambio": "-7.63%",
       "nivel": "baja"
     },
     {
-      "nombre": "Euro / dólar",
-      "valor": "1.1172",
-      "cambio": "+0.11%",
-      "nivel": "sube"
+      "nombre": "Euro / peso",
+      "valor": "20.79",
+      "cambio": "-1.46%",
+      "nivel": "baja"
     },
     {
       "nombre": "Oro",
@@ -49,19 +49,19 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "77,695 USD",
-      "cambio": "-3%",
-      "nivel": "baja"
+      "valor": "78,804 USD",
+      "cambio": "+1.19%",
+      "nivel": "sube"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Trump cierra la campaña de las intermedias en Washington; Rubio recibe al canciller venezolano Oliver Blanco; Apple presenta resultados"
+      "cuando": "Mañana",
+      "texto": "Elecciones intermedias en Estados Unidos: se renuevan las 435 bancas de la Cámara, 35 del Senado y 36 gubernaturas"
     },
     {
       "cuando": "3 nov",
-      "texto": "Elecciones intermedias en Estados Unidos: se renuevan las 435 bancas de la Cámara y 35 del Senado"
+      "texto": "España aprueba el real decreto de ayudas a las víctimas del choque de trenes de Urda; el ministro Óscar Puente comparece en el Congreso"
     },
     {
       "cuando": "4-5 nov",
