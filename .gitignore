@@ -1,2 +1,7 @@
 node_modules/
 .DS_Store
+
+# Generados en cada build por scripts/build.mjs
+/notas/
+/sitemap.xml
+/_redirects

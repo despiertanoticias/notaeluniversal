@@ -31,3 +31,8 @@ mundo, mexico, politica, economia, tecnologia, ciencia, salud, deportes, entrete
 - Comando de build: `node scripts/build.mjs`
 - Carpeta de publicación: `.` (la raíz)
 - Dominio: `notaeluniversal.com` (con `www.` redirigiendo al dominio principal)
+
+## Páginas estáticas por nota
+
+- `scripts/paginas.mjs` — en el mismo build genera una página HTML estática por nota en `/notas/<slug>/` (slug tomado del titular), `sitemap.xml` y `_redirects` (301 de `nota.html?id=…` a la URL nueva). Esos archivos no se versionan.
+- Campo `"patrocinado": true` en una nota — muestra la etiqueta «Contenido patrocinado» y marca sus enlaces con `rel="sponsored noopener"`.

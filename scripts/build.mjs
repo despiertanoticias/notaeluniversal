@@ -2,6 +2,8 @@
 // en assets/datos.js, que lee el sitio. Netlify lo ejecuta en cada publicación.
 import fs from "node:fs";
 import path from "node:path";
+import crypto from "node:crypto";
+import { asignarSlugs, generar } from "./paginas.mjs";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -31,7 +33,9 @@ for (const archivo of fs.readdirSync(CARPETA).filter(f => f.endsWith(".json"))) 
     cred: o.credito || "",
     src: (o.fuentes || []).filter(s => s && s.enlace).map(s => [s.medio || s.enlace, s.enlace]),
     dest: !!o.destacada,
-    a: o.autor || "Redacción La Nota Universal"
+    a: o.autor || "Redacción La Nota Universal",
+    p: !!o.patrocinado,
+    m: String(o.modificado || "").replace(" ", "T").slice(0, 16)
   });
 }
 if (errores.length) {
@@ -39,18 +43,15 @@ if (errores.length) {
   process.exit(1);
 }
 notas.sort((a, b) => (a.f < b.f ? 1 : a.f > b.f ? -1 : 0));
+asignarSlugs(notas);
 const hoy = JSON.parse(fs.readFileSync(path.join(RAIZ, "content/hoy.json"), "utf8"));
 const salida = "/* Generado por scripts/build.mjs — no editar a mano. */\n" +
   "window.NOTAS=" + JSON.stringify(notas.slice(0, MAX_NOTAS)) + ";\n" +
   "window.HOY=" + JSON.stringify(hoy) + ";\n";
 fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
 
-// sitemap.xml para buscadores
-const DOMINIO = "https://notaeluniversal.com";
-const xmlEsc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
-const urls = [`${DOMINIO}/`, `${DOMINIO}/privacy`, ...SECCIONES.map(c => `${DOMINIO}/seccion.html?s=${c}`),
-  ...notas.slice(0, MAX_NOTAS).map(n => `${DOMINIO}/nota.html?id=${encodeURIComponent(n.id)}`)];
-fs.writeFileSync(path.join(RAIZ, "sitemap.xml"),
-  '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
-  urls.map(u => `  <url><loc>${xmlEsc(u)}</loc></url>`).join("\n") + "\n</urlset>\n");
-console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas publicadas.`);
+// Páginas estáticas /notas/<slug>/, sitemap.xml y _redirects (301 desde nota.html?id=…)
+const huella = crypto.createHash("md5").update(salida).digest("hex").slice(0, 10);
+const paginas = generar(RAIZ, notas, new Set(notas.slice(0, MAX_NOTAS).map(n => n.id)), huella);
+
+console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas en datos.js, ${paginas} páginas en /notas/, sitemap.xml y _redirects.`);
