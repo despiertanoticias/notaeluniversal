@@ -1,0 +1,26 @@
+{
+  "titulo": "Cierran las primeras casillas en EE.UU.; Carolina del Norte amplía el horario por fallas técnicas",
+  "seccion": "mundo",
+  "fecha": "2026-11-03T18:59",
+  "resumen": "Las primeras urnas de las elecciones intermedias cerraron a las 18:00 (hora del Este) en partes de Indiana y Kentucky, y el cierre sigue de forma escalonada por el resto del país. En Carolina del Norte, la junta electoral alargó la votación en varios centros por problemas técnicos, por lo que sus resultados estatales se publicarán 45 minutos más tarde. Según AP, más de 54 millones de estadounidenses votaron por anticipado; los demócratas necesitan una ganancia neta de cuatro escaños para controlar el Senado, hoy con 53 republicanos y 47 demócratas.",
+  "cuerpo": "",
+  "imagen_tema": "capitolio_eeuu",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Fox News",
+      "enlace": "https://www.foxnews.com/live-news/election-day-results-11-3-2026"
+    },
+    {
+      "medio": "CBS News",
+      "enlace": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+    },
+    {
+      "medio": "La Nación",
+      "enlace": "https://www.lanacion.com.ar/estados-unidos/encuestas-de-salida-de-las-elecciones-en-estados-unidos-2026-y-quien-va-ganando-hoy-en-vivo-nid03112026/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}

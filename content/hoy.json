@@ -1,39 +1,39 @@
 {
   "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "06:35 h",
+  "actualizado": "18:55 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Dólar/peso y euro/peso: cierre del lunes 2 nov (Infobae); Dow Jones, S&P 500 y Nasdaq: cierre del lunes 2 nov (EFE); Brent: martes 3 nov, 09:36 GMT (Infobae); oro y bitcoin: martes 3 nov por la mañana (Yahoo Finance); temperatura: dato previo (no se encontró una lectura actual del SMN para la CDMX)",
+  "mercados_nota": "Dólar/peso: martes 3 nov, Bloomberg vía El Financiero; Dow Jones, S&P 500 y Nasdaq: cierre preliminar del martes 3 nov (Reuters vía MarketScreener); Brent: martes 3 nov por la tarde (El Financiero); euro/peso, oro y bitcoin: dato previo; temperatura: dato previo (no se encontró una lectura actual del SMN para la CDMX)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.57",
-      "cambio": "-1.19%",
-      "nivel": "baja"
+      "valor": "18.72",
+      "cambio": "+0.86%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "51,983",
-      "cambio": "+0.41%",
-      "nivel": "sube"
+      "valor": "51,782",
+      "cambio": "-0.40%",
+      "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,541",
-      "cambio": "-0.51%",
-      "nivel": "baja"
+      "valor": "7,568",
+      "cambio": "+0.35%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,164",
-      "cambio": "-1.07%",
-      "nivel": "baja"
+      "valor": "25,366",
+      "cambio": "+0.83%",
+      "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "106.60 USD",
-      "cambio": "+1.80%",
-      "nivel": "sube"
+      "valor": "103.90 USD",
+      "cambio": "-0.83%",
+      "nivel": "baja"
     },
     {
       "nombre": "Euro / peso",
@@ -57,23 +57,23 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Elecciones intermedias en EE.UU.: se votan las 435 bancas de la Cámara, 35 del Senado y 36 gubernaturas"
-    },
-    {
-      "cuando": "Hoy, 12:00",
-      "texto": "Se anuncia el Premio Cervantes 2026 en Madrid"
+      "texto": "Cierre de casillas y conteo de votos de las elecciones intermedias en EE.UU."
     },
     {
       "cuando": "4-5 nov",
       "texto": "XXX Cumbre Iberoamericana en Madrid; huelga general en Francia (5 nov)"
     },
     {
-      "cuando": "10-11 nov",
-      "texto": "Negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
+      "cuando": "6-17 nov",
+      "texto": "Viaje del papa León XIV a Uruguay, Argentina y Perú"
     },
     {
       "cuando": "9-20 nov",
       "texto": "COP31, cumbre del clima de la ONU en Antalya, Turquía"
+    },
+    {
+      "cuando": "10-11 nov",
+      "texto": "Negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
     }
   ]
 }

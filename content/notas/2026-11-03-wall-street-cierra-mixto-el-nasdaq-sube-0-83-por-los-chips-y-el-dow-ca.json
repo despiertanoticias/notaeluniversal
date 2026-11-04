@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street cierra mixto: el Nasdaq sube 0.83% por los chips y el Dow cae 0.40% por Apple",
+  "seccion": "economia",
+  "fecha": "2026-11-03T18:49",
+  "resumen": "Según datos preliminares de Reuters, el S&P 500 ganó 0.35% hasta 7,568 puntos y el Nasdaq avanzó 0.83% a 25,365, impulsados por fabricantes de chips como Micron y Nvidia. El Dow Jones retrocedió 0.40% a 51,782 unidades, lastrado por Apple, que advirtió que el alza del costo de los chips de memoria presionará su margen. En México, el S&P/BMV IPC subió 0.52% a 70,143 puntos.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "MarketScreener / Reuters",
+      "enlace": "https://es.marketscreener.com/noticias/s-p-500-y-nasdaq-suben-a-la-espera-de-los-resultados-de-las-elecciones-de-eeuu-apple-cae-ce785fdedb80f122"
+    },
+    {
+      "medio": "Azteca Noticias",
+      "enlace": "https://www.tvazteca.com/aztecanoticias/cierre-bolsa-mexicana-valores-bmv-hoy-3-noviembre-2026-por-elecciones-eu"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
