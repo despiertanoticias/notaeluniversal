@@ -1,0 +1,22 @@
+{
+  "titulo": "Binance revela que el robo de 6,340 millones de dólares empezó con una falsa entrevista de trabajo",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-04T06:24",
+  "resumen": "Según la plataforma, en septiembre un ingeniero descargó en su equipo de trabajo una supuesta prueba técnica con código malicioso; los atacantes usaron después una herramienta interna de IA para tomar otras máquinas y, el 29 de octubre, hicieron transferencias no autorizadas. Binance asegura que restituyó 98% de los activos afectados. El FBI atribuye el ataque al grupo norcoreano TraderTraitor; Pionyang lo niega.",
+  "cuerpo": "",
+  "imagen_tema": "bitcoin",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "EFE vía Infobae",
+      "enlace": "https://www.infobae.com/america/agencias/2026/11/04/binance-revela-que-el-ciberataque-comenzo-con-falsas-entrevistas-laborales-a-empleados/"
+    },
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/economia/2026/11/03/con-falsas-entrevistas-de-trabajo-asi-fue-como-hackers-se-robaron-6-mil-mdd-a-binance/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

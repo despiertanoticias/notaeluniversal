@@ -1,0 +1,22 @@
+{
+  "titulo": "Los demócratas ganan el Senado y la Cámara de Representantes y arrebatan a Trump el control del Congreso",
+  "seccion": "mundo",
+  "fecha": "2026-11-04T06:41",
+  "resumen": "Según proyecciones de CBS News, el Partido Demócrata ganó la mayoría en las dos cámaras en las elecciones de medio mandato del 3 de noviembre. En el Senado le quitó a los republicanos escaños en Texas, Kansas, Ohio, Iowa, Carolina del Norte, Carolina del Sur y Maine; en la Cámara, unas 75 contiendas seguían sin definirse en la madrugada. En los sondeos a pie de urna, la aprobación de Trump fue de 38%.",
+  "cuerpo": "",
+  "imagen_tema": "capitolio_eeuu",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "CBS News",
+      "enlace": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+      "medio": "El Tiempo",
+      "enlace": "https://www.eltiempo.com/mundo/eeuu-y-canada/resultados-elecciones-intermedias-en-estados-unidos-democratas-derrotan-a-republicanos-y-toman-el-control-total-del-congreso-segun-proyecciones-3598282"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}

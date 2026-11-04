@@ -1,14 +1,14 @@
 {
-  "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Miércoles 4 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Dólar/peso: martes 3 nov, Bloomberg vía El Financiero; Dow Jones, S&P 500 y Nasdaq: cierre preliminar del martes 3 nov (Reuters vía MarketScreener); Brent: martes 3 nov por la tarde (El Financiero); euro/peso, oro y bitcoin: dato previo; temperatura: dato previo (no se encontró una lectura actual del SMN para la CDMX)",
+  "mercados_nota": "Dólar/peso: cierre del martes 3 nov (N+); oro: miércoles 4 nov por la mañana (Reuters vía La República); Dow Jones, S&P 500 y Nasdaq: cierre preliminar del martes 3 nov (Reuters vía MarketScreener), sin cifras confirmadas de futuros; Brent, euro/peso y bitcoin: dato previo; temperatura: dato previo (no se encontró una lectura actual del SMN para la CDMX)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.72",
-      "cambio": "+0.86%",
+      "valor": "18.86",
+      "cambio": "+1.60%",
       "nivel": "sube"
     },
     {
@@ -43,9 +43,9 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,913 USD",
-      "cambio": "-1.43%",
-      "nivel": "baja"
+      "valor": "4,047 USD",
+      "cambio": "+3.00%",
+      "nivel": "sube"
     },
     {
       "nombre": "Bitcoin",
@@ -57,11 +57,11 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Cierre de casillas y conteo de votos de las elecciones intermedias en EE.UU."
+      "texto": "XXX Cumbre Iberoamericana en Madrid y elecciones municipales en Sudáfrica"
     },
     {
-      "cuando": "4-5 nov",
-      "texto": "XXX Cumbre Iberoamericana en Madrid; huelga general en Francia (5 nov)"
+      "cuando": "5 nov",
+      "texto": "Decisión de política monetaria de Banxico; huelga general en Francia"
     },
     {
       "cuando": "6-17 nov",
