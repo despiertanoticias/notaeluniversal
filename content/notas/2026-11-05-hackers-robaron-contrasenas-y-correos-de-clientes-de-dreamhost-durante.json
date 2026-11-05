@@ -1,0 +1,18 @@
+{
+  "titulo": "Hackers robaron contraseñas y correos de clientes de DreamHost durante más de dos meses",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-05T06:37",
+  "resumen": "El proveedor de alojamiento web informó que los atacantes tuvieron acceso desde agosto hasta el 23 de octubre al servidor de su gestor de archivos, mediante una falla en un programa de terceros. Se expusieron credenciales FTP y SFTP y, en algunos casos, datos de webmail; la empresa dice que afectó a «muy por debajo del 10%» de las cuentas y que no se comprometieron datos de pago.",
+  "cuerpo": "",
+  "imagen_tema": "tech2",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/tecno/2026/11/05/hackers-roban-contrasenas-y-correos-de-clientes-de-dreamhost-durante-mas-de-dos-meses-sin-ser-detectados/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

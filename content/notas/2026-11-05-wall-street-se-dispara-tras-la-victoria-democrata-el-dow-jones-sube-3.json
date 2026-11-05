@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street se dispara tras la victoria demócrata: el Dow Jones sube 3% y cierra en 53,356 puntos",
+  "seccion": "economia",
+  "fecha": "2026-11-05T06:55",
+  "resumen": "Los tres grandes índices de Nueva York cerraron el miércoles con fuertes alzas después de que el partido de Trump perdiera el control del Congreso. El Dow Jones avanzó 3.03%, el S&P 500 1.58% hasta 7,688 puntos y el Nasdaq 1.44% hasta 25,736. El petróleo WTI cayó 8.3%, el oro subió 3.4% a 4,073 dólares la onza y el rendimiento del bono a 10 años bajó a 4.884%.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Gestión",
+      "enlace": "https://gestion.pe/mundo/eeuu/wall-street-cierra-al-alza-tras-victoria-de-los-democratas-en-las-elecciones-de-estados-unidos-noticia/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/04/wall-street-cerro-con-fuertes-ganancias-tras-el-triunfo-de-los-democratas-en-las-elecciones-en-estados-unidos-el-dow-se-disparo-mas-de-1500/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}

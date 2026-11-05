@@ -1,39 +1,39 @@
 {
-  "fecha": "Miércoles 4 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "fecha": "Jueves 5 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Dólar/peso: cierre del martes 3 nov (N+); oro: miércoles 4 nov por la mañana (Reuters vía La República); Dow Jones, S&P 500 y Nasdaq: cierre preliminar del martes 3 nov (Reuters vía MarketScreener), sin cifras confirmadas de futuros; Brent, euro/peso y bitcoin: dato previo; temperatura: dato previo (no se encontró una lectura actual del SMN para la CDMX)",
+  "mercados_nota": "Dólar/peso: cierre del miércoles 4 nov (Banxico vía N+); Dow Jones, S&P 500, Nasdaq y oro: cierre del miércoles 4 nov (Gestión); Brent: jueves 5 nov a media mañana en Londres (EFE); euro/peso y bitcoin: dato previo; temperatura: mínima pronosticada de 10 a 12 °C para la CDMX (SMN vía UnoTV)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.86",
-      "cambio": "+1.60%",
-      "nivel": "sube"
-    },
-    {
-      "nombre": "Dow Jones",
-      "valor": "51,782",
-      "cambio": "-0.40%",
+      "valor": "18.57",
+      "cambio": "-1.35%",
       "nivel": "baja"
     },
     {
+      "nombre": "Dow Jones",
+      "valor": "53,356",
+      "cambio": "+3.03%",
+      "nivel": "sube"
+    },
+    {
       "nombre": "S&P 500",
-      "valor": "7,568",
-      "cambio": "+0.35%",
+      "valor": "7,688",
+      "cambio": "+1.58%",
       "nivel": "sube"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,366",
-      "cambio": "+0.83%",
+      "valor": "25,736",
+      "cambio": "+1.44%",
       "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "103.90 USD",
-      "cambio": "-0.83%",
-      "nivel": "baja"
+      "valor": "96.03 USD",
+      "cambio": "+1.50%",
+      "nivel": "sube"
     },
     {
       "nombre": "Euro / peso",
@@ -43,8 +43,8 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,047 USD",
-      "cambio": "+3.00%",
+      "valor": "4,073 USD",
+      "cambio": "+3.40%",
       "nivel": "sube"
     },
     {
@@ -57,11 +57,7 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "XXX Cumbre Iberoamericana en Madrid y elecciones municipales en Sudáfrica"
-    },
-    {
-      "cuando": "5 nov",
-      "texto": "Decisión de política monetaria de Banxico; huelga general en Francia"
+      "texto": "Decisión de política monetaria de Banxico; huelga general en Francia; elecciones en Granada"
     },
     {
       "cuando": "6-17 nov",
@@ -72,8 +68,12 @@
       "texto": "COP31, cumbre del clima de la ONU en Antalya, Turquía"
     },
     {
-      "cuando": "10-11 nov",
-      "texto": "Negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
+      "cuando": "10 nov",
+      "texto": "Se reanudan las negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
+    },
+    {
+      "cuando": "13 nov",
+      "texto": "Amistoso Perú-Bolivia"
     }
   ]
 }
