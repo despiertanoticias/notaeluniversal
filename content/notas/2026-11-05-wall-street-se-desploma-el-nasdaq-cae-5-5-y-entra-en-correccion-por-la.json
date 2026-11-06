@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street se desploma: el Nasdaq cae 5.5% y entra en corrección por la venta masiva de acciones de chips e IA",
+  "seccion": "economia",
+  "fecha": "2026-11-05T18:39",
+  "resumen": "El Dow Jones perdió 1,833 puntos (3.44%) y cerró en 51,523; el S&P 500 bajó 4.36% a 7,353.73 y el Nasdaq 5.52% a 24,315, su peor jornada desde abril de 2025. El índice de semiconductores se hundió 12.25%: Micron y AMD retrocedieron más de 17% y Nvidia 9.26%. Analistas lo atribuyen a la toma de ganancias y al temor de que el Congreso demócrata frene la construcción de centros de datos para IA; UBS estima en riesgo cerca de 30% de los previstos para 2028.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Yahoo Finance",
+      "enlace": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+      "medio": "Stock Titan",
+      "enlace": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}

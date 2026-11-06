@@ -1,33 +1,33 @@
 {
   "fecha": "Jueves 5 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:40 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Dólar/peso: cierre del miércoles 4 nov (Banxico vía N+); Dow Jones, S&P 500, Nasdaq y oro: cierre del miércoles 4 nov (Gestión); Brent: jueves 5 nov a media mañana en Londres (EFE); euro/peso y bitcoin: dato previo; temperatura: mínima pronosticada de 10 a 12 °C para la CDMX (SMN vía UnoTV)",
+  "mercados_nota": "Dólar/peso: cierre del jueves 5 nov (Investing.com); Dow Jones, S&P 500, Nasdaq, oro y bitcoin: cierre del jueves 5 nov (Yahoo Finance); Brent y euro/peso: dato previo (las cotizaciones del jueves no coincidían entre fuentes); temperatura: dato previo (SMN)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.57",
-      "cambio": "-1.35%",
-      "nivel": "baja"
+      "valor": "18.76",
+      "cambio": "+0.78%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "53,356",
-      "cambio": "+3.03%",
-      "nivel": "sube"
+      "valor": "51,523",
+      "cambio": "-3.44%",
+      "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,688",
-      "cambio": "+1.58%",
-      "nivel": "sube"
+      "valor": "7,354",
+      "cambio": "-4.36%",
+      "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,736",
-      "cambio": "+1.44%",
-      "nivel": "sube"
+      "valor": "24,315",
+      "cambio": "-5.52%",
+      "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
@@ -43,25 +43,25 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,073 USD",
-      "cambio": "+3.40%",
-      "nivel": "sube"
+      "valor": "4,096 USD",
+      "cambio": "-0.42%",
+      "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "76,952 USD",
-      "cambio": "-0.93%",
+      "valor": "76,115 USD",
+      "cambio": "-5.41%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Decisión de política monetaria de Banxico; huelga general en Francia; elecciones en Granada"
-    },
-    {
       "cuando": "6-17 nov",
       "texto": "Viaje del papa León XIV a Uruguay, Argentina y Perú"
+    },
+    {
+      "cuando": "8 nov",
+      "texto": "Herzog prevé asignar el mandato para formar gobierno en Israel; resultados oficiales de las municipales en Sudáfrica"
     },
     {
       "cuando": "9-20 nov",
@@ -72,8 +72,8 @@
       "texto": "Se reanudan las negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
     },
     {
-      "cuando": "13 nov",
-      "texto": "Amistoso Perú-Bolivia"
+      "cuando": "16 nov",
+      "texto": "Anuncio de las nominaciones a los Grammy 2027"
     }
   ]
 }
