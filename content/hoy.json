@@ -1,9 +1,9 @@
 {
-  "fecha": "Jueves 5 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Viernes 6 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "ciudad": "CDMX",
-  "temp": 11,
-  "mercados_nota": "Dólar/peso: cierre del jueves 5 nov (Investing.com); Dow Jones, S&P 500, Nasdaq, oro y bitcoin: cierre del jueves 5 nov (Yahoo Finance); Brent y euro/peso: dato previo (las cotizaciones del jueves no coincidían entre fuentes); temperatura: dato previo (SMN)",
+  "temp": 12,
+  "mercados_nota": "Temperatura: mínima pronosticada de 11 a 13 °C para la mañana (UnoTV/SMN); Brent: viernes 6 nov a media mañana en Europa (Reuters vía RTÉ); Nikkei y Kospi: cierre del viernes 6 nov (TokenPost); dólar/peso, Dow Jones, S&P 500, Nasdaq, euro, oro y bitcoin: cierre del jueves 5 nov (dato previo)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -31,9 +31,21 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "96.03 USD",
-      "cambio": "+1.50%",
-      "nivel": "sube"
+      "valor": "97.55 USD",
+      "cambio": "-0.75%",
+      "nivel": "baja"
+    },
+    {
+      "nombre": "Nikkei 225",
+      "valor": "57,411",
+      "cambio": "-6.00%",
+      "nivel": "baja"
+    },
+    {
+      "nombre": "Kospi",
+      "valor": "5,060",
+      "cambio": "-6.02%",
+      "nivel": "baja"
     },
     {
       "nombre": "Euro / peso",
@@ -56,12 +68,12 @@
   ],
   "agenda": [
     {
-      "cuando": "6-17 nov",
-      "texto": "Viaje del papa León XIV a Uruguay, Argentina y Perú"
+      "cuando": "Hoy",
+      "texto": "EE.UU. publica su informe de empleo de octubre; el papa León XIV llega a Uruguay (gira hasta el 16 nov)"
     },
     {
       "cuando": "8 nov",
-      "texto": "Herzog prevé asignar el mandato para formar gobierno en Israel; resultados oficiales de las municipales en Sudáfrica"
+      "texto": "Herzog anuncia a quién encarga formar gobierno en Israel"
     },
     {
       "cuando": "9-20 nov",
@@ -72,8 +84,8 @@
       "texto": "Se reanudan las negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
     },
     {
-      "cuando": "16 nov",
-      "texto": "Anuncio de las nominaciones a los Grammy 2027"
+      "cuando": "14 y 17 nov",
+      "texto": "Jamaica-México y México-Jamaica, cuartos de final de la Liga de Naciones de Concacaf"
     }
   ]
 }
