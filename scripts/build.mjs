@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 import { asignarSlugs, generar } from "./paginas.mjs";
+import { agregarVivo } from "./vivo.mjs";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -55,3 +56,6 @@ const huella = crypto.createHash("md5").update(salida).digest("hex").slice(0, 10
 const paginas = generar(RAIZ, notas, new Set(notas.slice(0, MAX_NOTAS).map(n => n.id)), huella);
 
 console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas en datos.js, ${paginas} páginas en /notas/, sitemap.xml y _redirects.`);
+
+// Datos para assets/en-vivo.js (notas publicadas desde /admin sin volver a publicar).
+agregarVivo(RAIZ);

@@ -93,7 +93,7 @@ function pagina(n, IMG, conScripts, version) {
   const alt = (!n.foto && IMG[n.img] && IMG[n.img].alt) || n.t;
   const scripts = conScripts ? `<script src="/assets/imagenes.js"></script>
 <script src="/assets/datos.js${version ? "?v=" + version : ""}"></script>
-<script src="/assets/app.js"></script>
+<script src="/assets/en-vivo.js"></script><script src="/assets/app.js"></script>
 ` : "";
   return `<!doctype html>
 <html lang="es-MX">
