@@ -1,38 +1,38 @@
 {
   "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:45 h",
   "ciudad": "CDMX",
-  "temp": 12,
-  "mercados_nota": "Temperatura: mínima pronosticada de 11 a 13 °C para la mañana (UnoTV/SMN); Brent: viernes 6 nov a media mañana en Europa (Reuters vía RTÉ); Nikkei y Kospi: cierre del viernes 6 nov (TokenPost); dólar/peso, Dow Jones, S&P 500, Nasdaq, euro, oro y bitcoin: cierre del jueves 5 nov (dato previo)",
+  "temp": 22,
+  "mercados_nota": "Temperatura: 22 °C observados a las 14:00 (Meteored); dólar/peso: cierre del viernes 6 nov (Dow Jones vía Infobae); Dow Jones, S&P 500 y Nasdaq: cierre del viernes 6 nov (AP); Brent, oro y bitcoin: niveles al cierre de Wall Street del viernes 6 nov (Capp Notes); Nikkei y Kospi: cierre del viernes 6 nov (TokenPost); euro/peso: cierre del jueves 5 nov (dato previo)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.76",
-      "cambio": "+0.78%",
-      "nivel": "sube"
+      "valor": "18.62",
+      "cambio": "-0.71%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "51,523",
-      "cambio": "-3.44%",
+      "valor": "51,286",
+      "cambio": "-0.46%",
       "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,354",
-      "cambio": "-4.36%",
-      "nivel": "baja"
+      "valor": "7,377",
+      "cambio": "+0.31%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "24,315",
-      "cambio": "-5.52%",
-      "nivel": "baja"
+      "valor": "24,579",
+      "cambio": "+1.09%",
+      "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "97.55 USD",
-      "cambio": "-0.75%",
+      "valor": "97.79 USD",
+      "cambio": "-0.51%",
       "nivel": "baja"
     },
     {
@@ -55,33 +55,33 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,096 USD",
-      "cambio": "-0.42%",
+      "valor": "4,081 USD",
+      "cambio": "-0.79%",
       "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "76,115 USD",
-      "cambio": "-5.41%",
-      "nivel": "baja"
+      "valor": "75,943 USD",
+      "cambio": "≈0%",
+      "nivel": "igual"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "EE.UU. publica su informe de empleo de octubre; el papa León XIV llega a Uruguay (gira hasta el 16 nov)"
-    },
-    {
       "cuando": "8 nov",
-      "texto": "Herzog anuncia a quién encarga formar gobierno en Israel"
+      "texto": "Herzog anuncia a quién encarga formar gobierno en Israel; Gran Premio de Brasil de F1 en Interlagos"
     },
     {
-      "cuando": "9-20 nov",
-      "texto": "COP31, cumbre del clima de la ONU en Antalya, Turquía"
+      "cuando": "9 nov",
+      "texto": "Stephen Miller asume como jefe de gabinete de la Casa Blanca; arranca la COP31 en Antalya, Turquía (hasta el 20 nov)"
     },
     {
       "cuando": "10 nov",
-      "texto": "Se reanudan las negociaciones Rusia-Ucrania-EE.UU. en Abu Dabi"
+      "texto": "Se reanudan en Abu Dabi las negociaciones Rusia-Ucrania-EE.UU.; EE.UU. publica su inflación de octubre"
+    },
+    {
+      "cuando": "12-13 nov",
+      "texto": "Reunión informal de líderes de la UE en Dublín, con la sucesión de Lagarde en el BCE en la mesa"
     },
     {
       "cuando": "14 y 17 nov",
