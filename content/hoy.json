@@ -1,9 +1,9 @@
 {
-  "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Sábado 7 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "ciudad": "CDMX",
   "temp": 22,
-  "mercados_nota": "Temperatura: 22 °C observados a las 14:00 (Meteored); dólar/peso: cierre del viernes 6 nov (Dow Jones vía Infobae); Dow Jones, S&P 500 y Nasdaq: cierre del viernes 6 nov (AP); Brent, oro y bitcoin: niveles al cierre de Wall Street del viernes 6 nov (Capp Notes); Nikkei y Kospi: cierre del viernes 6 nov (TokenPost); euro/peso: cierre del jueves 5 nov (dato previo)",
+  "mercados_nota": "Mercados cerrados en fin de semana: se mantienen los cierres del viernes 6 nov. Temperatura: 22 °C observados a las 14:00 (Meteored); dólar/peso: cierre del viernes 6 nov (Dow Jones vía Infobae); Dow Jones, S&P 500 y Nasdaq: cierre del viernes 6 nov (AP); Brent, oro y bitcoin: niveles al cierre de Wall Street del viernes 6 nov (Capp Notes); Nikkei y Kospi: cierre del viernes 6 nov (TokenPost); euro/peso: cierre del jueves 5 nov (dato previo); temperatura: sin lectura actual disponible, se conserva el dato previo (pronóstico del sábado: mínima 10 °C, máxima 23 °C, Informador)",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -69,7 +69,7 @@
   "agenda": [
     {
       "cuando": "8 nov",
-      "texto": "Herzog anuncia a quién encarga formar gobierno en Israel; Gran Premio de Brasil de F1 en Interlagos"
+      "texto": "Herzog anuncia a quién encarga formar gobierno en Israel; Gran Premio de Brasil de F1 en Interlagos; León XIV llega a Argentina"
     },
     {
       "cuando": "9 nov",
