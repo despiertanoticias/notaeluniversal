@@ -1,0 +1,22 @@
+{
+  "titulo": "Un sismo de magnitud 5.7 sacude el centro de Japón y deja al menos 22 heridos",
+  "seccion": "mundo",
+  "fecha": "2026-11-07T18:31",
+  "resumen": "El temblor ocurrió a la 1:04 de la madrugada del domingo, hora local, con epicentro en la prefectura de Shizuoka y a unos 40 kilómetros de profundidad, según la Agencia Meteorológica de Japón; el Servicio Geológico de EE.UU. lo calculó en 5.5. La sacudida más fuerte se sintió en Aichi. Medios locales reportan al menos 22 heridos, algunos al caer por escaleras al huir, además de vidrios rotos y daños en edificios; los trenes bala redujeron su velocidad por precaución.",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "AP vía La Nación",
+      "enlace": "https://www.lanacion.com.ar/usa/a-strong-earthquake-with-a-preliminary-magnitude-of-57-strikes-japan-meteorological-agency-says-nid07112026/"
+    },
+    {
+      "medio": "ABC News",
+      "enlace": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
