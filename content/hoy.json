@@ -1,9 +1,9 @@
 {
-  "fecha": "Sábado 7 de noviembre de 2026",
-  "actualizado": "18:35 h",
+  "fecha": "Domingo 8 de noviembre de 2026",
+  "actualizado": "07:00 h",
   "ciudad": "CDMX",
   "temp": 22,
-  "mercados_nota": "Mercados cerrados en fin de semana: se mantienen los cierres del viernes 6 nov (dólar/peso vía Infobae; Dow Jones, S&P 500 y Nasdaq vía AP; Brent, oro y bitcoin al cierre de Wall Street del viernes; Nikkei y Kospi al cierre del viernes; euro/peso: dato previo). Temperatura: sin lectura actual disponible, se conserva el dato previo (pronóstico del sábado: máxima 23 °C, mínima 10 °C; domingo 23 °C / 12 °C, Informador).",
+  "mercados_nota": "Mercados cerrados en fin de semana: se mantienen los cierres del viernes 6 nov (dólar/peso vía Infobae; Dow Jones, S&P 500 y Nasdaq vía AP; Brent, oro y bitcoin al cierre de Wall Street del viernes; Nikkei y Kospi al cierre del viernes; euro/peso: dato previo). Temperatura: sin lectura actual disponible, se conserva el dato previo (pronóstico del domingo en la CDMX: máxima 24 °C, mínima 11 °C, con chubascos por la tarde; Informador y SMN vía UnoTV).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -68,20 +68,20 @@
   ],
   "agenda": [
     {
-      "cuando": "8 nov",
-      "texto": "Eisenkot recibe de Herzog el mandato para formar gobierno en Israel (17:00); GP de Brasil de F1; final del Masters de París Alcaraz-Shelton; León XIV llega a Argentina"
+      "cuando": "Hoy",
+      "texto": "León XIV llega a Buenos Aires (16:30 hora local) y se reúne con Milei; GP de Brasil de F1; final del Masters de París Alcaraz-Shelton; NFL en el Bernabéu: Bengals-Falcons; Sudáfrica declara resultados municipales"
     },
     {
       "cuando": "9 nov",
-      "texto": "Stephen Miller asume como jefe de gabinete de la Casa Blanca; arranca la COP31 en Antalya, Turquía (hasta el 20 nov)"
+      "texto": "Arranca la COP31 en Antalya, Turquía (hasta el 20 nov); Stephen Miller asume como jefe de gabinete de la Casa Blanca; feriado nacional en Argentina por la visita papal"
     },
     {
       "cuando": "10 nov",
-      "texto": "Se reanudan en Abu Dabi las negociaciones Rusia-Ucrania-EE.UU.; EE.UU. publica su inflación de octubre"
+      "texto": "Se reanudan en Abu Dabi las negociaciones Rusia-Ucrania-EE.UU.; EE.UU. publica su inflación de octubre; misa de León XIV en Córdoba"
     },
     {
       "cuando": "12-13 nov",
-      "texto": "Reunión informal de líderes de la UE en Dublín, con la sucesión de Lagarde en el BCE en la mesa"
+      "texto": "Reunión informal de líderes de la UE en Dublín, con la sucesión de Lagarde en el BCE en la mesa; el 13 arranca El Buen Fin en México (hasta el 17)"
     },
     {
       "cuando": "14 y 17 nov",
