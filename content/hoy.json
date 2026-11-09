@@ -1,14 +1,14 @@
 {
-  "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "18:25 h",
+  "fecha": "Lunes 9 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "ciudad": "CDMX",
-  "temp": 22,
-  "mercados_nota": "Mercados cerrados en fin de semana: se mantienen los cierres del viernes 6 nov (dólar/peso: cierre de 18.6194 según Reuters vía El Imparcial; Dow Jones, S&P 500 y Nasdaq vía AP; Brent, oro y bitcoin al cierre de Wall Street del viernes; Nikkei y Kospi al cierre del viernes; euro/peso: dato previo). Temperatura: sin lectura actual disponible, se conserva el dato previo (SMN vía UnoTV: máxima de 24 a 26 °C y mínima de 11 a 13 °C; alerta amarilla por frío de 4 a 6 °C en cuatro alcaldías la madrugada del lunes).",
+  "temp": 21,
+  "mercados_nota": "Lunes 9 nov, antes de la apertura de Wall Street: Dow Jones, S&P 500 y Nasdaq conservan el cierre del viernes 6 nov (los futuros suben, según Yahoo Finance). Dólar/peso: apertura de 18.56 según Dow Jones vía Infobae. Brent: 97.57 USD a las 10:11 GMT (Diario Neuquino). Nikkei y Kospi: cierre del lunes 9 nov. Oro (futuros) y bitcoin: cotización de preapertura vía Yahoo Finance. Euro/peso: dato previo. Temperatura: pronóstico matutino para la CDMX de El Informador (máxima de 24 a 26 °C y mínima de 12 a 14 °C según el SMN vía UnoTV).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.62",
-      "cambio": "-0.71%",
+      "valor": "18.56",
+      "cambio": "-0.39%",
       "nivel": "baja"
     },
     {
@@ -31,20 +31,20 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "97.79 USD",
-      "cambio": "-0.51%",
+      "valor": "97.57 USD",
+      "cambio": "-0.75%",
       "nivel": "baja"
     },
     {
       "nombre": "Nikkei 225",
-      "valor": "57,411",
-      "cambio": "-6.00%",
-      "nivel": "baja"
+      "valor": "58,776",
+      "cambio": "+2.33%",
+      "nivel": "sube"
     },
     {
       "nombre": "Kospi",
-      "valor": "5,060",
-      "cambio": "-6.02%",
+      "valor": "5,020",
+      "cambio": "-0.79%",
       "nivel": "baja"
     },
     {
@@ -55,29 +55,29 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,081 USD",
-      "cambio": "-0.79%",
-      "nivel": "baja"
+      "valor": "4,120 USD",
+      "cambio": "+1.11%",
+      "nivel": "sube"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "75,943 USD",
-      "cambio": "≈0%",
-      "nivel": "igual"
+      "valor": "74,336 USD",
+      "cambio": "-2.03%",
+      "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "9 nov",
-      "texto": "Arranca la COP31 en Antalya, Turquía (hasta el 20 nov); G7 de cancilleres en París (9 y 10 nov) con Rubio; León XIV oficia misa en el Monumento a los Españoles de Buenos Aires"
+      "cuando": "Hoy",
+      "texto": "Arranca la COP31 en Antalya (hasta el 20 nov); G7 de cancilleres en París (9 y 10 nov); misa de León XIV en Buenos Aires; Diputados votan el Presupuesto 2027; premio Booker en Londres"
     },
     {
       "cuando": "10 nov",
-      "texto": "Se reanudan en Abu Dabi las negociaciones Rusia-Ucrania-EE.UU.; EE.UU. publica su inflación de octubre; misa de León XIV en Córdoba"
+      "texto": "Inician en Abu Dabi las pláticas Rusia-Ucrania-EE.UU. (10 y 11 nov); se instala la nueva Knéset en Israel; EE.UU. publica su inflación de octubre; misa de León XIV en Córdoba"
     },
     {
-      "cuando": "11 nov",
-      "texto": "León XIV oficia misa en Luján y parte a Perú"
+      "cuando": "11-12 nov",
+      "texto": "Cumbre de líderes de la COP31 en Antalya; León XIV oficia misa en Luján y parte a Perú"
     },
     {
       "cuando": "12-13 nov",
