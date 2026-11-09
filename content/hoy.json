@@ -1,9 +1,9 @@
 {
   "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "18:25 h",
   "ciudad": "CDMX",
   "temp": 22,
-  "mercados_nota": "Mercados cerrados en fin de semana: se mantienen los cierres del viernes 6 nov (dólar/peso vía Infobae; Dow Jones, S&P 500 y Nasdaq vía AP; Brent, oro y bitcoin al cierre de Wall Street del viernes; Nikkei y Kospi al cierre del viernes; euro/peso: dato previo). Temperatura: sin lectura actual disponible, se conserva el dato previo (pronóstico del domingo en la CDMX: máxima 24 °C, mínima 11 °C, con chubascos por la tarde; Informador y SMN vía UnoTV).",
+  "mercados_nota": "Mercados cerrados en fin de semana: se mantienen los cierres del viernes 6 nov (dólar/peso: cierre de 18.6194 según Reuters vía El Imparcial; Dow Jones, S&P 500 y Nasdaq vía AP; Brent, oro y bitcoin al cierre de Wall Street del viernes; Nikkei y Kospi al cierre del viernes; euro/peso: dato previo). Temperatura: sin lectura actual disponible, se conserva el dato previo (SMN vía UnoTV: máxima de 24 a 26 °C y mínima de 11 a 13 °C; alerta amarilla por frío de 4 a 6 °C en cuatro alcaldías la madrugada del lunes).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -68,24 +68,24 @@
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "León XIV llega a Buenos Aires (16:30 hora local) y se reúne con Milei; GP de Brasil de F1; final del Masters de París Alcaraz-Shelton; NFL en el Bernabéu: Bengals-Falcons; Sudáfrica declara resultados municipales"
-    },
-    {
       "cuando": "9 nov",
-      "texto": "Arranca la COP31 en Antalya, Turquía (hasta el 20 nov); Stephen Miller asume como jefe de gabinete de la Casa Blanca; feriado nacional en Argentina por la visita papal"
+      "texto": "Arranca la COP31 en Antalya, Turquía (hasta el 20 nov); G7 de cancilleres en París (9 y 10 nov) con Rubio; León XIV oficia misa en el Monumento a los Españoles de Buenos Aires"
     },
     {
       "cuando": "10 nov",
       "texto": "Se reanudan en Abu Dabi las negociaciones Rusia-Ucrania-EE.UU.; EE.UU. publica su inflación de octubre; misa de León XIV en Córdoba"
     },
     {
-      "cuando": "12-13 nov",
-      "texto": "Reunión informal de líderes de la UE en Dublín, con la sucesión de Lagarde en el BCE en la mesa; el 13 arranca El Buen Fin en México (hasta el 17)"
+      "cuando": "11 nov",
+      "texto": "León XIV oficia misa en Luján y parte a Perú"
     },
     {
-      "cuando": "14 y 17 nov",
-      "texto": "Jamaica-México y México-Jamaica, cuartos de final de la Liga de Naciones de Concacaf"
+      "cuando": "12-13 nov",
+      "texto": "Reunión informal de líderes de la UE en Dublín; el 13 arranca El Buen Fin en México (hasta el 17)"
+    },
+    {
+      "cuando": "14-17 nov",
+      "texto": "Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf; Finales ATP en Turín desde el 15"
     }
   ]
 }
