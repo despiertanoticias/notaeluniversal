@@ -1,14 +1,14 @@
 {
-  "fecha": "Lunes 9 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Martes 10 de noviembre de 2026",
+  "actualizado": "07:00 h",
   "ciudad": "CDMX",
-  "temp": 21,
-  "mercados_nota": "Lunes 9 nov, tarde: Dow Jones, S&P 500 y Nasdaq al cierre del lunes 9 nov (JKN). Dólar/peso: cierre de 18.5377 según Banxico (Cadena Política). Brent, oro y bitcoin: cotizaciones de la tarde del 9 nov, no cierres definitivos (FM Luzu). Nikkei y Kospi: cierre del lunes 9 nov. Euro/peso: dato previo. Temperatura: dato previo; para el martes 10 se pronostican 11.7 °C de mínima y 22.3 °C de máxima en la CDMX (El Financiero).",
+  "temp": 12,
+  "mercados_nota": "Martes 10 nov, mañana: dólar/peso a la apertura (18.50, -0.17%, Infobae con datos de Dow Jones). Brent: cotización de la mañana del 10 nov, no cierre (Trading Economics). Dow Jones, S&P 500, Nasdaq, Nikkei, Kospi, oro y bitcoin: datos del lunes 9 nov. Euro/peso: dato previo. Temperatura: aproximada a la mínima de 11.7 °C pronosticada para la mañana del martes 10 en la CDMX (El Financiero); máxima esperada de 22.3 °C.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.54",
-      "cambio": "-0.49%",
+      "valor": "18.50",
+      "cambio": "-0.17%",
       "nivel": "baja"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.64 USD",
-      "cambio": "-6.47%",
+      "valor": "90.40 USD",
+      "cambio": "-2.35%",
       "nivel": "baja"
     },
     {
@@ -68,12 +68,12 @@
   ],
   "agenda": [
     {
-      "cuando": "10 nov",
-      "texto": "Inician en Abu Dabi las pláticas Rusia-Ucrania-EE.UU. (10 y 11 nov); se instala la nueva Knéset en Israel; segundo día del G7 de cancilleres en París; misa de León XIV en Córdoba"
+      "cuando": "Hoy",
+      "texto": "Pláticas Rusia-Ucrania-EE.UU. en Abu Dabi (10 y 11 nov); jura la nueva Knéset en Israel; conferencia de Hegseth en el Pentágono; inflación de octubre en EE.UU. (7:30 h CDMX)"
     },
     {
-      "cuando": "11-12 nov",
-      "texto": "Cumbre de líderes de la COP31 en Antalya; la borrasca Charles llega a Portugal y España; León XIV oficia misa en Luján y parte a Perú"
+      "cuando": "11 nov",
+      "texto": "Hablan 42 jefes de Estado y de gobierno en la COP31 de Antalya; segunda audiencia Argentina-Reino Unido por Sea Lion en el Tribunal del Mar"
     },
     {
       "cuando": "12-13 nov",
