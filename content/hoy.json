@@ -1,38 +1,38 @@
 {
   "fecha": "Lunes 9 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:40 h",
   "ciudad": "CDMX",
   "temp": 21,
-  "mercados_nota": "Lunes 9 nov, antes de la apertura de Wall Street: Dow Jones, S&P 500 y Nasdaq conservan el cierre del viernes 6 nov (los futuros suben, según Yahoo Finance). Dólar/peso: apertura de 18.56 según Dow Jones vía Infobae. Brent: 97.57 USD a las 10:11 GMT (Diario Neuquino). Nikkei y Kospi: cierre del lunes 9 nov. Oro (futuros) y bitcoin: cotización de preapertura vía Yahoo Finance. Euro/peso: dato previo. Temperatura: pronóstico matutino para la CDMX de El Informador (máxima de 24 a 26 °C y mínima de 12 a 14 °C según el SMN vía UnoTV).",
+  "mercados_nota": "Lunes 9 nov, tarde: Dow Jones, S&P 500 y Nasdaq al cierre del lunes 9 nov (JKN). Dólar/peso: cierre de 18.5377 según Banxico (Cadena Política). Brent, oro y bitcoin: cotizaciones de la tarde del 9 nov, no cierres definitivos (FM Luzu). Nikkei y Kospi: cierre del lunes 9 nov. Euro/peso: dato previo. Temperatura: dato previo; para el martes 10 se pronostican 11.7 °C de mínima y 22.3 °C de máxima en la CDMX (El Financiero).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.56",
-      "cambio": "-0.39%",
+      "valor": "18.54",
+      "cambio": "-0.49%",
       "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "51,286",
-      "cambio": "-0.46%",
-      "nivel": "baja"
+      "valor": "52,390",
+      "cambio": "+2.15%",
+      "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,377",
-      "cambio": "+0.31%",
+      "valor": "7,550",
+      "cambio": "+2.35%",
       "nivel": "sube"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "24,579",
-      "cambio": "+1.09%",
+      "valor": "25,253",
+      "cambio": "+2.74%",
       "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "97.57 USD",
-      "cambio": "-0.75%",
+      "valor": "91.64 USD",
+      "cambio": "-6.47%",
       "nivel": "baja"
     },
     {
@@ -55,29 +55,25 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,120 USD",
-      "cambio": "+1.11%",
+      "valor": "4,136 USD",
+      "cambio": "+1.63%",
       "nivel": "sube"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "74,336 USD",
-      "cambio": "-2.03%",
-      "nivel": "baja"
+      "valor": "74,795 USD",
+      "cambio": "+0.07%",
+      "nivel": "igual"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Arranca la COP31 en Antalya (hasta el 20 nov); G7 de cancilleres en París (9 y 10 nov); misa de León XIV en Buenos Aires; Diputados votan el Presupuesto 2027; premio Booker en Londres"
-    },
-    {
       "cuando": "10 nov",
-      "texto": "Inician en Abu Dabi las pláticas Rusia-Ucrania-EE.UU. (10 y 11 nov); se instala la nueva Knéset en Israel; EE.UU. publica su inflación de octubre; misa de León XIV en Córdoba"
+      "texto": "Inician en Abu Dabi las pláticas Rusia-Ucrania-EE.UU. (10 y 11 nov); se instala la nueva Knéset en Israel; segundo día del G7 de cancilleres en París; misa de León XIV en Córdoba"
     },
     {
       "cuando": "11-12 nov",
-      "texto": "Cumbre de líderes de la COP31 en Antalya; León XIV oficia misa en Luján y parte a Perú"
+      "texto": "Cumbre de líderes de la COP31 en Antalya; la borrasca Charles llega a Portugal y España; León XIV oficia misa en Luján y parte a Perú"
     },
     {
       "cuando": "12-13 nov",
@@ -86,6 +82,10 @@
     {
       "cuando": "14-17 nov",
       "texto": "Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf; Finales ATP en Turín desde el 15"
+    },
+    {
+      "cuando": "18-19 nov",
+      "texto": "Cumbre APEC en Shenzhen, China; Trump prevé reunirse con Xi Jinping y Vladímir Putin"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "La FDA ordena advertir del riesgo de pérdida de visión en todos los fármacos GLP-1, como Ozempic y Wegovy",
+  "seccion": "salud",
+  "fecha": "2026-11-09T18:23",
+  "resumen": "La agencia de EE.UU. pidió a los fabricantes incluir en la etiqueta la posible relación con la neuropatía óptica isquémica anterior no arterítica (NAION), un tipo de infarto del nervio óptico sin tratamiento probado. Especialistas subrayan que es rara, con unos seis casos por cada 100,000 pacientes, y recomiendan no suspender el tratamiento sin consultar al médico; Novo Nordisk cita un estudio que no halló asociación.",
+  "cuerpo": "",
+  "imagen_tema": "salud",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "The Spokesman-Review",
+      "enlace": "https://www.spokesman.com/stories/2026/nov/09/fda-tells-glp-1-makers-to-warn-of-potential-vision/"
+    },
+    {
+      "medio": "STAT",
+      "enlace": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

@@ -1,0 +1,26 @@
+{
+  "titulo": "Wall Street rebota con fuerza: el Nasdaq sube 2.74% y el Dow Jones gana más de 1,100 puntos",
+  "seccion": "economia",
+  "fecha": "2026-11-09T18:37",
+  "resumen": "Los tres grandes índices cerraron en verde el lunes: el Dow Jones avanzó 2.15% a 52,389.75 puntos, el S&P 500 subió 2.35% a 7,549.94 y el Nasdaq ganó 2.74% a 25,253.14. Impulsaron la jornada la caída del petróleo tras los comentarios de Trump sobre Irán y las compras en tecnología y semiconductores después de la venta de la semana pasada; Nvidia, en cambio, bajó cerca de 4% por la investigación sobre su director, Jensen Huang.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "JKN",
+      "enlace": "https://news.jkn.co.kr/editions/english/post/1081974"
+    },
+    {
+      "medio": "TheStreet",
+      "enlace": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+    },
+    {
+      "medio": "CNBC",
+      "enlace": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}
