@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street cierra a la baja tras el dato de inflación; el Nasdaq cae 0.74% y Nvidia pierde 5.5%",
+  "seccion": "economia",
+  "fecha": "2026-11-10T18:34",
+  "resumen": "Los índices de Nueva York terminaron en rojo este martes tras un dato de inflación de octubre mayor al esperado: el Dow Jones bajó 0.30% a 52,231.89 puntos, el S&P 500 cedió 0.38% a 7,520.93 y el Nasdaq retrocedió 0.74% a 25,065.88. Nvidia cerró con una caída de 5.47% y su valor de mercado llegó a bajar momentáneamente de 4 billones de dólares. El rendimiento del bono del Tesoro a 10 años rondó el 5%.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "TheStreet",
+      "enlace": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    },
+    {
+      "medio": "Stocktitan",
+      "enlace": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

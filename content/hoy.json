@@ -1,38 +1,38 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "18:40 h",
   "ciudad": "CDMX",
   "temp": 12,
-  "mercados_nota": "Martes 10 nov, mañana: dólar/peso a la apertura (18.50, -0.17%, Infobae con datos de Dow Jones). Brent: cotización de la mañana del 10 nov, no cierre (Trading Economics). Dow Jones, S&P 500, Nasdaq, Nikkei, Kospi, oro y bitcoin: datos del lunes 9 nov. Euro/peso: dato previo. Temperatura: aproximada a la mínima de 11.7 °C pronosticada para la mañana del martes 10 en la CDMX (El Financiero); máxima esperada de 22.3 °C.",
+  "mercados_nota": "Martes 10 nov, tarde: dólar/peso al cierre (18.63, +0.51%, Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 10 nov (TheStreet). Brent: 91.82 USD el 10 nov, -0.81% (Trading Economics). Oro: cotización temprana del 11 nov (Trading Economics). Nikkei, Kospi, euro/peso y bitcoin: datos previos. Temperatura: no se encontró una lectura actual; se conserva el dato de la mañana (mínimas de 4 a 6 °C y máxima de 24 a 26 °C pronosticadas para el martes, UnoTV).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.50",
-      "cambio": "-0.17%",
-      "nivel": "baja"
+      "valor": "18.63",
+      "cambio": "+0.51%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,390",
-      "cambio": "+2.15%",
-      "nivel": "sube"
+      "valor": "52,232",
+      "cambio": "-0.30%",
+      "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,550",
-      "cambio": "+2.35%",
-      "nivel": "sube"
+      "valor": "7,521",
+      "cambio": "-0.38%",
+      "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,253",
-      "cambio": "+2.74%",
-      "nivel": "sube"
+      "valor": "25,066",
+      "cambio": "-0.74%",
+      "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "90.40 USD",
-      "cambio": "-2.35%",
+      "valor": "91.82 USD",
+      "cambio": "-0.81%",
       "nivel": "baja"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,136 USD",
-      "cambio": "+1.63%",
+      "valor": "4,041 USD",
+      "cambio": "+0.21%",
       "nivel": "sube"
     },
     {
@@ -68,20 +68,20 @@
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Pláticas Rusia-Ucrania-EE.UU. en Abu Dabi (10 y 11 nov); jura la nueva Knéset en Israel; conferencia de Hegseth en el Pentágono; inflación de octubre en EE.UU. (7:30 h CDMX)"
-    },
-    {
       "cuando": "11 nov",
-      "texto": "Hablan 42 jefes de Estado y de gobierno en la COP31 de Antalya; segunda audiencia Argentina-Reino Unido por Sea Lion en el Tribunal del Mar"
+      "texto": "Segundo día de pláticas Rusia-Ucrania-EE.UU. en Abu Dabi; hablan 42 jefes de Estado y de gobierno en la COP31 de Antalya; posible votación en la Cámara de EE.UU. sobre el juicio político a Hegseth"
     },
     {
-      "cuando": "12-13 nov",
-      "texto": "Reunión informal de líderes de la UE en Dublín; el 13 arranca El Buen Fin en México (hasta el 17)"
+      "cuando": "12 nov",
+      "texto": "Latin Grammy en Las Vegas; sorteo de las Finales ATP en Turín; reunión informal de líderes de la UE en Dublín (12 y 13)"
     },
     {
-      "cuando": "14-17 nov",
-      "texto": "Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf; Finales ATP en Turín desde el 15"
+      "cuando": "13-17 nov",
+      "texto": "El Buen Fin en México; Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf (14 y 17)"
+    },
+    {
+      "cuando": "15-22 nov",
+      "texto": "Finales ATP en Turín con Alcaraz, Zverev, Shelton y Medvedev"
     },
     {
       "cuando": "18-19 nov",
