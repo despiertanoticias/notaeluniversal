@@ -1,15 +1,15 @@
 {
-  "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Miércoles 11 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "ciudad": "CDMX",
   "temp": 12,
-  "mercados_nota": "Martes 10 nov, tarde: dólar/peso al cierre (18.63, +0.51%, Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 10 nov (TheStreet). Brent: 91.82 USD el 10 nov, -0.81% (Trading Economics). Oro: cotización temprana del 11 nov (Trading Economics). Nikkei, Kospi, euro/peso y bitcoin: datos previos. Temperatura: no se encontró una lectura actual; se conserva el dato de la mañana (mínimas de 4 a 6 °C y máxima de 24 a 26 °C pronosticadas para el martes, UnoTV).",
+  "mercados_nota": "Miércoles 11 nov, mañana: dólar/peso a la apertura (18.61, -0.10%, Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 10 nov (TheStreet); los futuros subían 0.17%, 0.7% y 1.6% respectivamente antes de la apertura (Yahoo Finance). Brent: 92.20 USD, +0.78%, en la mañana del 11 nov (Yahoo Finance). Kospi: EFE reporta un alza de 2.6% el 11 nov, pero sin nivel de cierre; se conserva el dato previo. Nikkei, euro/peso, oro y bitcoin: datos previos. Temperatura: mínima pronosticada de 12 °C y máxima de 24 °C para el miércoles (El Informador).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.63",
-      "cambio": "+0.51%",
-      "nivel": "sube"
+      "valor": "18.61",
+      "cambio": "-0.10%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
@@ -31,9 +31,9 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.82 USD",
-      "cambio": "-0.81%",
-      "nivel": "baja"
+      "valor": "92.20 USD",
+      "cambio": "+0.78%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nikkei 225",
@@ -68,24 +68,24 @@
   ],
   "agenda": [
     {
-      "cuando": "11 nov",
-      "texto": "Segundo día de pláticas Rusia-Ucrania-EE.UU. en Abu Dabi; hablan 42 jefes de Estado y de gobierno en la COP31 de Antalya; posible votación en la Cámara de EE.UU. sobre el juicio político a Hegseth"
+      "cuando": "Hoy",
+      "texto": "Último día de pláticas Rusia-Ucrania-EE.UU. en Abu Dabi; León XIV llega a Lima (17:30 hora local); la MLB entrega el Cy Young"
     },
     {
       "cuando": "12 nov",
-      "texto": "Latin Grammy en Las Vegas; sorteo de las Finales ATP en Turín; reunión informal de líderes de la UE en Dublín (12 y 13)"
+      "texto": "Latin Grammy en Las Vegas; sorteo de las Finales ATP en Turín; MVP de las Grandes Ligas; reunión informal de líderes de la UE en Dublín (12 y 13)"
     },
     {
       "cuando": "13-17 nov",
-      "texto": "El Buen Fin en México; Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf (14 y 17)"
+      "texto": "El Buen Fin en México; Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf (14 y 17); Argentina-Uruguay amistoso (13)"
     },
     {
       "cuando": "15-22 nov",
-      "texto": "Finales ATP en Turín con Alcaraz, Zverev, Shelton y Medvedev"
+      "texto": "Finales ATP en Turín; Sheinbaum viaja el 15 a China para la cumbre APEC"
     },
     {
       "cuando": "18-19 nov",
-      "texto": "Cumbre APEC en Shenzhen, China; Trump prevé reunirse con Xi Jinping y Vladímir Putin"
+      "texto": "Cumbre APEC en Shenzhen, China, con Xi Jinping; Anthropic prevé debutar en Nasdaq alrededor del 19"
     }
   ]
 }
