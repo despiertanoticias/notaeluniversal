@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street repunta: el S&P 500 sube 1.31% y el Nasdaq 1.6% con CoreWeave y el rebote de Nvidia",
+  "seccion": "economia",
+  "fecha": "2026-11-12T06:41",
+  "resumen": "Las bolsas de Nueva York cerraron el miércoles al alza: el Dow Jones ganó 0.49% a 52,486 puntos, el S&P 500 subió 1.31% a 7,619 y el Nasdaq avanzó 1.6% a 25,466. CoreWeave se disparó 24.7% tras prever rentabilidad ajustada en el primer semestre de 2028, el índice de semiconductores subió 5.7% y Nvidia ganó 2.87%, tras dos sesiones en que perdió unos 430 mil millones de dólares de valor. El volumen fue bajo por el feriado del Día de los Veteranos.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Informador / EFE",
+      "enlace": "https://www.informador.mx/economia/wall-street-cierra-al-alza-impulsado-por-el-sector-de-la-ia-y-el-alivio-en-nvidia-20261111-0189.html"
+    },
+    {
+      "medio": "Yahoo Noticias / AP",
+      "enlace": "https://es-us.noticias.yahoo.com/wall-street-cierra-ganancias-optimismo-213821844.html"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

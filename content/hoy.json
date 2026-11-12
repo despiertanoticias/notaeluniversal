@@ -1,39 +1,39 @@
 {
-  "fecha": "Miércoles 11 de noviembre de 2026",
+  "fecha": "Jueves 12 de noviembre de 2026",
   "actualizado": "06:55 h",
   "ciudad": "CDMX",
-  "temp": 12,
-  "mercados_nota": "Miércoles 11 nov, mañana: dólar/peso a la apertura (18.61, -0.10%, Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 10 nov (TheStreet); los futuros subían 0.17%, 0.7% y 1.6% respectivamente antes de la apertura (Yahoo Finance). Brent: 92.20 USD, +0.78%, en la mañana del 11 nov (Yahoo Finance). Kospi: EFE reporta un alza de 2.6% el 11 nov, pero sin nivel de cierre; se conserva el dato previo. Nikkei, euro/peso, oro y bitcoin: datos previos. Temperatura: mínima pronosticada de 12 °C y máxima de 24 °C para el miércoles (El Informador).",
+  "temp": 14,
+  "mercados_nota": "Jueves 12 nov, mañana: dólar/peso a la apertura (18.62, +0.13% para el dólar; Infobae). Dow Jones, S&P 500 y Nasdaq: cierre del 11 nov (AP/EFE). Brent (91.69 USD, -1.15%) y oro (3,974 USD, -0.33%): referencias de la mañana del 12 nov citadas por euribor.com.es con datos de Standard Bank. Nikkei, Kospi, euro/peso y bitcoin: datos previos (no se encontraron cifras confirmadas). Temperatura: mínima cercana a 14 °C y máxima de 25 °C pronosticadas para el jueves en la CDMX (Protección Civil, vía Maya Comunicación); chubascos por el frente frío 5.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.61",
-      "cambio": "-0.10%",
-      "nivel": "baja"
+      "valor": "18.62",
+      "cambio": "+0.13%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,232",
-      "cambio": "-0.30%",
-      "nivel": "baja"
+      "valor": "52,486",
+      "cambio": "+0.49%",
+      "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,521",
-      "cambio": "-0.38%",
-      "nivel": "baja"
+      "valor": "7,619",
+      "cambio": "+1.31%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,066",
-      "cambio": "-0.74%",
-      "nivel": "baja"
+      "valor": "25,466",
+      "cambio": "+1.60%",
+      "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.20 USD",
-      "cambio": "+0.78%",
-      "nivel": "sube"
+      "valor": "91.69 USD",
+      "cambio": "-1.15%",
+      "nivel": "baja"
     },
     {
       "nombre": "Nikkei 225",
@@ -55,9 +55,9 @@
     },
     {
       "nombre": "Oro",
-      "valor": "4,041 USD",
-      "cambio": "+0.21%",
-      "nivel": "sube"
+      "valor": "3,974 USD",
+      "cambio": "-0.33%",
+      "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
@@ -69,15 +69,15 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Último día de pláticas Rusia-Ucrania-EE.UU. en Abu Dabi; León XIV llega a Lima (17:30 hora local); la MLB entrega el Cy Young"
+      "texto": "Witkoff y Kushner se reúnen con Putin en Moscú; Latin Grammy en Las Vegas (20:00 ET); Comunidad Política Europea en Dublín; León XIV, vigilia con jóvenes en Lima"
     },
     {
-      "cuando": "12 nov",
-      "texto": "Latin Grammy en Las Vegas; sorteo de las Finales ATP en Turín; MVP de las Grandes Ligas; reunión informal de líderes de la UE en Dublín (12 y 13)"
+      "cuando": "13 nov",
+      "texto": "Arranca la campaña para las elecciones generales de España (29 nov); misa del papa en Pimentel, Perú; inicia El Buen Fin en México (13-17)"
     },
     {
-      "cuando": "13-17 nov",
-      "texto": "El Buen Fin en México; Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf (14 y 17); Argentina-Uruguay amistoso (13)"
+      "cuando": "14 y 17 nov",
+      "texto": "Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf"
     },
     {
       "cuando": "15-22 nov",
