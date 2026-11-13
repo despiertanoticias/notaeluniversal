@@ -1,0 +1,22 @@
+{
+  "titulo": "Microsoft sigue con fallas en Outlook, Teams y Copilot tras una caída global; la empresa descarta un ciberataque",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-13T06:50",
+  "resumen": "Desde la tarde del jueves, usuarios de Outlook, Microsoft 365, Teams, Copilot y Defender reportan errores de acceso que empezaron en buzones de Exchange Online en América y se extendieron a varias regiones, con fallas en Australia y Reino Unido. Microsoft atribuyó el problema a una carga elevada en parte de su infraestructura y a equipos que quedaron en un estado defectuoso; Charles Lamanna, vicepresidente de Copilot, dijo que no hay indicios de actividad maliciosa. El viernes por la mañana el servicio seguía intermitente, la recuperación avanzaba por fases y la compañía amplió a 48 horas el plazo de espera del correo para no perder mensajes retrasados.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/moviles-y-apps/2026/11/13/sigue-la-caida-global-de-microsoft-descartan-ciberataque-mientras-intentan-arreglar-los-servidores.shtml"
+    },
+    {
+      "medio": "El Tiempo",
+      "enlace": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/caida-mundial-de-outlook-365-microsoft-y-mas-estas-son-las-aplicaciones-que-siguen-fallando-este-viernes-13-de-noviembre-compania-hablo-sobre-danos-3600734"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}

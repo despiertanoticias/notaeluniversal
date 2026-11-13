@@ -1,15 +1,15 @@
 {
-  "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Viernes 13 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "ciudad": "CDMX",
-  "temp": 14,
-  "mercados_nota": "Jueves 12 nov, tarde: dólar/peso al cierre (18.61, +0.06%; Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 12 nov (AP). Brent (96 USD, +3.84%), oro (3,876 USD, -2.79%) y bitcoin (71,333 USD, -3.49%): cierre del 12 nov citado por FM Luzu. Nikkei, Kospi y euro/peso: datos previos (no se encontraron cifras confirmadas). Temperatura: dato de la mañana (no se encontró una lectura confirmada de la tarde).",
+  "temp": 13,
+  "mercados_nota": "Viernes 13 nov, mañana: dólar/peso a la apertura (18.55, -0.28%; Infobae con datos de Dow Jones). Bitcoin: CoinGecko vía CryptoTicker (69,330 USD, -5.4% en 24 h). Dow Jones, S&P 500, Nasdaq, Brent y oro: cierre del 12 nov (sin cifras nuevas confirmadas antes de la apertura). Nikkei, Kospi y euro/peso: datos previos. Temperatura: mínima pronosticada de 12 a 14 °C (SMN vía UnoTV).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.61",
-      "cambio": "+0.06%",
-      "nivel": "sube"
+      "valor": "18.55",
+      "cambio": "-0.28%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
@@ -61,19 +61,19 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "71,333 USD",
-      "cambio": "-3.49%",
+      "valor": "69,330 USD",
+      "cambio": "-5.4%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "13 nov",
-      "texto": "Cumbre informal de líderes de la UE en Dublín sobre Ucrania; arranca la campaña electoral en España (29 nov); inicia El Buen Fin en México (13-17)"
+      "cuando": "Hoy",
+      "texto": "Cumbre informal de la UE en Dublín sobre IA y Ucrania; SpaceX lanza el vuelo 15 de Starship (16:45); arranca El Buen Fin (13-17 nov)"
     },
     {
-      "cuando": "14 y 15 nov",
-      "texto": "Funeral de Estado y sepultura de Miguel Ángel Asturias en Guatemala"
+      "cuando": "Hoy y 16 nov",
+      "texto": "Guatemala-Canadá, cuartos de final de la Liga de Naciones de Concacaf"
     },
     {
       "cuando": "14 y 17 nov",
@@ -84,8 +84,8 @@
       "texto": "Finales ATP en Turín; Sheinbaum viaja el 15 a China para la cumbre APEC"
     },
     {
-      "cuando": "18-19 nov",
-      "texto": "Cumbre APEC en Shenzhen, China; Nvidia reporta resultados el 17; Anthropic prevé debutar en Nasdaq alrededor del 19"
+      "cuando": "18-20 nov",
+      "texto": "Cumbre APEC en Shenzhen; Nvidia reporta el 17; cierre previsto de la COP31 en Antalya el 20"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "El brote de ébola en el Congo supera los 11 mil casos y 5,387 muertes, el segundo peor de la historia",
+  "seccion": "mundo",
+  "fecha": "2026-11-13T06:43",
+  "resumen": "La República Democrática del Congo registra 11,042 casos confirmados y al menos 5,387 muertes, según datos oficiales al 11 de noviembre. Es el mayor brote en la historia del país y el segundo del mundo, solo detrás del de África Occidental de 2014-2016. Lo causa la cepa Bundibugyo, que mata a cerca de la mitad de los infectados y para la que no hay vacuna específica; afecta a ocho de las 26 provincias y la OMS aprobó ensayos de dos vacunas con resultados esperados a inicios de 2027.",
+  "cuerpo": "",
+  "imagen_tema": "salud",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Al Jazeera",
+      "enlace": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+    },
+    {
+      "medio": "ABC News / AP",
+      "enlace": "https://abcnews.com/Health/wireStory/ebola-tops-11000-cases-congos-deadliest-outbreak-138037546"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
