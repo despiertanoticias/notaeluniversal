@@ -1,0 +1,22 @@
+{
+  "titulo": "Notion confirma que chats de su asistente de IA quedaron expuestos por un ataque a su proveedor Fireworks AI",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-12T18:31",
+  "resumen": "Notion informó que transcripciones de conversaciones con Notion AI almacenadas por Fireworks AI, un proveedor de infraestructura de inteligencia artificial, quedaron expuestas en un incidente que afectó a menos de 1% de los espacios de trabajo. La empresa dijo que los datos se retuvieron pese a un compromiso contractual de no conservarlos, cortó la conexión con el proveedor, desactivó su función Insights y recomendó cambiar cualquier contraseña o clave que se haya pegado en el asistente.",
+  "cuerpo": "",
+  "imagen_tema": "tech2",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Notion",
+      "enlace": "https://notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+    },
+    {
+      "medio": "Infobae / EFE",
+      "enlace": "https://www.infobae.com/america/agencias/2026/11/12/temas-del-dia-de-efe-internacional-del-jueves-12-de-noviembre-de-2026-1200-gmt/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

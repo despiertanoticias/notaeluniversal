@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street cierra a la baja: el Dow, el S&P 500 y el Nasdaq ceden 0.4% tras la salida de Huang",
+  "seccion": "economia",
+  "fecha": "2026-11-12T18:43",
+  "resumen": "Los tres principales índices de Nueva York terminaron el jueves con pérdidas de 0.4%: el S&P 500 en 7,592.40 puntos, el Dow Jones en 52,297.09 y el Nasdaq en 25,366.09. El Russell 2000 de pequeñas empresas cayó 1.7%. La jornada estuvo marcada por la renuncia de Jensen Huang a Nvidia, cuya acción se hundió en la apertura.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "AP vía KRMG",
+      "enlace": "https://krmg.com/2026/11/12/how-major-us-stock-indexes-fared-thursday-11-12-2026/"
+    },
+    {
+      "medio": "AP vía WRAL",
+      "enlace": "https://www.wral.com/news/ap/f9ac6-nvidia-tumbles-early-amid-questions-about-nvidia-ceo-jensen-huang-s-future/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

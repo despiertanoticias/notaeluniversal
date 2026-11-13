@@ -1,39 +1,39 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:50 h",
   "ciudad": "CDMX",
   "temp": 14,
-  "mercados_nota": "Jueves 12 nov, mañana: dólar/peso a la apertura (18.62, +0.13% para el dólar; Infobae). Dow Jones, S&P 500 y Nasdaq: cierre del 11 nov (AP/EFE). Brent (91.69 USD, -1.15%) y oro (3,974 USD, -0.33%): referencias de la mañana del 12 nov citadas por euribor.com.es con datos de Standard Bank. Nikkei, Kospi, euro/peso y bitcoin: datos previos (no se encontraron cifras confirmadas). Temperatura: mínima cercana a 14 °C y máxima de 25 °C pronosticadas para el jueves en la CDMX (Protección Civil, vía Maya Comunicación); chubascos por el frente frío 5.",
+  "mercados_nota": "Jueves 12 nov, tarde: dólar/peso al cierre (18.61, +0.06%; Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 12 nov (AP). Brent (96 USD, +3.84%), oro (3,876 USD, -2.79%) y bitcoin (71,333 USD, -3.49%): cierre del 12 nov citado por FM Luzu. Nikkei, Kospi y euro/peso: datos previos (no se encontraron cifras confirmadas). Temperatura: dato de la mañana (no se encontró una lectura confirmada de la tarde).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.62",
-      "cambio": "+0.13%",
+      "valor": "18.61",
+      "cambio": "+0.06%",
       "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,486",
-      "cambio": "+0.49%",
-      "nivel": "sube"
+      "valor": "52,297",
+      "cambio": "-0.36%",
+      "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,619",
-      "cambio": "+1.31%",
-      "nivel": "sube"
+      "valor": "7,592",
+      "cambio": "-0.35%",
+      "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,466",
-      "cambio": "+1.60%",
-      "nivel": "sube"
+      "valor": "25,366",
+      "cambio": "-0.39%",
+      "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.69 USD",
-      "cambio": "-1.15%",
-      "nivel": "baja"
+      "valor": "96.00 USD",
+      "cambio": "+3.84%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nikkei 225",
@@ -55,25 +55,25 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,974 USD",
-      "cambio": "-0.33%",
+      "valor": "3,876 USD",
+      "cambio": "-2.79%",
       "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "74,795 USD",
-      "cambio": "+0.07%",
-      "nivel": "igual"
+      "valor": "71,333 USD",
+      "cambio": "-3.49%",
+      "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Witkoff y Kushner se reúnen con Putin en Moscú; Latin Grammy en Las Vegas (20:00 ET); Comunidad Política Europea en Dublín; León XIV, vigilia con jóvenes en Lima"
+      "cuando": "13 nov",
+      "texto": "Cumbre informal de líderes de la UE en Dublín sobre Ucrania; arranca la campaña electoral en España (29 nov); inicia El Buen Fin en México (13-17)"
     },
     {
-      "cuando": "13 nov",
-      "texto": "Arranca la campaña para las elecciones generales de España (29 nov); misa del papa en Pimentel, Perú; inicia El Buen Fin en México (13-17)"
+      "cuando": "14 y 15 nov",
+      "texto": "Funeral de Estado y sepultura de Miguel Ángel Asturias en Guatemala"
     },
     {
       "cuando": "14 y 17 nov",
@@ -85,7 +85,7 @@
     },
     {
       "cuando": "18-19 nov",
-      "texto": "Cumbre APEC en Shenzhen, China, con Xi Jinping; Anthropic prevé debutar en Nasdaq alrededor del 19"
+      "texto": "Cumbre APEC en Shenzhen, China; Nvidia reporta resultados el 17; Anthropic prevé debutar en Nasdaq alrededor del 19"
     }
   ]
 }
