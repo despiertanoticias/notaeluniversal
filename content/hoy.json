@@ -1,9 +1,9 @@
 {
-  "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Sábado 14 de noviembre de 2026",
+  "actualizado": "06:59 h",
   "ciudad": "CDMX",
-  "temp": 20,
-  "mercados_nota": "Viernes 13 nov, tarde: dólar/peso al cierre (18.52, -0.47%; Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 13 nov (AP). Brent: cierre del 13 nov (EFE, 95.84 USD, +0.02 USD). Oro (3,894 USD, +0.23%) y bitcoin (68,867 USD, -3.84%): datos intradía del 13 nov (TheStreet). Nikkei, Kospi y euro/peso: datos previos. Temperatura: máxima pronosticada de 20 °C para el 13 nov (Infobae).",
+  "temp": 25,
+  "mercados_nota": "Sábado 14 nov, mañana: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq y Brent corresponden al cierre del viernes 13 nov. Oro: dato intradía del 13 nov (TheStreet). Bitcoin: 67,186 USD, -1.56%, 14 nov 11:31 UTC (Infobae). Nikkei, Kospi y euro/peso: datos previos. Temperatura: máxima pronosticada de 23 a 25 °C para el 14 nov (SMN vía Uno TV).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -61,15 +61,19 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "68,867 USD",
-      "cambio": "-3.84%",
+      "valor": "67,186 USD",
+      "cambio": "-1.56%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "14 nov",
-      "texto": "Regreso de la nave Starship a Starbase con posible intento de captura; Jamaica-México en la Liga de Naciones de Concacaf (vuelta el 17)"
+      "cuando": "Hoy",
+      "texto": "Jamaica-México en la ida de cuartos de la Liga de Naciones (18:00, Kingston); SpaceX intenta atrapar la nave Starship con la torre (15:20 CDMX)"
+    },
+    {
+      "cuando": "15-17 nov",
+      "texto": "Cumbre de la ASEAN en Manila, con visita breve de Trump; cumbre de la Francofonía en Phnom Penh (15-16)"
     },
     {
       "cuando": "15-22 nov",
@@ -77,15 +81,11 @@
     },
     {
       "cuando": "17-19 nov",
-      "texto": "Sheinbaum en Shenzhen para la cumbre APEC y reunión con Xi Jinping; Nvidia reporta resultados el 17"
+      "texto": "Cumbre APEC en Shenzhen y reunión Sheinbaum-Xi Jinping; Nvidia reporta resultados el 17"
     },
     {
-      "cuando": "19 nov",
-      "texto": "Debate cara a cara Sánchez-Feijóo; el 20 cierra la COP31 en Antalya"
-    },
-    {
-      "cuando": "29 nov",
-      "texto": "Elecciones generales en España"
+      "cuando": "20 nov",
+      "texto": "Cierra la COP31 en Antalya; el 29 de noviembre, elecciones generales en España"
     }
   ]
 }
