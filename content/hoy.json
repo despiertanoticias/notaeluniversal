@@ -1,39 +1,39 @@
 {
   "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:50 h",
   "ciudad": "CDMX",
-  "temp": 13,
-  "mercados_nota": "Viernes 13 nov, mañana: dólar/peso a la apertura (18.55, -0.28%; Infobae con datos de Dow Jones). Bitcoin: CoinGecko vía CryptoTicker (69,330 USD, -5.4% en 24 h). Dow Jones, S&P 500, Nasdaq, Brent y oro: cierre del 12 nov (sin cifras nuevas confirmadas antes de la apertura). Nikkei, Kospi y euro/peso: datos previos. Temperatura: mínima pronosticada de 12 a 14 °C (SMN vía UnoTV).",
+  "temp": 20,
+  "mercados_nota": "Viernes 13 nov, tarde: dólar/peso al cierre (18.52, -0.47%; Infobae con datos de Dow Jones). Dow Jones, S&P 500 y Nasdaq: cierre del 13 nov (AP). Brent: cierre del 13 nov (EFE, 95.84 USD, +0.02 USD). Oro (3,894 USD, +0.23%) y bitcoin (68,867 USD, -3.84%): datos intradía del 13 nov (TheStreet). Nikkei, Kospi y euro/peso: datos previos. Temperatura: máxima pronosticada de 20 °C para el 13 nov (Infobae).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.55",
-      "cambio": "-0.28%",
+      "valor": "18.52",
+      "cambio": "-0.47%",
       "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,297",
-      "cambio": "-0.36%",
-      "nivel": "baja"
+      "valor": "52,348",
+      "cambio": "+0.10%",
+      "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,592",
-      "cambio": "-0.35%",
+      "valor": "7,562",
+      "cambio": "-0.40%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,366",
-      "cambio": "-0.39%",
+      "valor": "25,136",
+      "cambio": "-0.91%",
       "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "96.00 USD",
-      "cambio": "+3.84%",
-      "nivel": "sube"
+      "valor": "95.84 USD",
+      "cambio": "+0.02%",
+      "nivel": "igual"
     },
     {
       "nombre": "Nikkei 225",
@@ -55,37 +55,37 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,876 USD",
-      "cambio": "-2.79%",
-      "nivel": "baja"
+      "valor": "3,894 USD",
+      "cambio": "+0.23%",
+      "nivel": "sube"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "69,330 USD",
-      "cambio": "-5.4%",
+      "valor": "68,867 USD",
+      "cambio": "-3.84%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Cumbre informal de la UE en Dublín sobre IA y Ucrania; SpaceX lanza el vuelo 15 de Starship (16:45); arranca El Buen Fin (13-17 nov)"
-    },
-    {
-      "cuando": "Hoy y 16 nov",
-      "texto": "Guatemala-Canadá, cuartos de final de la Liga de Naciones de Concacaf"
-    },
-    {
-      "cuando": "14 y 17 nov",
-      "texto": "Jamaica-México y México-Jamaica en la Liga de Naciones de Concacaf"
+      "cuando": "14 nov",
+      "texto": "Regreso de la nave Starship a Starbase con posible intento de captura; Jamaica-México en la Liga de Naciones de Concacaf (vuelta el 17)"
     },
     {
       "cuando": "15-22 nov",
-      "texto": "Finales ATP en Turín; Sheinbaum viaja el 15 a China para la cumbre APEC"
+      "texto": "Finales ATP en Turín"
     },
     {
-      "cuando": "18-20 nov",
-      "texto": "Cumbre APEC en Shenzhen; Nvidia reporta el 17; cierre previsto de la COP31 en Antalya el 20"
+      "cuando": "17-19 nov",
+      "texto": "Sheinbaum en Shenzhen para la cumbre APEC y reunión con Xi Jinping; Nvidia reporta resultados el 17"
+    },
+    {
+      "cuando": "19 nov",
+      "texto": "Debate cara a cara Sánchez-Feijóo; el 20 cierra la COP31 en Antalya"
+    },
+    {
+      "cuando": "29 nov",
+      "texto": "Elecciones generales en España"
     }
   ]
 }

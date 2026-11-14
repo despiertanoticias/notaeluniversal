@@ -1,0 +1,18 @@
+{
+  "titulo": "Starship despega en su vuelo 15 y suelta 26 satélites; SpaceX descarta atrapar el propulsor",
+  "seccion": "ciencia",
+  "fecha": "2026-11-13T18:56",
+  "resumen": "SpaceX lanzó el vuelo 15 de Starship desde Starbase, Texas, a las 16:47 hora del centro de México. La compañía canceló la captura del propulsor Super Heavy con los brazos de la torre y éste amerizó de forma controlada en el Golfo de México unos seis minutos y medio después del despegue. La nave alcanzó la órbita baja, desplegó 26 satélites Starlink V3 y dará 14 vueltas a la Tierra; su regreso a Starbase, con un posible intento de captura, está previsto para el sábado, unas 22.5 horas después del lanzamiento.",
+  "cuerpo": "",
+  "imagen_tema": "cohete",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Space.com",
+      "enlace": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}

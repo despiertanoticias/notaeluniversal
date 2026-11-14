@@ -1,0 +1,26 @@
+{
+  "titulo": "Falla de comunicaciones obliga a la FAA a detener todos los despegues en EE.UU.",
+  "seccion": "mundo",
+  "fecha": "2026-11-13T18:59",
+  "resumen": "La Administración Federal de Aviación ordenó este viernes un paro nacional de despegues en todos los aeropuertos de Estados Unidos por una falla de telecomunicaciones que afecta a todos los centros de control de tráfico aéreo en ruta, según el secretario de Transporte, Sean Duffy. Los vuelos en el aire pueden completar su trayecto y los internacionales con destino a EE.UU. se revisan caso por caso. FlightAware contabilizaba cerca de 7,800 retrasos y al menos 350 cancelaciones hacia las 16:44; ABC reportó después más de mil vuelos cancelados. El secretario de Seguridad Nacional, Markwayne Mullin, dijo que no hay indicios de un ataque y que no hay plazo para reanudar las operaciones. Es el primer paro nacional desde enero de 2023.",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/13/suspension-de-vuelos-en-estados-unidos-en-vivo-investigan-una-falla-que-afecta-a-todos-los-centros-de-control-aereo/"
+    },
+    {
+      "medio": "El Tiempo",
+      "enlace": "https://www.eltiempo.com/mundo/eeuu-y-canada/ultimas-noticias-sobre-orden-de-suspension-de-los-despegues-de-vuelos-en-estados-unidos-por-problemas-en-las-comunicaciones-esto-dijo-la-faa-3600956"
+    },
+    {
+      "medio": "ABC News",
+      "enlace": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}
