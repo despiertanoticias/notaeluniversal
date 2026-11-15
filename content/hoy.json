@@ -1,9 +1,9 @@
 {
-  "fecha": "Sábado 14 de noviembre de 2026",
-  "actualizado": "18:35 h",
+  "fecha": "Domingo 15 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "ciudad": "CDMX",
-  "temp": 25,
-  "mercados_nota": "Sábado 14 nov, tarde: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq y Brent corresponden al cierre del viernes 13 nov. Oro: dato intradía del 13 nov (TheStreet). Bitcoin: 63,528 USD, -6.6% en 24 h, 14 nov 23:03 UTC (CoinGecko vía CryptoTicker). Nikkei, Kospi y euro/peso: datos previos. Temperatura: sin lectura actual disponible; se conserva la máxima pronosticada de 23 a 25 °C para el 14 nov (SMN vía Uno TV).",
+  "temp": 12,
+  "mercados_nota": "Domingo 15 nov, mañana: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq y Brent corresponden al cierre del viernes 13 nov. Oro: dato intradía del 13 nov (TheStreet). Bitcoin: ~64,800 USD, -3.4% en 24 h, madrugada del 15 nov (CoinGecko vía CryptoTicker). Nikkei, Kospi y euro/peso: datos previos. Temperatura: sin lectura en tiempo real; se usa la mínima pronosticada de 11 a 13 °C para la mañana del 15 nov (SMN vía Uno TV), máxima de 23 a 25 °C.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -61,31 +61,31 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "63,528 USD",
-      "cambio": "-6.6%",
+      "valor": "64,800 USD",
+      "cambio": "-3.4%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Jamaica-México en la ida de cuartos de la Liga de Naciones (19:00 CDMX, Kingston); Garbage en concierto gratuito en el Zócalo (20:00)"
+      "texto": "Arrancan las Finales ATP en Turín (Zverev-Jódar); elecciones presidenciales en Cabo Verde; Óscar honoríficos en Los Ángeles"
     },
     {
-      "cuando": "15-17 nov",
-      "texto": "Cumbre de la ASEAN en Manila, con visita breve de Trump; cumbre de la Francofonía en Phnom Penh (15-16)"
+      "cuando": "16 nov",
+      "texto": "La OIT elige director general (Yolanda Díaz vs. Gilbert Houngbo); misa de León XIV en Lima cierra su gira"
     },
     {
-      "cuando": "15-22 nov",
-      "texto": "Finales ATP en Turín"
+      "cuando": "17 nov",
+      "texto": "México-Jamaica, vuelta de cuartos de la Liga de Naciones en Monterrey; Trump llega a la cumbre de la ASEAN en Manila"
     },
     {
-      "cuando": "17-19 nov",
-      "texto": "Cumbre APEC en Shenzhen con Sheinbaum-Xi Jinping; reunión trilateral Trump-Xi-Putin sobre armas nucleares el 19"
+      "cuando": "18-19 nov",
+      "texto": "Cumbre APEC en Shenzhen con Sheinbaum; reunión Trump-Xi-Putin sobre armas nucleares el 19"
     },
     {
       "cuando": "20 nov",
-      "texto": "Cierra la COP31 en Antalya; el 29 de noviembre, elecciones generales en España"
+      "texto": "Cierra la COP31 en Antalya; desfile de la Revolución en la CDMX; el 29 de noviembre, elecciones generales en España"
     }
   ]
 }
