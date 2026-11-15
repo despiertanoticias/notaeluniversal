@@ -1,9 +1,9 @@
 {
   "fecha": "Sábado 14 de noviembre de 2026",
-  "actualizado": "06:59 h",
+  "actualizado": "18:35 h",
   "ciudad": "CDMX",
   "temp": 25,
-  "mercados_nota": "Sábado 14 nov, mañana: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq y Brent corresponden al cierre del viernes 13 nov. Oro: dato intradía del 13 nov (TheStreet). Bitcoin: 67,186 USD, -1.56%, 14 nov 11:31 UTC (Infobae). Nikkei, Kospi y euro/peso: datos previos. Temperatura: máxima pronosticada de 23 a 25 °C para el 14 nov (SMN vía Uno TV).",
+  "mercados_nota": "Sábado 14 nov, tarde: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq y Brent corresponden al cierre del viernes 13 nov. Oro: dato intradía del 13 nov (TheStreet). Bitcoin: 63,528 USD, -6.6% en 24 h, 14 nov 23:03 UTC (CoinGecko vía CryptoTicker). Nikkei, Kospi y euro/peso: datos previos. Temperatura: sin lectura actual disponible; se conserva la máxima pronosticada de 23 a 25 °C para el 14 nov (SMN vía Uno TV).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -61,15 +61,15 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "67,186 USD",
-      "cambio": "-1.56%",
+      "valor": "63,528 USD",
+      "cambio": "-6.6%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Jamaica-México en la ida de cuartos de la Liga de Naciones (18:00, Kingston); SpaceX intenta atrapar la nave Starship con la torre (15:20 CDMX)"
+      "texto": "Jamaica-México en la ida de cuartos de la Liga de Naciones (19:00 CDMX, Kingston); Garbage en concierto gratuito en el Zócalo (20:00)"
     },
     {
       "cuando": "15-17 nov",
@@ -81,7 +81,7 @@
     },
     {
       "cuando": "17-19 nov",
-      "texto": "Cumbre APEC en Shenzhen y reunión Sheinbaum-Xi Jinping; Nvidia reporta resultados el 17"
+      "texto": "Cumbre APEC en Shenzhen con Sheinbaum-Xi Jinping; reunión trilateral Trump-Xi-Putin sobre armas nucleares el 19"
     },
     {
       "cuando": "20 nov",

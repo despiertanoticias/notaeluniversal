@@ -1,0 +1,22 @@
+{
+  "titulo": "EE.UU. suma más de 5 mil vuelos cancelados el sábado; Duffy culpa al contratista L3Harris del apagón aéreo",
+  "seccion": "mundo",
+  "fecha": "2026-11-14T18:29",
+  "resumen": "Más de 5,000 vuelos en Estados Unidos se habían cancelado hasta las 14:48 (hora del Este) de este sábado, según FlightAware, por encima del pronóstico de la FAA, que espera normalizar operaciones al cierre del domingo. El secretario de Transporte, Sean Duffy, responsabilizó a L3Harris, la empresa que opera la red de comunicaciones de la FAA: la falla comenzó durante trabajos para sustituir líneas de cobre por fibra óptica en un sitio remoto, cuando un enrutador interrumpió las comunicaciones con aviones y radares. L3Harris dijo que colabora con la investigación. Nick Daniels, presidente del sindicato de controladores, admitió que se perdió contacto con algunos aviones. El viernes no pudieron completarse unos 12,000 vuelos.",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Yahoo News",
+      "enlace": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html"
+    },
+    {
+      "medio": "The Washington Post",
+      "enlace": "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
