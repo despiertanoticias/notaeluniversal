@@ -1,0 +1,18 @@
+{
+  "titulo": "Falla un cohete Vulcan de ULA y se pierden 40 satélites de Amazon Leo",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-16T06:53",
+  "resumen": "Un cohete Vulcan de United Launch Alliance sufrió una anomalía unos 10 minutos después de despegar el domingo de Cabo Cañaveral y no logró poner en órbita 40 satélites de internet de Amazon Leo. Es la primera falla total de ULA desde su creación en 2006 y apenas el quinto vuelo del Vulcan. El lanzamiento habría elevado la constelación a 436 satélites; Amazon tiene 38 vuelos más contratados con este cohete.",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Spaceflight Now",
+      "enlace": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

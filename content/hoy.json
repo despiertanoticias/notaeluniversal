@@ -1,15 +1,15 @@
 {
-  "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Lunes 16 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "ciudad": "CDMX",
-  "temp": 16,
-  "mercados_nota": "Domingo 15 nov, tarde: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq, Brent (95.84 USD, confirmado por Asian Market Sense) y oro corresponden al cierre del viernes 13 nov. Bitcoin: ~64,800 USD, lectura del 15 nov (DiarioBitcoin reporta 65,059 USD, -3.0% en 24 h). Nikkei, Kospi y euro/peso: datos previos. Temperatura: 16 °C reportados por UnoTV el 15 nov (máxima pronosticada de 23 a 25 °C, SMN).",
+  "temp": 18,
+  "mercados_nota": "Lunes 16 nov, mañana (día de asueto en México). Dólar/peso: 18.56 en la apertura, +0.27% (Infobae con datos de Dow Jones). Brent: 95.36 USD, -0.5%, y oro (futuros) 3,878.62 USD, -0.20% (Investing.com). Dow Jones, S&P 500 y Nasdaq: cierre del viernes 13 nov; los futuros caían el lunes antes de los resultados de Nvidia. Nikkei, Kospi, euro/peso y bitcoin: datos previos. Temperatura: 18 °C reportados por UnoTV con dato de Protección Civil CDMX (SMN prevé mínima de 9 a 11 °C y máxima de 22 a 24 °C).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.52",
-      "cambio": "-0.47%",
-      "nivel": "baja"
+      "valor": "18.56",
+      "cambio": "+0.27%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
@@ -31,9 +31,9 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "95.84 USD",
-      "cambio": "+0.02%",
-      "nivel": "igual"
+      "valor": "95.36 USD",
+      "cambio": "-0.50%",
+      "nivel": "baja"
     },
     {
       "nombre": "Nikkei 225",
@@ -55,9 +55,9 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,894 USD",
-      "cambio": "+0.23%",
-      "nivel": "sube"
+      "valor": "3,879 USD",
+      "cambio": "-0.20%",
+      "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
@@ -69,23 +69,23 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Óscar honoríficos (Governors Awards) en Los Ángeles; Sheinbaum parte a China rumbo a la APEC"
-    },
-    {
-      "cuando": "16 nov",
-      "texto": "La OIT elige director general (Yolanda Díaz vs. Gilbert Houngbo); misa de León XIV en Lima cierra su gira; Alcaraz-Tiafoe en las Finales ATP"
+      "texto": "Misa de León XIV en Lima cierra su gira; nominaciones a los Grammy; arranca la cumbre de la ASEAN con socios en Manila"
     },
     {
       "cuando": "17 nov",
-      "texto": "México-Jamaica, vuelta de cuartos de la Liga de Naciones en Monterrey; Nvidia presenta resultados; Trump llega a la cumbre de la ASEAN en Manila"
+      "texto": "Nvidia presenta resultados; México-Jamaica, vuelta de cuartos de la Liga de Naciones en Monterrey; Trump llega a Manila"
     },
     {
       "cuando": "18-19 nov",
-      "texto": "Cumbre APEC en Shenzhen con Sheinbaum y Kast; reunión Trump-Xi-Putin el 19"
+      "texto": "Cumbre APEC en Shenzhen con Sheinbaum; reunión Trump-Xi-Putin el 19; la Voyager 1 llega a un día luz de la Tierra el 18"
     },
     {
       "cuando": "20 nov",
-      "texto": "Cierra la COP31 en Antalya; desfile de la Revolución en la CDMX; el 29 de noviembre, elecciones generales en España"
+      "texto": "Cierra la COP31 en Antalya; sorteo de cuartos de la Liga de Naciones de la UEFA; desfile de la Revolución en la CDMX"
+    },
+    {
+      "cuando": "29 nov",
+      "texto": "Elecciones generales en España"
     }
   ]
 }
