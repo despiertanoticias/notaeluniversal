@@ -1,9 +1,9 @@
 {
   "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:30 h",
   "ciudad": "CDMX",
-  "temp": 12,
-  "mercados_nota": "Domingo 15 nov, mañana: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq y Brent corresponden al cierre del viernes 13 nov. Oro: dato intradía del 13 nov (TheStreet). Bitcoin: ~64,800 USD, -3.4% en 24 h, madrugada del 15 nov (CoinGecko vía CryptoTicker). Nikkei, Kospi y euro/peso: datos previos. Temperatura: sin lectura en tiempo real; se usa la mínima pronosticada de 11 a 13 °C para la mañana del 15 nov (SMN vía Uno TV), máxima de 23 a 25 °C.",
+  "temp": 16,
+  "mercados_nota": "Domingo 15 nov, tarde: mercados cerrados por fin de semana; dólar/peso, Dow Jones, S&P 500, Nasdaq, Brent (95.84 USD, confirmado por Asian Market Sense) y oro corresponden al cierre del viernes 13 nov. Bitcoin: ~64,800 USD, lectura del 15 nov (DiarioBitcoin reporta 65,059 USD, -3.0% en 24 h). Nikkei, Kospi y euro/peso: datos previos. Temperatura: 16 °C reportados por UnoTV el 15 nov (máxima pronosticada de 23 a 25 °C, SMN).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -69,19 +69,19 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Arrancan las Finales ATP en Turín (Zverev-Jódar); elecciones presidenciales en Cabo Verde; Óscar honoríficos en Los Ángeles"
+      "texto": "Óscar honoríficos (Governors Awards) en Los Ángeles; Sheinbaum parte a China rumbo a la APEC"
     },
     {
       "cuando": "16 nov",
-      "texto": "La OIT elige director general (Yolanda Díaz vs. Gilbert Houngbo); misa de León XIV en Lima cierra su gira"
+      "texto": "La OIT elige director general (Yolanda Díaz vs. Gilbert Houngbo); misa de León XIV en Lima cierra su gira; Alcaraz-Tiafoe en las Finales ATP"
     },
     {
       "cuando": "17 nov",
-      "texto": "México-Jamaica, vuelta de cuartos de la Liga de Naciones en Monterrey; Trump llega a la cumbre de la ASEAN en Manila"
+      "texto": "México-Jamaica, vuelta de cuartos de la Liga de Naciones en Monterrey; Nvidia presenta resultados; Trump llega a la cumbre de la ASEAN en Manila"
     },
     {
       "cuando": "18-19 nov",
-      "texto": "Cumbre APEC en Shenzhen con Sheinbaum; reunión Trump-Xi-Putin sobre armas nucleares el 19"
+      "texto": "Cumbre APEC en Shenzhen con Sheinbaum y Kast; reunión Trump-Xi-Putin el 19"
     },
     {
       "cuando": "20 nov",
