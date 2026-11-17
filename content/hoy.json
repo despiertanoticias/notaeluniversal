@@ -1,14 +1,14 @@
 {
-  "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Martes 17 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "ciudad": "CDMX",
   "temp": 18,
-  "mercados_nota": "Lunes 16 nov, cierre (tarde; día de asueto en México). Dow Jones, S&P 500 y Nasdaq: cierre del lunes según EFE (Infobae). Dólar/peso: 18.53, -0.51% (Ámbito). Brent: 92.44 USD, -3.40 dólares (Newsquawk); oro 3,854 USD y bitcoin 65,199 USD según EFE (sin variación publicada; se conserva la previa). Nikkei, Kospi y euro/peso: datos previos. Temperatura: sin lectura actual disponible; se conserva el dato de la mañana (SMN prevé máxima de 22 a 24 °C).",
+  "mercados_nota": "Martes 17 nov, mañana. Dólar/peso: 18.51 en operaciones electrónicas (Quinto Poder; FIX Banxico 18.5525), variación frente al cierre previo de 18.53. Nikkei 58,860 (-1.34%, EFE) y Kospi 4,968 (-2.59%, Jin10): cierres del martes. Brent 91.80 USD (-0.7%, HDFC Sky). Dow Jones, S&P 500 y Nasdaq: cierre del lunes. Euro/peso, oro y bitcoin: datos previos (el oro rondaba 3,900 USD según Valora Analitik, sin variación publicada). Temperatura: sin lectura actual disponible; se conserva el dato previo.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.53",
-      "cambio": "-0.51%",
+      "valor": "18.51",
+      "cambio": "-0.11%",
       "nivel": "baja"
     },
     {
@@ -31,20 +31,20 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.44 USD",
-      "cambio": "-3.55%",
+      "valor": "91.80 USD",
+      "cambio": "-0.70%",
       "nivel": "baja"
     },
     {
       "nombre": "Nikkei 225",
-      "valor": "58,776",
-      "cambio": "+2.33%",
-      "nivel": "sube"
+      "valor": "58,860",
+      "cambio": "-1.34%",
+      "nivel": "baja"
     },
     {
       "nombre": "Kospi",
-      "valor": "5,020",
-      "cambio": "-0.79%",
+      "valor": "4,968",
+      "cambio": "-2.59%",
       "nivel": "baja"
     },
     {
@@ -68,24 +68,24 @@
   ],
   "agenda": [
     {
-      "cuando": "17 nov",
-      "texto": "Nvidia presenta resultados; México-Jamaica en Monterrey (Liga de Naciones); Trump en Manila; Carney se reúne con Xi en Shenzhen"
+      "cuando": "Hoy",
+      "texto": "Nvidia presenta resultados tras el cierre de Wall Street; México-Jamaica en Monterrey (20:30); el Knéset vota a su nuevo presidente; Trump con el Quad y la ASEAN en Manila"
     },
     {
       "cuando": "18-19 nov",
-      "texto": "Cumbre APEC en Shenzhen con Sheinbaum; Anthropic fija precio de su salida a bolsa el 18 y debuta en el Nasdaq el 19; reunión Trump-Xi-Putin el 19"
+      "texto": "Cumbre de líderes APEC en Shenzhen; Anthropic fija el precio de su salida a bolsa el 18 y debuta en el Nasdaq el 19; reunión Trump-Xi-Putin el 19"
     },
     {
-      "cuando": "18 nov",
-      "texto": "Cierre de candidaturas a la presidencia de la FIFA; la Voyager 1 llega a un día luz de la Tierra"
+      "cuando": "19 nov",
+      "texto": "Lanzamiento mundial del videojuego GTA VI"
     },
     {
       "cuando": "20 nov",
-      "texto": "Cierran la COP31 en Antalya y la conferencia de la ONU sobre armas autónomas en Ginebra; desfile de la Revolución en la CDMX"
+      "texto": "Cierran la COP31 en Antalya y la conferencia de la ONU sobre armas autónomas en Ginebra; cumbre UE-Reino Unido; desfile de la Revolución"
     },
     {
       "cuando": "29 nov",
-      "texto": "Elecciones generales en España"
+      "texto": "Elecciones generales en España; reunión de la OPEP+ sobre la producción de 2027"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "titulo": "Las bolsas de Asia caen por las nuevas restricciones de EE.UU. a la exportación de chips de IA",
+  "seccion": "economia",
+  "fecha": "2026-11-17T06:56",
+  "resumen": "El Nikkei de Tokio cerró el martes con una baja de 1.34%, a 58,860 puntos, y el Kospi surcoreano perdió 2.59%, a 4,968, su menor cierre desde el 2 de febrero. El Departamento de Comercio de EE.UU. anunció que los operadores de centros de datos en Singapur, Malasia, Tailandia, Indonesia y Brasil necesitarán licencias para recibir chips avanzados de IA, con el fin de evitar que se eludan los controles. En Japón cayeron Advantest (-4.39%), Kioxia (-5.08%) y SoftBank (-3.95%); en Europa el Stoxx 600 retrocedía alrededor de 0.75%.",
+  "cuerpo": "",
+  "imagen_tema": "tokio",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "EFE / ABC Color",
+      "enlace": "https://www.abc.com.py/internacionales/2026/11/17/el-nikkei-cae-un-134-por-las-restricciones-de-ee-uu-a-la-exportacion-de-chips-de-ia/"
+    },
+    {
+      "medio": "Valora Analitik",
+      "enlace": "https://www.valoraanalitik.com/premercado-bolsas-mundiales-caen-por-nuevas-restricciones-de-ee-uu-a-chips-se-esperan-resultados-de-nvidia/"
+    },
+    {
+      "medio": "KuCoin News",
+      "enlace": "https://www.kucoin.com/news/flash/kospi-and-nikkei-225-drop-on-november-17"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}
