@@ -1,38 +1,38 @@
 {
   "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:45 h",
   "ciudad": "CDMX",
   "temp": 18,
-  "mercados_nota": "Lunes 16 nov, mañana (día de asueto en México). Dólar/peso: 18.56 en la apertura, +0.27% (Infobae con datos de Dow Jones). Brent: 95.36 USD, -0.5%, y oro (futuros) 3,878.62 USD, -0.20% (Investing.com). Dow Jones, S&P 500 y Nasdaq: cierre del viernes 13 nov; los futuros caían el lunes antes de los resultados de Nvidia. Nikkei, Kospi, euro/peso y bitcoin: datos previos. Temperatura: 18 °C reportados por UnoTV con dato de Protección Civil CDMX (SMN prevé mínima de 9 a 11 °C y máxima de 22 a 24 °C).",
+  "mercados_nota": "Lunes 16 nov, cierre (tarde; día de asueto en México). Dow Jones, S&P 500 y Nasdaq: cierre del lunes según EFE (Infobae). Dólar/peso: 18.53, -0.51% (Ámbito). Brent: 92.44 USD, -3.40 dólares (Newsquawk); oro 3,854 USD y bitcoin 65,199 USD según EFE (sin variación publicada; se conserva la previa). Nikkei, Kospi y euro/peso: datos previos. Temperatura: sin lectura actual disponible; se conserva el dato de la mañana (SMN prevé máxima de 22 a 24 °C).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.56",
-      "cambio": "+0.27%",
-      "nivel": "sube"
+      "valor": "18.53",
+      "cambio": "-0.51%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "52,348",
-      "cambio": "+0.10%",
-      "nivel": "sube"
+      "valor": "51,608",
+      "cambio": "-1.41%",
+      "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,562",
-      "cambio": "-0.40%",
+      "valor": "7,416",
+      "cambio": "-1.92%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "25,136",
-      "cambio": "-0.91%",
+      "valor": "24,509",
+      "cambio": "-2.49%",
       "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "95.36 USD",
-      "cambio": "-0.50%",
+      "valor": "92.44 USD",
+      "cambio": "-3.55%",
       "nivel": "baja"
     },
     {
@@ -55,33 +55,33 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,879 USD",
+      "valor": "3,854 USD",
       "cambio": "-0.20%",
       "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "64,800 USD",
+      "valor": "65,199 USD",
       "cambio": "-3.4%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Misa de León XIV en Lima cierra su gira; nominaciones a los Grammy; arranca la cumbre de la ASEAN con socios en Manila"
-    },
-    {
       "cuando": "17 nov",
-      "texto": "Nvidia presenta resultados; México-Jamaica, vuelta de cuartos de la Liga de Naciones en Monterrey; Trump llega a Manila"
+      "texto": "Nvidia presenta resultados; México-Jamaica en Monterrey (Liga de Naciones); Trump en Manila; Carney se reúne con Xi en Shenzhen"
     },
     {
       "cuando": "18-19 nov",
-      "texto": "Cumbre APEC en Shenzhen con Sheinbaum; reunión Trump-Xi-Putin el 19; la Voyager 1 llega a un día luz de la Tierra el 18"
+      "texto": "Cumbre APEC en Shenzhen con Sheinbaum; Anthropic fija precio de su salida a bolsa el 18 y debuta en el Nasdaq el 19; reunión Trump-Xi-Putin el 19"
+    },
+    {
+      "cuando": "18 nov",
+      "texto": "Cierre de candidaturas a la presidencia de la FIFA; la Voyager 1 llega a un día luz de la Tierra"
     },
     {
       "cuando": "20 nov",
-      "texto": "Cierra la COP31 en Antalya; sorteo de cuartos de la Liga de Naciones de la UEFA; desfile de la Revolución en la CDMX"
+      "texto": "Cierran la COP31 en Antalya y la conferencia de la ONU sobre armas autónomas en Ginebra; desfile de la Revolución en la CDMX"
     },
     {
       "cuando": "29 nov",
