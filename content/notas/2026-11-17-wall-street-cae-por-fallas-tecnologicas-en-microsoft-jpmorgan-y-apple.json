@@ -1,0 +1,18 @@
+{
+  "titulo": "Wall Street cae por fallas tecnológicas en Microsoft, JPMorgan y Apple; el Dow pierde 848 puntos",
+  "seccion": "economia",
+  "fecha": "2026-11-17T18:41",
+  "resumen": "El Dow Jones bajó 1.64% hasta 50,759 puntos, el S&P 500 cedió 1.03% a 7,340 y el Nasdaq 0.74% a 24,328 antes del reporte de Nvidia. El Informador atribuyó parte de las pérdidas a varios días de fallas informáticas: Microsoft cayó 2.27% tras dos días con Teams y Outlook inoperantes, JPMorgan 2.44% por un error de software y Apple 0.25% por interrupciones en iCloud y Apple Pay. Las empresas descartaron un ciberataque.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Informador / EFE",
+      "enlace": "https://www.informador.mx/economia/wall-street-cierra-en-rojo-tras-fallas-tecnologicas-espera-resultados-de-nvidia-20261117-0192.html"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

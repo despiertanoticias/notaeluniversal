@@ -1,39 +1,39 @@
 {
   "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:45 h",
   "ciudad": "CDMX",
   "temp": 18,
-  "mercados_nota": "Martes 17 nov, mañana. Dólar/peso: 18.51 en operaciones electrónicas (Quinto Poder; FIX Banxico 18.5525), variación frente al cierre previo de 18.53. Nikkei 58,860 (-1.34%, EFE) y Kospi 4,968 (-2.59%, Jin10): cierres del martes. Brent 91.80 USD (-0.7%, HDFC Sky). Dow Jones, S&P 500 y Nasdaq: cierre del lunes. Euro/peso, oro y bitcoin: datos previos (el oro rondaba 3,900 USD según Valora Analitik, sin variación publicada). Temperatura: sin lectura actual disponible; se conserva el dato previo.",
+  "mercados_nota": "Martes 17 nov, tarde. Dólar/peso 18.43 (-0.54%, cierre Banxico vía EFE/Infobae). Dow Jones 50,759 (-1.64%), S&P 500 7,340 (-1.03%), Nasdaq 24,328 (-0.74%): cierres del martes (El Informador/EFE, Expansión). Brent 93.14 USD (+0.76%, Infobae). Oro 3,849 USD (-0.20%) y bitcoin 63,969 USD (-1.32%), cotizaciones de la tarde (FM Luzu). Nikkei y Kospi: cierres del martes. Euro/peso: dato previo. Temperatura: sin lectura actual disponible; se conserva el dato previo.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.51",
-      "cambio": "-0.11%",
+      "valor": "18.43",
+      "cambio": "-0.54%",
       "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "51,608",
-      "cambio": "-1.41%",
+      "valor": "50,759",
+      "cambio": "-1.64%",
       "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,416",
-      "cambio": "-1.92%",
+      "valor": "7,340",
+      "cambio": "-1.03%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "24,509",
-      "cambio": "-2.49%",
+      "valor": "24,328",
+      "cambio": "-0.74%",
       "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.80 USD",
-      "cambio": "-0.70%",
-      "nivel": "baja"
+      "valor": "93.14 USD",
+      "cambio": "+0.76%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nikkei 225",
@@ -55,29 +55,29 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,854 USD",
+      "valor": "3,849 USD",
       "cambio": "-0.20%",
       "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "65,199 USD",
-      "cambio": "-3.4%",
+      "valor": "63,969 USD",
+      "cambio": "-1.32%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Nvidia presenta resultados tras el cierre de Wall Street; México-Jamaica en Monterrey (20:30); el Knéset vota a su nuevo presidente; Trump con el Quad y la ASEAN en Manila"
+      "texto": "México recibe a Jamaica en Monterrey (20:30) en la Nations League de la Concacaf"
     },
     {
-      "cuando": "18-19 nov",
-      "texto": "Cumbre de líderes APEC en Shenzhen; Anthropic fija el precio de su salida a bolsa el 18 y debuta en el Nasdaq el 19; reunión Trump-Xi-Putin el 19"
+      "cuando": "18 nov",
+      "texto": "Cumbre de líderes APEC en Shenzhen; breve encuentro Sheinbaum-Trump; Polonia vota la moción de censura contra Tusk; Anthropic fija el precio de su salida a bolsa"
     },
     {
       "cuando": "19 nov",
-      "texto": "Lanzamiento mundial del videojuego GTA VI"
+      "texto": "Reunión Trump-Xi-Putin en China; lanzamiento mundial de GTA VI; Anthropic debuta en el Nasdaq"
     },
     {
       "cuando": "20 nov",
