@@ -1,14 +1,14 @@
 {
-  "fecha": "Miércoles 18 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Jueves 19 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Miércoles 18 nov, tarde. Dólar/peso 18.65 (-1.31% para el peso, El Financiero/Bloomberg). Dow Jones 50,198 (-1.11%), S&P 500 7,324 (-0.23%) y Nasdaq 24,430 (+0.42%): cierres del miércoles (AP vía Infobae, Alto Nivel). Brent 91.95 USD (-1.3%, AP). Kospi: cierre del miércoles (+1.99%, EFE). Oro ~3,725 USD (~-3.2%) y bitcoin ~62,511 USD (-3.65%): FM Luzu, cifras aproximadas. Nikkei y euro/peso: dato previo. Temperatura: sin lectura actual del SMN; se conserva el dato anterior.",
+  "mercados_nota": "Jueves 19 nov, mañana. Dólar/peso 18.85: cierre del miércoles según Banxico, alza de 2.4% del dólar (N+/Reuters). Dow Jones 50,198 (-1.11%), S&P 500 7,324 (-0.23%), Nasdaq 24,430 (+0.42%), Brent 91.65 USD (-1.60%) y oro al contado 3,726 USD (-3.21%): cierres del miércoles (El CEO). Nikkei, Kospi, euro/peso y bitcoin: dato previo. Temperatura: sin lectura actual del SMN; mínima pronosticada de 11 °C (El Informador).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.65",
-      "cambio": "+1.31%",
+      "valor": "18.85",
+      "cambio": "+2.40%",
       "nivel": "sube"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.95 USD",
-      "cambio": "-1.30%",
+      "valor": "91.65 USD",
+      "cambio": "-1.60%",
       "nivel": "baja"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,725 USD",
-      "cambio": "-3.20%",
+      "valor": "3,726 USD",
+      "cambio": "-3.21%",
       "nivel": "baja"
     },
     {
@@ -68,12 +68,12 @@
   ],
   "agenda": [
     {
-      "cuando": "19 nov",
-      "texto": "Cumbre trilateral Trump-Xi-Putin en Shenzhen; Anthropic debuta en el Nasdaq (ANT); lanzamiento mundial de GTA VI"
+      "cuando": "Hoy",
+      "texto": "Debut de Anthropic en el Nasdaq; cumbre de la Coalición de Voluntarios en Berlín; debate Sánchez-Feijóo en España"
     },
     {
       "cuando": "20 nov",
-      "texto": "Cierran la COP31 en Antalya y la junta del OIEA en Viena; desfile de la Revolución en México"
+      "texto": "Cierra la COP31 en Antalya; desfile de la Revolución en la CDMX (10:00 h)"
     },
     {
       "cuando": "21 nov",
@@ -85,7 +85,7 @@
     },
     {
       "cuando": "Dic",
-      "texto": "Cumbre del G20 en Doral, Florida: nueva reunión Sheinbaum-Trump"
+      "texto": "Cumbre del G20 en Doral, Florida; reunión Sheinbaum-Trump en Mar-a-Lago"
     }
   ]
 }
