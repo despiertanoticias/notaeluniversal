@@ -1,38 +1,38 @@
 {
   "fecha": "Miércoles 18 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:45 h",
   "ciudad": "CDMX",
   "temp": 11,
-  "mercados_nota": "Miércoles 18 nov, mañana. Dólar/peso 18.42 (-0.51%, cierre del martes según N+; Banxico 18.4298). Dow Jones 50,759, S&P 500 7,340 y Nasdaq 24,328: cierres del martes (Wall Street aún no abre; futuros al alza según Investing.com). Brent 92.55 USD en la apertura del miércoles (The Officer); cambio calculado frente al dato previo de 93.14. Nikkei y Kospi: cierres del miércoles (TradingKey). Oro 3,796 USD (-1.4%, KuCoin News). Bitcoin 64,364 USD (-0.94%, DiarioBitcoin). Euro/peso: dato previo. Temperatura: lectura no disponible; se usa el punto medio de la mínima prevista por el SMN para la CDMX (10 a 12 °C).",
+  "mercados_nota": "Miércoles 18 nov, tarde. Dólar/peso 18.65 (-1.31% para el peso, El Financiero/Bloomberg). Dow Jones 50,198 (-1.11%), S&P 500 7,324 (-0.23%) y Nasdaq 24,430 (+0.42%): cierres del miércoles (AP vía Infobae, Alto Nivel). Brent 91.95 USD (-1.3%, AP). Kospi: cierre del miércoles (+1.99%, EFE). Oro ~3,725 USD (~-3.2%) y bitcoin ~62,511 USD (-3.65%): FM Luzu, cifras aproximadas. Nikkei y euro/peso: dato previo. Temperatura: sin lectura actual del SMN; se conserva el dato anterior.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "18.42",
-      "cambio": "-0.51%",
-      "nivel": "baja"
+      "valor": "18.65",
+      "cambio": "+1.31%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "50,759",
-      "cambio": "-1.64%",
+      "valor": "50,198",
+      "cambio": "-1.11%",
       "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,340",
-      "cambio": "-1.03%",
+      "valor": "7,324",
+      "cambio": "-0.23%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "24,328",
-      "cambio": "-0.74%",
-      "nivel": "baja"
+      "valor": "24,430",
+      "cambio": "+0.42%",
+      "nivel": "sube"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.55 USD",
-      "cambio": "-0.63%",
+      "valor": "91.95 USD",
+      "cambio": "-1.30%",
       "nivel": "baja"
     },
     {
@@ -55,37 +55,37 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,796 USD",
-      "cambio": "-1.40%",
+      "valor": "3,725 USD",
+      "cambio": "-3.20%",
       "nivel": "baja"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "64,364 USD",
-      "cambio": "-0.94%",
+      "valor": "62,511 USD",
+      "cambio": "-3.65%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Cumbre de líderes APEC en Shenzhen; Anthropic fija el precio de su salida a bolsa; la Fed publica las actas de octubre (13:00)"
-    },
-    {
       "cuando": "19 nov",
-      "texto": "Reunión Trump-Xi-Putin en Shenzhen; Anthropic debuta en el Nasdaq; lanzamiento mundial de GTA VI"
+      "texto": "Cumbre trilateral Trump-Xi-Putin en Shenzhen; Anthropic debuta en el Nasdaq (ANT); lanzamiento mundial de GTA VI"
     },
     {
       "cuando": "20 nov",
-      "texto": "Cierran la COP31 en Antalya y la junta del OIEA en Viena; cumbre UE-Reino Unido; desfile de la Revolución"
+      "texto": "Cierran la COP31 en Antalya y la junta del OIEA en Viena; desfile de la Revolución en México"
     },
     {
       "cuando": "21 nov",
-      "texto": "Final de la Copa Sudamericana: Atlético Mineiro vs. Boca Juniors en Barranquilla"
+      "texto": "Final de la Copa Sudamericana: Atlético Mineiro vs. Boca Juniors en Barranquilla; última jornada del Apertura de la Liga MX"
     },
     {
       "cuando": "29 nov",
       "texto": "Elecciones generales en España; reunión de la OPEP+ sobre la producción de 2027"
+    },
+    {
+      "cuando": "Dic",
+      "texto": "Cumbre del G20 en Doral, Florida: nueva reunión Sheinbaum-Trump"
     }
   ]
 }
