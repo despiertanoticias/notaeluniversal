@@ -1,15 +1,15 @@
 {
-  "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "18:35 h",
+  "fecha": "Viernes 20 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "ciudad": "CDMX",
-  "temp": 11,
-  "mercados_nota": "Jueves 19 nov, tarde. Dow Jones 49,097 (-2.2%), S&P 500 7,176 (-2.0%) y Nasdaq 23,879 (-2.3%): cierres del jueves (Infobae). Dólar/peso 19.04, alza de 0.9% del dólar (El Financiero/Bloomberg, nivel de mercado). Brent, Nikkei, Kospi, euro/peso, oro y bitcoin: dato previo. Temperatura: sin lectura actual del SMN; se mantiene el dato previo.",
+  "temp": 6,
+  "mercados_nota": "Viernes 20 nov, mañana. Dólar/peso 19.07 en la apertura (Infobae). Brent 89.93 USD (-2.72%, The Officer). Bitcoin 61,983 USD (-1.73%, KuCoin, 00:00 UTC). Dow Jones, S&P 500 y Nasdaq: cierres del jueves 19. Nikkei (-5.1%) y Kospi (-5.2%) se desplomaron el viernes según iProfesional, pero sin nivel de cierre confirmado: se mantiene el dato previo. Euro/peso y oro: dato previo. Temperatura: mínima prevista de 4 a 6 °C por el SMN (UnoTV).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "19.04",
-      "cambio": "+0.90%",
-      "nivel": "sube"
+      "valor": "19.07",
+      "cambio": "-0.10%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
@@ -31,8 +31,8 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.65 USD",
-      "cambio": "-1.60%",
+      "valor": "89.93 USD",
+      "cambio": "-2.72%",
       "nivel": "baja"
     },
     {
@@ -61,19 +61,19 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "62,511 USD",
-      "cambio": "-3.65%",
+      "valor": "61,983 USD",
+      "cambio": "-1.73%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "20 nov",
-      "texto": "Cierra la COP31 en Antalya; desfile de la Revolución en la CDMX (10:00 h); protestas estudiantiles en Alemania"
+      "cuando": "Hoy",
+      "texto": "Desfile de la Revolución en la CDMX (10:00 h); cierre previsto de la COP31 en Antalya; cumbre UE-Reino Unido en Bruselas; huelga general en Italia"
     },
     {
       "cuando": "21 nov",
-      "texto": "Final de la Copa Sudamericana: Atlético Mineiro vs. Boca Juniors en Barranquilla; última jornada del Apertura de la Liga MX"
+      "texto": "Semifinales de las ATP Finals en Turín (Alcaraz vs. Shelton); final de la Copa Sudamericana en Barranquilla; última jornada del Apertura de la Liga MX"
     },
     {
       "cuando": "24 nov",
