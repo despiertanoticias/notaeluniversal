@@ -1,0 +1,18 @@
+{
+  "titulo": "EE.UU. pide parchear de inmediato una falla de Java que permite tomar servidores sin contraseña",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-19T18:41",
+  "resumen": "La agencia de ciberseguridad CISA urgió a los usuarios de Java a aplicar un parche contra una vulnerabilidad grave que permitiría a un atacante controlar un servidor sin credenciales. La falla fue descubierta el martes por la empresa emergente Calif con ayuda de herramientas de IA; Java funciona en miles de millones de dispositivos.",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Democracy Now!",
+      "enlace": "https://www.democracynow.org/2026/11/19/headlines"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

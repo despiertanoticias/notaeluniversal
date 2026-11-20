@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street cae más de 2% y el S&P 500 suma seis sesiones a la baja pese al estreno de Anthropic",
+  "seccion": "economia",
+  "fecha": "2026-11-19T18:54",
+  "resumen": "El Dow Jones perdió 1,101 puntos (-2.2%) y cerró en 49,097.06; el S&P 500 bajó 2% hasta 7,175.83, su sexta sesión consecutiva en rojo y 8.2% debajo de su récord de octubre, y el Nasdaq cedió 2.3% a 23,879.20. Las tecnológicas ligadas a la IA, como Nvidia, Micron y CoreWeave, revirtieron sus alzas iniciales por temores de burbuja y posibles nuevas regulaciones; Nvidia cayó 3.3%.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/19/wall-street-cayo-y-registra-su-racha-de-perdidas-mas-larga-desde-2024-pese-al-impactante-debut-de-anthropic/"
+    },
+    {
+      "medio": "Expansión",
+      "enlace": "https://expansion.mx/mercados/2026/11/19/acciones-anthropic-sube-17-en-su-debut-pero-wall-street-cae"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}
