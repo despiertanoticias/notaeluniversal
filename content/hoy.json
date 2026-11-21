@@ -1,39 +1,39 @@
 {
   "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:50 h",
   "ciudad": "CDMX",
   "temp": 6,
-  "mercados_nota": "Viernes 20 nov, mañana. Dólar/peso 19.07 en la apertura (Infobae). Brent 89.93 USD (-2.72%, The Officer). Bitcoin 61,983 USD (-1.73%, KuCoin, 00:00 UTC). Dow Jones, S&P 500 y Nasdaq: cierres del jueves 19. Nikkei (-5.1%) y Kospi (-5.2%) se desplomaron el viernes según iProfesional, pero sin nivel de cierre confirmado: se mantiene el dato previo. Euro/peso y oro: dato previo. Temperatura: mínima prevista de 4 a 6 °C por el SMN (UnoTV).",
+  "mercados_nota": "Viernes 20 nov, cierre. Dólar/peso 19.17 (-0.52% para el peso, Proyecto Puente). Dow Jones, S&P 500 y Nasdaq: cierres del viernes (AP). Brent 92.57 USD (+0.64%, EFE/Infobae). Bitcoin 58,356 USD (-5.1%, KuCoin, cierre de Wall Street). Nikkei, Kospi, euro/peso y oro: dato previo. Temperatura: sin dato actual confirmado; se mantiene el previo.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "19.07",
-      "cambio": "-0.10%",
-      "nivel": "baja"
+      "valor": "19.17",
+      "cambio": "+0.52%",
+      "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "49,097",
-      "cambio": "-2.20%",
+      "valor": "48,147",
+      "cambio": "-1.94%",
       "nivel": "baja"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,176",
-      "cambio": "-2.00%",
+      "valor": "6,910",
+      "cambio": "-3.70%",
       "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "23,879",
-      "cambio": "-2.30%",
+      "valor": "22,618",
+      "cambio": "-5.28%",
       "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "89.93 USD",
-      "cambio": "-2.72%",
-      "nivel": "baja"
+      "valor": "92.57 USD",
+      "cambio": "+0.64%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nikkei 225",
@@ -61,31 +61,31 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "61,983 USD",
-      "cambio": "-1.73%",
+      "valor": "58,356 USD",
+      "cambio": "-5.10%",
       "nivel": "baja"
     }
   ],
   "agenda": [
     {
-      "cuando": "Hoy",
-      "texto": "Desfile de la Revolución en la CDMX (10:00 h); cierre previsto de la COP31 en Antalya; cumbre UE-Reino Unido en Bruselas; huelga general en Italia"
-    },
-    {
       "cuando": "21 nov",
-      "texto": "Semifinales de las ATP Finals en Turín (Alcaraz vs. Shelton); final de la Copa Sudamericana en Barranquilla; última jornada del Apertura de la Liga MX"
+      "texto": "COP31 sigue en prórroga en Antalya con un tercer borrador; semifinales de las ATP Finals en Turín (Alcaraz vs. Shelton); final de la Copa Sudamericana en Barranquilla"
     },
     {
-      "cuando": "24 nov",
-      "texto": "Sentencia en La Haya contra el expresidente kosovar Hashim Thaçi por obstrucción a la justicia"
+      "cuando": "22 nov",
+      "texto": "NFL en la CDMX: 49ers vs. Vikings en el Estadio Banorte (19:20 h); cierre del Corona Capital"
+    },
+    {
+      "cuando": "23 nov",
+      "texto": "Rutte ante la Asamblea Parlamentaria de la OTAN en Berlín; huelga general en Bélgica; Premios Emmy Internacionales en Nueva York"
     },
     {
       "cuando": "29 nov",
       "texto": "Elecciones generales en España; reunión de la OPEP+ sobre la producción de 2027"
     },
     {
-      "cuando": "Dic",
-      "texto": "Cumbre del G20 en Doral, Florida; reunión Sheinbaum-Trump en Mar-a-Lago"
+      "cuando": "30 nov",
+      "texto": "Plazo del juez para el informe sobre un acuerdo de Caro Quintero; posible votación en el Senado de EE.UU. sobre el pacto nuclear con Arabia Saudí"
     }
   ]
 }

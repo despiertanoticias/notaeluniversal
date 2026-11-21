@@ -1,0 +1,26 @@
+{
+  "titulo": "Viernes negro en Wall Street: el Nasdaq se hunde 5.3% y el S&P 500 entra en corrección",
+  "seccion": "economia",
+  "fecha": "2026-11-20T18:48",
+  "resumen": "El Nasdaq cerró en 22,617.73 puntos tras perder 5.3%, el S&P 500 cayó 3.7% a 6,910.39 y el Dow Jones bajó 1.9% a 48,147.33, según AP. En la semana, el Nasdaq retrocedió 10% y el S&P 500 quedó más de 10% por debajo de su máximo del 6 de octubre. La venta se concentró en empresas ligadas a la inteligencia artificial: Nvidia cayó 14% y AMD 13%, de acuerdo con EFE.",
+  "cuerpo": "",
+  "imagen_tema": "wallstreet",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "AP vía myMotherLode",
+      "enlace": "https://mymotherlode.com/news/national/11327378/how-major-us-stock-indexes-fared-friday-11-20-2026.html"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-cerro-con-fuertes-caidas-por-las-preocupaciones-sobre-la-ia-el-nasdaq-tuvo-su-peor-semana-desde-la-pandemia/"
+    },
+    {
+      "medio": "EFE vía ABC Color",
+      "enlace": "https://www.abc.com.py/ciencia/2026/11/20/anthropic-baja-el-85-en-su-segundo-dia-en-la-bolsa-de-wall-street/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción La Nota Universal"
+}
