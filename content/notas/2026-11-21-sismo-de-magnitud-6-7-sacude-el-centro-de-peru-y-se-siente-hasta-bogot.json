@@ -1,0 +1,22 @@
+{
+  "titulo": "Sismo de magnitud 6.7 sacude el centro de Perú y se siente hasta Bogotá",
+  "seccion": "mundo",
+  "fecha": "2026-11-21T18:54",
+  "resumen": "Un sismo de magnitud 6.7 se registró la noche del viernes 20 de noviembre, a las 19:09 hora peruana, con epicentro a 30 km al noroeste de la provincia de Junín, según el Centro Sismológico Nacional. Se percibió en Lima, Callao, Ica y Bogotá; su profundidad fue de unos 129 km. Hernando Tavera, presidente del Instituto Geofísico del Perú, explicó que la profundidad hizo que el movimiento durara más y llegara a zonas lejanas; reportes de prensa hablan de 15 heridos.",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Tiempo",
+      "enlace": "https://www.eltiempo.com/mundo/latinoamerica/por-que-duro-tanto-el-temblor-de-magnitud-6-7-en-peru-que-tambien-se-sintio-en-colombia-instituto-geofisico-explica-que-ocurrio-3603076"
+    },
+    {
+      "medio": "La Jornada",
+      "enlace": "https://www.jornada.com.mx/noticia/2026/11/21/mundo/sismo-de-67-sacud-region-andina-de-peru-reportan-15-heridos"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}
