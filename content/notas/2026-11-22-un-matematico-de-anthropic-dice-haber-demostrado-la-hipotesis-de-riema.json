@@ -1,0 +1,18 @@
+{
+  "titulo": "Un matemático de Anthropic dice haber demostrado la hipótesis de Riemann con ayuda de Claude",
+  "seccion": "ciencia",
+  "fecha": "2026-11-22T06:39",
+  "resumen": "Levent Alpöge publicó una explicación de cuatro páginas y una prueba formal de unos 17 millones de líneas en el lenguaje Lean. El matemático Alex Kontorovich, de Rutgers, señaló que la verificación formal da motivos de confianza, pero que la revisión humana sigue siendo necesaria. El Instituto Clay todavía lista el problema como no resuelto y su presidente, Martin Bridson, advirtió que la evaluación tomará tiempo.",
+  "cuerpo": "",
+  "imagen_tema": "",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "AP / Boston Globe",
+      "enlace": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción La Nota Universal"
+}

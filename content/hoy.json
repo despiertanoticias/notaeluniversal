@@ -1,9 +1,9 @@
 {
-  "fecha": "Sábado 21 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Domingo 22 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "ciudad": "CDMX",
-  "temp": 10,
-  "mercados_nota": "Mercados cerrados por fin de semana: se mantienen los cierres del viernes 20 nov. Dólar/peso 19.17 (Proyecto Puente). Dow Jones, S&P 500 y Nasdaq: cierres del viernes (AP). Brent 92.57 USD (EFE/Infobae). Bitcoin 58,356 USD (KuCoin, cierre de Wall Street). Nikkei, Kospi, euro/peso y oro: dato previo. Temperatura: estimación con la mínima pronosticada de 9 a 11 °C para la CDMX (SMN vía TV Azteca); no hay lectura actual confirmada. Actualización de la tarde: sin cambios por fin de semana.",
+  "temp": 18,
+  "mercados_nota": "Mercados cerrados por fin de semana: se mantienen los cierres del viernes 20 nov. Dólar/peso 19.17 (Proyecto Puente). Dow Jones, S&P 500 y Nasdaq: cierres del viernes (AP). Brent 92.57 USD (EFE/Infobae). Bitcoin 61,402 USD a las 06:21 h del domingo, +5.29% en 24 h (TokenPost). Nikkei, Kospi, euro/peso y oro: dato previo. Temperatura: 18 °C reportados por Protección Civil CDMX (vía UnoTV, mañana del 22 nov).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -61,27 +61,27 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "58,356 USD",
-      "cambio": "-5.10%",
-      "nivel": "baja"
+      "valor": "61,402 USD",
+      "cambio": "+5.29%",
+      "nivel": "sube"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "GP de Las Vegas de F1 (22:00, Verstappen sale en pole); cierre de la fase regular del Apertura 2026 (América vs. Tigres, Pumas vs. Monterrey)"
+      "texto": "NFL en la CDMX: 49ers vs. Vikings; final de las ATP Finals en Turín (Alcaraz vs. Zverev); GP de Portugal de MotoGP"
     },
     {
-      "cuando": "22 nov",
-      "texto": "COP31: votación del texto final en Antalya (06:00 GMT); NFL en la CDMX: 49ers vs. Vikings en el Estadio Banorte (19:20 h)"
+      "cuando": "Hoy",
+      "texto": "Liga MX: Chivas vs. Cruz Azul (17:07) y Querétaro vs. Necaxa (19:10); Ángelus de León XIV en el Vaticano"
     },
     {
       "cuando": "23 nov",
-      "texto": "Pleno de la Asamblea Parlamentaria de la OTAN en Berlín; huelga general en Bélgica; Premios Emmy Internacionales en Nueva York"
+      "texto": "Rutte en el pleno de la Asamblea Parlamentaria de la OTAN en Berlín; huelga general en Bélgica; Premios Emmy Internacionales"
     },
     {
-      "cuando": "25 nov",
-      "texto": "Día Internacional de la Eliminación de la Violencia contra la Mujer; arrancan los 16 Días de Activismo de ONU Mujeres"
+      "cuando": "27-29 nov",
+      "texto": "GP de Qatar de F1 en Lusail"
     },
     {
       "cuando": "29 nov",
