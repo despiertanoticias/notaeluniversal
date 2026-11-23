@@ -1,91 +1,26 @@
 {
-  "fecha": "Domingo 22 de noviembre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Lunes 23 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "ciudad": "CDMX",
-  "temp": 18,
-  "mercados_nota": "Mercados cerrados por fin de semana: se mantienen los cierres del viernes 20 nov. Dólar/peso 19.17 (Proyecto Puente). Dow Jones, S&P 500 y Nasdaq: cierres del viernes (AP). Brent 92.57 USD (EFE/Infobae). Bitcoin 61,402 USD a las 06:21 h del domingo, +5.29% en 24 h (TokenPost). Nikkei, Kospi, euro/peso y oro: dato previo. Temperatura: se mantiene el dato de la mañana (18 °C, Protección Civil CDMX vía UnoTV); no se halló lectura de la tarde. Pronóstico SMN para hoy: máxima de 22 a 24 °C. Dólar/peso: Banxico fijó 19.1631 al cierre del viernes 20 nov.",
+  "temp": 12,
+  "mercados_nota": "Temperatura: 12 °C a las 06:05 h (portal de clima CDMX vía Maya Comunicación); pronóstico SMN: máxima de 22 a 24 °C. Dólar/peso: apertura 19.18 (Infobae, 06:16 h). Dow Jones, S&P 500 y Nasdaq: cierres del viernes 20 nov (El CEO); los futuros suben este lunes (Nasdaq 100 +3.5%, S&P +2.1%, Dow +1.9%, Valora Analitik). Brent: contrato de enero, 92.32 USD (FinanceFeeds/ICE, 06:32 GMT). Kospi: cierre del 23 nov (Korea JoongAng Daily). Nikkei: dato previo; Tokio no operó hoy por feriado. Euro/peso: referencia Banxico del viernes (El Congresista). Oro: spot 3,635 USD (Valora Analitik). Bitcoin: 61,654 USD (CoinGecko vía KuCoin, 05:50 GMT).",
   "mercados": [
-    {
-      "nombre": "Dólar / peso",
-      "valor": "19.17",
-      "cambio": "+0.52%",
-      "nivel": "sube"
-    },
-    {
-      "nombre": "Dow Jones",
-      "valor": "48,147",
-      "cambio": "-1.94%",
-      "nivel": "baja"
-    },
-    {
-      "nombre": "S&P 500",
-      "valor": "6,910",
-      "cambio": "-3.70%",
-      "nivel": "baja"
-    },
-    {
-      "nombre": "Nasdaq",
-      "valor": "22,618",
-      "cambio": "-5.28%",
-      "nivel": "baja"
-    },
-    {
-      "nombre": "Petróleo Brent",
-      "valor": "92.57 USD",
-      "cambio": "+0.64%",
-      "nivel": "sube"
-    },
-    {
-      "nombre": "Nikkei 225",
-      "valor": "59,024",
-      "cambio": "+0.28%",
-      "nivel": "sube"
-    },
-    {
-      "nombre": "Kospi",
-      "valor": "5,067",
-      "cambio": "+1.99%",
-      "nivel": "sube"
-    },
-    {
-      "nombre": "Euro / peso",
-      "valor": "20.79",
-      "cambio": "-1.46%",
-      "nivel": "baja"
-    },
-    {
-      "nombre": "Oro",
-      "valor": "3,726 USD",
-      "cambio": "-3.21%",
-      "nivel": "baja"
-    },
-    {
-      "nombre": "Bitcoin",
-      "valor": "61,402 USD",
-      "cambio": "+5.29%",
-      "nivel": "sube"
-    }
+    { "nombre": "Dólar / peso", "valor": "19.18", "cambio": "+0.08%", "nivel": "sube" },
+    { "nombre": "Dow Jones", "valor": "48,147", "cambio": "-1.93%", "nivel": "baja" },
+    { "nombre": "S&P 500", "valor": "6,910", "cambio": "-3.70%", "nivel": "baja" },
+    { "nombre": "Nasdaq", "valor": "22,618", "cambio": "-5.28%", "nivel": "baja" },
+    { "nombre": "Petróleo Brent", "valor": "92.32 USD", "cambio": "-0.27%", "nivel": "baja" },
+    { "nombre": "Nikkei 225", "valor": "59,024", "cambio": "+0.28%", "nivel": "sube" },
+    { "nombre": "Kospi", "valor": "4,709", "cambio": "-3.31%", "nivel": "baja" },
+    { "nombre": "Euro / peso", "valor": "20.85", "cambio": "-0.34%", "nivel": "baja" },
+    { "nombre": "Oro", "valor": "3,635 USD", "cambio": "+2.80%", "nivel": "sube" },
+    { "nombre": "Bitcoin", "valor": "61,654 USD", "cambio": "+5.00%", "nivel": "sube" }
   ],
   "agenda": [
-    {
-      "cuando": "Hoy",
-      "texto": "NFL en la CDMX: Vikings vs. 49ers (19:20); Liga MX: Querétaro vs. Necaxa (19:10), cierre de la fase regular"
-    },
-    {
-      "cuando": "23 nov",
-      "texto": "Rutte en el pleno de la Asamblea Parlamentaria de la OTAN en Berlín y reunión con Merz; huelga general en Bélgica; Premios Emmy Internacionales"
-    },
-    {
-      "cuando": "23 nov",
-      "texto": "Último día para publicar encuestas antes de las elecciones generales de España"
-    },
-    {
-      "cuando": "27-29 nov",
-      "texto": "GP de Qatar de F1 en Lusail"
-    },
-    {
-      "cuando": "29 nov",
-      "texto": "Elecciones generales en España; reunión de la OPEP+ sobre la producción de 2027"
-    }
+    { "cuando": "Hoy", "texto": "Premios Emmy Internacional en Nueva York; sesión del Consejo de Seguridad de la ONU sobre Ucrania; Rubio recibe al primer ministro de Catar" },
+    { "cuando": "25-26 nov", "texto": "Liga MX: ida de los cuartos de final (Chivas-Pachuca, Cruz Azul-León, América-Monterrey, Atlas-Toluca)" },
+    { "cuando": "26 nov", "texto": "Día de Acción de Gracias en Estados Unidos" },
+    { "cuando": "27-29 nov", "texto": "GP de Qatar de F1 en Lusail" },
+    { "cuando": "29 nov", "texto": "Elecciones generales en España; reunión de la OPEP+ sobre la producción de 2027" }
   ]
 }
