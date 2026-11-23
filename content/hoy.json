@@ -1,9 +1,9 @@
 {
   "fecha": "Domingo 22 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:30 h",
   "ciudad": "CDMX",
   "temp": 18,
-  "mercados_nota": "Mercados cerrados por fin de semana: se mantienen los cierres del viernes 20 nov. Dólar/peso 19.17 (Proyecto Puente). Dow Jones, S&P 500 y Nasdaq: cierres del viernes (AP). Brent 92.57 USD (EFE/Infobae). Bitcoin 61,402 USD a las 06:21 h del domingo, +5.29% en 24 h (TokenPost). Nikkei, Kospi, euro/peso y oro: dato previo. Temperatura: 18 °C reportados por Protección Civil CDMX (vía UnoTV, mañana del 22 nov).",
+  "mercados_nota": "Mercados cerrados por fin de semana: se mantienen los cierres del viernes 20 nov. Dólar/peso 19.17 (Proyecto Puente). Dow Jones, S&P 500 y Nasdaq: cierres del viernes (AP). Brent 92.57 USD (EFE/Infobae). Bitcoin 61,402 USD a las 06:21 h del domingo, +5.29% en 24 h (TokenPost). Nikkei, Kospi, euro/peso y oro: dato previo. Temperatura: se mantiene el dato de la mañana (18 °C, Protección Civil CDMX vía UnoTV); no se halló lectura de la tarde. Pronóstico SMN para hoy: máxima de 22 a 24 °C. Dólar/peso: Banxico fijó 19.1631 al cierre del viernes 20 nov.",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -69,15 +69,15 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "NFL en la CDMX: 49ers vs. Vikings; final de las ATP Finals en Turín (Alcaraz vs. Zverev); GP de Portugal de MotoGP"
-    },
-    {
-      "cuando": "Hoy",
-      "texto": "Liga MX: Chivas vs. Cruz Azul (17:07) y Querétaro vs. Necaxa (19:10); Ángelus de León XIV en el Vaticano"
+      "texto": "NFL en la CDMX: Vikings vs. 49ers (19:20); Liga MX: Querétaro vs. Necaxa (19:10), cierre de la fase regular"
     },
     {
       "cuando": "23 nov",
-      "texto": "Rutte en el pleno de la Asamblea Parlamentaria de la OTAN en Berlín; huelga general en Bélgica; Premios Emmy Internacionales"
+      "texto": "Rutte en el pleno de la Asamblea Parlamentaria de la OTAN en Berlín y reunión con Merz; huelga general en Bélgica; Premios Emmy Internacionales"
+    },
+    {
+      "cuando": "23 nov",
+      "texto": "Último día para publicar encuestas antes de las elecciones generales de España"
     },
     {
       "cuando": "27-29 nov",
