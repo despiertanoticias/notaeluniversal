@@ -1,14 +1,14 @@
 {
-  "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Martes 24 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "ciudad": "CDMX",
   "temp": 17,
-  "mercados_nota": "Temperatura: 17 °C cerca de las 18:30 h (The Weather Network); pronóstico SMN: máxima de 22 a 24 °C y lluvias aisladas. Dólar/peso: cierre Banxico 19.17 (Heraldo Binario; FIX 19.1648). Dow Jones, S&P 500 y Nasdaq: cierres del lunes 23 nov (Expansión/AP). Brent: liquidación de 89.37 USD (Reuters). Nikkei: apertura del martes 24 nov tras el feriado del lunes (Yahoo Finance Japón/Minkabu). Kospi: martes 24 nov a las 09:08 h de Seúl (Korea JoongAng Daily). Euro/peso: cierre del 23 nov (Infobae). Oro: spot de la mañana del 23 nov (USAGold). Bitcoin: 06:00 h del 23 nov (DiarioBitcoin).",
+  "mercados_nota": "Temperatura: 17 °C, último dato disponible (lunes 23 nov, 18:30 h); pronóstico SMN para la CDMX del 24 nov: chubascos de 5 a 25 mm. Dólar/peso: promedio de apertura del 24 nov (Infobae con datos de Dow Jones; cierre previo 19.18). Brent: 88.80 USD la madrugada del 24 nov (Infobae/AFP-Reuters); cambio frente a la liquidación de 89.37 del 23 nov. Dow Jones, S&P 500 y Nasdaq: cierres del lunes 23 nov (Expansión/AP). Nikkei: apertura del martes 24 nov (Yahoo Finance Japón/Minkabu). Kospi: martes 24 nov a las 09:08 h de Seúl (Korea JoongAng Daily); cerró con alza de 6.32% según EFE. Euro/peso: cierre del 23 nov (Infobae). Oro: spot de la mañana del 23 nov (USAGold). Bitcoin: 06:00 h del 23 nov (DiarioBitcoin).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "19.17",
-      "cambio": "+0.04%",
+      "valor": "19.29",
+      "cambio": "+0.59%",
       "nivel": "sube"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "89.37 USD",
-      "cambio": "-3.46%",
+      "valor": "88.80 USD",
+      "cambio": "-0.64%",
       "nivel": "baja"
     },
     {
@@ -68,24 +68,24 @@
   ],
   "agenda": [
     {
-      "cuando": "24 nov",
-      "texto": "El Gabinete de Seguridad viaja a Culiacán; inflación de la primera quincena de noviembre en México"
+      "cuando": "Hoy",
+      "texto": "El Gabinete de Seguridad visita Culiacán; final de Miss Universo en San Juan, Puerto Rico; Trump indulta a los pavos de Acción de Gracias"
     },
     {
       "cuando": "25-26 nov",
       "texto": "Liga MX: ida de los cuartos de final (Toluca-Atlas, Monterrey-América, Pachuca-Chivas, León-Cruz Azul)"
     },
     {
-      "cuando": "26 nov",
-      "texto": "Día de Acción de Gracias en Estados Unidos; Wall Street cierra"
+      "cuando": "26-27 nov",
+      "texto": "Acción de Gracias en EE.UU. (Wall Street cierra el 26); Consejo Europeo en Bruselas revisa el 22º paquete de sanciones a Rusia"
     },
     {
-      "cuando": "26-27 nov",
-      "texto": "Consejo Europeo en Bruselas"
+      "cuando": "28 nov",
+      "texto": "Final de la Copa Libertadores en Montevideo: Palmeiras vs. Estudiantes de La Plata"
     },
     {
       "cuando": "29 nov",
-      "texto": "Elecciones generales en España; reunión de la OPEP+; GP de Qatar de F1 en Lusail"
+      "texto": "Elecciones generales en España y locales en Ecuador; reunión de la OPEP+; GP de Qatar de F1"
     }
   ]
 }
