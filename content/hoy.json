@@ -1,38 +1,38 @@
 {
-  "fecha": "Martes 24 de noviembre de 2026",
+  "fecha": "Jueves 26 de noviembre de 2026",
   "actualizado": "06:45 h",
   "ciudad": "CDMX",
-  "temp": 17,
-  "mercados_nota": "Temperatura: 17 °C, último dato disponible (lunes 23 nov, 18:30 h); pronóstico SMN para la CDMX del 24 nov: chubascos de 5 a 25 mm. Dólar/peso: promedio de apertura del 24 nov (Infobae con datos de Dow Jones; cierre previo 19.18). Brent: 88.80 USD la madrugada del 24 nov (Infobae/AFP-Reuters); cambio frente a la liquidación de 89.37 del 23 nov. Dow Jones, S&P 500 y Nasdaq: cierres del lunes 23 nov (Expansión/AP). Nikkei: apertura del martes 24 nov (Yahoo Finance Japón/Minkabu). Kospi: martes 24 nov a las 09:08 h de Seúl (Korea JoongAng Daily); cerró con alza de 6.32% según EFE. Euro/peso: cierre del 23 nov (Infobae). Oro: spot de la mañana del 23 nov (USAGold). Bitcoin: 06:00 h del 23 nov (DiarioBitcoin).",
+  "temp": 10,
+  "mercados_nota": "Temperatura: 10 °C, mínima registrada en el aeropuerto de la CDMX según el reporte del SMN de las 06:00 h del 26 nov (pronóstico: máxima de 19 a 21 °C, chubascos por la tarde). Dólar/peso: apertura del 26 nov (Infobae con datos de Dow Jones; cierre previo 19.59). Dow Jones, S&P 500 y Nasdaq: cierres del miércoles 25 nov (The Motley Fool); Wall Street no opera el 26 por Acción de Gracias. Brent: apertura del 26 nov (The Officer; cierre previo 92.57). Oro: 25 nov (The Motley Fool). Bitcoin: cotización del 25 nov (The Motley Fool). Nikkei y Kospi: datos del martes 24 nov; euro/peso: cierre del 23 nov (sin actualización disponible).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "19.29",
-      "cambio": "+0.59%",
+      "valor": "19.69",
+      "cambio": "+0.47%",
       "nivel": "sube"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "49,595",
-      "cambio": "+3.01%",
+      "valor": "50,183",
+      "cambio": "+0.33%",
       "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,237",
-      "cambio": "+4.73%",
-      "nivel": "sube"
+      "valor": "7,186",
+      "cambio": "-0.21%",
+      "nivel": "baja"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "24,090",
-      "cambio": "+6.51%",
-      "nivel": "sube"
+      "valor": "23,586",
+      "cambio": "-0.62%",
+      "nivel": "baja"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "88.80 USD",
-      "cambio": "-0.64%",
+      "valor": "91.77 USD",
+      "cambio": "-0.86%",
       "nivel": "baja"
     },
     {
@@ -55,37 +55,37 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,634 USD",
-      "cambio": "+2.51%",
+      "valor": "3,572 USD",
+      "cambio": "+0.29%",
       "nivel": "sube"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "61,389 USD",
-      "cambio": "+0.44%",
+      "valor": "60,031 USD",
+      "cambio": "+0.20%",
       "nivel": "sube"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "El Gabinete de Seguridad visita Culiacán; final de Miss Universo en San Juan, Puerto Rico; Trump indulta a los pavos de Acción de Gracias"
-    },
-    {
-      "cuando": "25-26 nov",
-      "texto": "Liga MX: ida de los cuartos de final (Toluca-Atlas, Monterrey-América, Pachuca-Chivas, León-Cruz Azul)"
-    },
-    {
-      "cuando": "26-27 nov",
-      "texto": "Acción de Gracias en EE.UU. (Wall Street cierra el 26); Consejo Europeo en Bruselas revisa el 22º paquete de sanciones a Rusia"
+      "texto": "Acción de Gracias en EE.UU. (Wall Street cerrado); cumbre de líderes de la UE en Bruselas sobre el presupuesto 2028-2034; Liga MX: Pachuca-Guadalajara y León-Cruz Azul (ida de cuartos)"
     },
     {
       "cuando": "28 nov",
-      "texto": "Final de la Copa Libertadores en Montevideo: Palmeiras vs. Estudiantes de La Plata"
+      "texto": "Final de la Copa Libertadores en Montevideo: Palmeiras vs. Estudiantes de La Plata; vuelta de cuartos en la Liga MX (Atlas-Toluca y América-Monterrey)"
     },
     {
       "cuando": "29 nov",
       "texto": "Elecciones generales en España y locales en Ecuador; reunión de la OPEP+; GP de Qatar de F1"
+    },
+    {
+      "cuando": "14-15 dic",
+      "texto": "Cumbre del G20 en Miami, con reunión prevista entre Claudia Sheinbaum y Donald Trump"
+    },
+    {
+      "cuando": "17-18 dic",
+      "texto": "Consejo Europeo en Bruselas: nueva ronda para cerrar el presupuesto de la UE y el préstamo a Ucrania"
     }
   ]
 }
