@@ -1,15 +1,15 @@
 {
-  "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Viernes 27 de noviembre de 2026",
+  "actualizado": "06:35 h",
   "ciudad": "CDMX",
   "temp": 10,
-  "mercados_nota": "Temperatura: 10 °C, mínima registrada en el aeropuerto de la CDMX según el SMN a las 06:00 h del 26 nov (sin lectura vespertina disponible; pronóstico: máxima de 19 a 21 °C). Dólar/peso: cierre del 26 nov con datos de Banxico (Palco Noticias; cierre previo 19.5948; Infobae reporta 19.71). S&P/BMV IPC: cierre del 26 nov (Palco Noticias). Brent: contrato de enero en ICE, 26 nov (Palco Noticias). Dow Jones, S&P 500 y Nasdaq: cierres del miércoles 25 nov; Wall Street no operó el 26 por Acción de Gracias y el viernes cierra a las 13:00 h de Nueva York. Oro y bitcoin: 25 nov. Nikkei y Kospi: 24 nov; euro/peso: 23 nov (sin actualización disponible).",
+  "mercados_nota": "Temperatura: 10 °C, mínima pronosticada para hoy en la CDMX (El Informador; SMN prevé primera tormenta invernal). Dólar/peso: cotización de apertura del 27 nov (Infobae), frente a 19.72 del cierre del 26 nov (Banxico). Dow Jones, S&P 500 y Nasdaq: cierres del miércoles 25 nov (AP); el jueves 26 no hubo sesión por Acción de Gracias y hoy la jornada es más corta; futuros del Dow +1.2% y del S&P 500 +1.8% (AP). Brent: 27 nov, sesión asiática (AP). S&P/BMV IPC: cierre del 26 nov. Nikkei y Kospi: cierres del 27 nov. Oro y bitcoin: 27 nov (CoinDesk). Euro/peso: 23 nov (sin actualización disponible).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "19.72",
-      "cambio": "+0.65%",
-      "nivel": "sube"
+      "valor": "19.54",
+      "cambio": "-0.83%",
+      "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
@@ -19,8 +19,8 @@
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,186",
-      "cambio": "-0.21%",
+      "valor": "7,183",
+      "cambio": "-0.25%",
       "nivel": "baja"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "96.53 USD",
-      "cambio": "+2.02%",
+      "valor": "97.62 USD",
+      "cambio": "+1.09%",
       "nivel": "sube"
     },
     {
@@ -43,14 +43,14 @@
     },
     {
       "nombre": "Nikkei 225",
-      "valor": "57,010",
-      "cambio": "+1.02%",
+      "valor": "58,711",
+      "cambio": "+2.11%",
       "nivel": "sube"
     },
     {
       "nombre": "Kospi",
-      "valor": "4,975",
-      "cambio": "+5.60%",
+      "valor": "4,916",
+      "cambio": "+4.34%",
       "nivel": "sube"
     },
     {
@@ -61,29 +61,29 @@
     },
     {
       "nombre": "Oro",
-      "valor": "3,572 USD",
-      "cambio": "+0.29%",
+      "valor": "3,670 USD",
+      "cambio": "+2.50%",
       "nivel": "sube"
     },
     {
       "nombre": "Bitcoin",
-      "valor": "60,031 USD",
-      "cambio": "+0.20%",
+      "valor": "61,600 USD",
+      "cambio": "+1.80%",
       "nivel": "sube"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Acción de Gracias en EE.UU. (Wall Street cerrado); cumbre de líderes de la UE en Bruselas; debate a cuatro en España (22:00 h de Madrid); Liga MX: Pachuca-Guadalajara y León-Cruz Azul (ida de cuartos); premios Rolling Stone en Español en la CDMX"
+      "texto": "Wall Street reabre con sesión corta tras Acción de Gracias y arranca el Black Friday; cierre de campaña en España; reunión del pacto de defensa Pakistán-Arabia Saudí-Turquía en Islamabad; prácticas del GP de Qatar de F1"
     },
     {
       "cuando": "28 nov",
-      "texto": "Final de la Copa Libertadores en Montevideo: Palmeiras vs. Estudiantes de La Plata; vuelta de cuartos en la Liga MX (Atlas-Toluca y América-Monterrey)"
+      "texto": "Elecciones locales en Taiwán; decisión del Tribunal del Mar sobre el petróleo en Malvinas; final de la Copa Libertadores en Montevideo: Estudiantes vs. Palmeiras; arranca la FIL de Guadalajara (hasta el 6 dic)"
     },
     {
       "cuando": "29 nov",
-      "texto": "Elecciones generales en España y locales en Ecuador; reunión ministerial de la OPEP+ sobre la producción de 2027; GP de Qatar de F1"
+      "texto": "Elecciones generales en España y seccionales en Ecuador; reunión ministerial de la OPEP+; vuelta de cuartos en la Liga MX (Cruz Azul-León y Chivas-Pachuca)"
     },
     {
       "cuando": "9 dic",
@@ -91,7 +91,7 @@
     },
     {
       "cuando": "14-15 dic",
-      "texto": "Cumbre del G20 en Miami, con reunión prevista entre Claudia Sheinbaum y Donald Trump"
+      "texto": "Cumbre del G20 en Miami; la UE retoma la negociación de su presupuesto el 17 y 18 de diciembre"
     }
   ]
 }
