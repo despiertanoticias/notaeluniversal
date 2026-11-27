@@ -1,14 +1,14 @@
 {
   "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:30 h",
   "ciudad": "CDMX",
   "temp": 10,
-  "mercados_nota": "Temperatura: 10 °C, mínima registrada en el aeropuerto de la CDMX según el reporte del SMN de las 06:00 h del 26 nov (pronóstico: máxima de 19 a 21 °C, chubascos por la tarde). Dólar/peso: apertura del 26 nov (Infobae con datos de Dow Jones; cierre previo 19.59). Dow Jones, S&P 500 y Nasdaq: cierres del miércoles 25 nov (The Motley Fool); Wall Street no opera el 26 por Acción de Gracias. Brent: apertura del 26 nov (The Officer; cierre previo 92.57). Oro: 25 nov (The Motley Fool). Bitcoin: cotización del 25 nov (The Motley Fool). Nikkei y Kospi: datos del martes 24 nov; euro/peso: cierre del 23 nov (sin actualización disponible).",
+  "mercados_nota": "Temperatura: 10 °C, mínima registrada en el aeropuerto de la CDMX según el SMN a las 06:00 h del 26 nov (sin lectura vespertina disponible; pronóstico: máxima de 19 a 21 °C). Dólar/peso: cierre del 26 nov con datos de Banxico (Palco Noticias; cierre previo 19.5948; Infobae reporta 19.71). S&P/BMV IPC: cierre del 26 nov (Palco Noticias). Brent: contrato de enero en ICE, 26 nov (Palco Noticias). Dow Jones, S&P 500 y Nasdaq: cierres del miércoles 25 nov; Wall Street no operó el 26 por Acción de Gracias y el viernes cierra a las 13:00 h de Nueva York. Oro y bitcoin: 25 nov. Nikkei y Kospi: 24 nov; euro/peso: 23 nov (sin actualización disponible).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "19.69",
-      "cambio": "+0.47%",
+      "valor": "19.72",
+      "cambio": "+0.65%",
       "nivel": "sube"
     },
     {
@@ -31,8 +31,14 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.77 USD",
-      "cambio": "-0.86%",
+      "valor": "96.53 USD",
+      "cambio": "+2.02%",
+      "nivel": "sube"
+    },
+    {
+      "nombre": "S&P/BMV IPC",
+      "valor": "70,353",
+      "cambio": "-1.43%",
       "nivel": "baja"
     },
     {
@@ -69,7 +75,7 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Acción de Gracias en EE.UU. (Wall Street cerrado); cumbre de líderes de la UE en Bruselas sobre el presupuesto 2028-2034; Liga MX: Pachuca-Guadalajara y León-Cruz Azul (ida de cuartos)"
+      "texto": "Acción de Gracias en EE.UU. (Wall Street cerrado); cumbre de líderes de la UE en Bruselas; debate a cuatro en España (22:00 h de Madrid); Liga MX: Pachuca-Guadalajara y León-Cruz Azul (ida de cuartos); premios Rolling Stone en Español en la CDMX"
     },
     {
       "cuando": "28 nov",
@@ -77,15 +83,15 @@
     },
     {
       "cuando": "29 nov",
-      "texto": "Elecciones generales en España y locales en Ecuador; reunión de la OPEP+; GP de Qatar de F1"
+      "texto": "Elecciones generales en España y locales en Ecuador; reunión ministerial de la OPEP+ sobre la producción de 2027; GP de Qatar de F1"
+    },
+    {
+      "cuando": "9 dic",
+      "texto": "Decisión de política monetaria de la Reserva Federal de EE.UU."
     },
     {
       "cuando": "14-15 dic",
       "texto": "Cumbre del G20 en Miami, con reunión prevista entre Claudia Sheinbaum y Donald Trump"
-    },
-    {
-      "cuando": "17-18 dic",
-      "texto": "Consejo Europeo en Bruselas: nueva ronda para cerrar el presupuesto de la UE y el préstamo a Ucrania"
     }
   ]
 }
