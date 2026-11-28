@@ -1,45 +1,45 @@
 {
   "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "06:35 h",
+  "actualizado": "18:50 h",
   "ciudad": "CDMX",
   "temp": 10,
-  "mercados_nota": "Temperatura: 10 °C, mínima pronosticada para hoy en la CDMX (El Informador; SMN prevé primera tormenta invernal). Dólar/peso: cotización de apertura del 27 nov (Infobae), frente a 19.72 del cierre del 26 nov (Banxico). Dow Jones, S&P 500 y Nasdaq: cierres del miércoles 25 nov (AP); el jueves 26 no hubo sesión por Acción de Gracias y hoy la jornada es más corta; futuros del Dow +1.2% y del S&P 500 +1.8% (AP). Brent: 27 nov, sesión asiática (AP). S&P/BMV IPC: cierre del 26 nov. Nikkei y Kospi: cierres del 27 nov. Oro y bitcoin: 27 nov (CoinDesk). Euro/peso: 23 nov (sin actualización disponible).",
+  "mercados_nota": "Temperatura: 10 °C, mínima pronosticada para el 27 nov en la CDMX (sin lectura actual disponible; SMN prevé máximas de 8 a 13 °C y alerta por frío en 12 alcaldías). Dólar/peso: cierre del 27 nov (El Financiero/Bloomberg). Dow Jones, S&P 500, Nasdaq, Brent y S&P/BMV IPC: cierres del 27 nov (Reuters vía TV Azteca). Nikkei y Kospi: cierres del 27 nov. Oro y bitcoin: 27 nov (CoinDesk), sin actualización vespertina. Euro/peso: 23 nov (sin actualización disponible).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
-      "valor": "19.54",
-      "cambio": "-0.83%",
+      "valor": "19.62",
+      "cambio": "-0.42%",
       "nivel": "baja"
     },
     {
       "nombre": "Dow Jones",
-      "valor": "50,183",
-      "cambio": "+0.33%",
+      "valor": "50,775",
+      "cambio": "+1.18%",
       "nivel": "sube"
     },
     {
       "nombre": "S&P 500",
-      "valor": "7,183",
-      "cambio": "-0.25%",
-      "nivel": "baja"
-    },
-    {
-      "nombre": "Nasdaq",
-      "valor": "23,586",
-      "cambio": "-0.62%",
-      "nivel": "baja"
-    },
-    {
-      "nombre": "Petróleo Brent",
-      "valor": "97.62 USD",
-      "cambio": "+1.09%",
+      "valor": "7,297",
+      "cambio": "+1.60%",
       "nivel": "sube"
     },
     {
-      "nombre": "S&P/BMV IPC",
-      "valor": "70,353",
-      "cambio": "-1.43%",
+      "nombre": "Nasdaq",
+      "valor": "24,130",
+      "cambio": "+2.31%",
+      "nivel": "sube"
+    },
+    {
+      "nombre": "Petróleo Brent",
+      "valor": "95.44 USD",
+      "cambio": "-1.20%",
       "nivel": "baja"
+    },
+    {
+      "nombre": "S&P/BMV IPC",
+      "valor": "71,658",
+      "cambio": "+1.85%",
+      "nivel": "sube"
     },
     {
       "nombre": "Nikkei 225",
@@ -75,7 +75,7 @@
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "Wall Street reabre con sesión corta tras Acción de Gracias y arranca el Black Friday; cierre de campaña en España; reunión del pacto de defensa Pakistán-Arabia Saudí-Turquía en Islamabad; prácticas del GP de Qatar de F1"
+      "texto": "S&P revisa la calificación de la deuda de Francia; cierres de campaña en España; prácticas del GP de Qatar de F1 y del GP de Valencia de MotoGP"
     },
     {
       "cuando": "28 nov",
