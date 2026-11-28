@@ -1,9 +1,9 @@
 {
-  "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Sábado 28 de noviembre de 2026",
+  "actualizado": "06:30 h",
   "ciudad": "CDMX",
-  "temp": 10,
-  "mercados_nota": "Temperatura: 10 °C, mínima pronosticada para el 27 nov en la CDMX (sin lectura actual disponible; SMN prevé máximas de 8 a 13 °C y alerta por frío en 12 alcaldías). Dólar/peso: cierre del 27 nov (El Financiero/Bloomberg). Dow Jones, S&P 500, Nasdaq, Brent y S&P/BMV IPC: cierres del 27 nov (Reuters vía TV Azteca). Nikkei y Kospi: cierres del 27 nov. Oro y bitcoin: 27 nov (CoinDesk), sin actualización vespertina. Euro/peso: 23 nov (sin actualización disponible).",
+  "temp": 4,
+  "mercados_nota": "Temperatura: 4 °C, mínima pronosticada para el 28 nov en la CDMX (sin lectura actual disponible; se esperan máximas de 10 a 12 °C, lluvias fuertes y posible aguanieve arriba de 2,800 m por la primera tormenta invernal). Dólar/peso, Dow Jones, S&P 500, Nasdaq, Brent, S&P/BMV IPC, Nikkei, Kospi y oro: cierres del viernes 27 nov (mercados cerrados en fin de semana). Bitcoin: 28 nov (Infobae). Euro/peso: 23 nov (sin actualización disponible).",
   "mercados": [
     {
       "nombre": "Dólar / peso",
@@ -67,23 +67,23 @@
     },
     {
       "nombre": "Bitcoin",
-      "valor": "61,600 USD",
-      "cambio": "+1.80%",
-      "nivel": "sube"
+      "valor": "59,600 USD",
+      "cambio": "-0.44%",
+      "nivel": "baja"
     }
   ],
   "agenda": [
     {
       "cuando": "Hoy",
-      "texto": "S&P revisa la calificación de la deuda de Francia; cierres de campaña en España; prácticas del GP de Qatar de F1 y del GP de Valencia de MotoGP"
-    },
-    {
-      "cuando": "28 nov",
-      "texto": "Elecciones locales en Taiwán; decisión del Tribunal del Mar sobre el petróleo en Malvinas; final de la Copa Libertadores en Montevideo: Estudiantes vs. Palmeiras; arranca la FIL de Guadalajara (hasta el 6 dic)"
+      "texto": "Recuento de las elecciones locales y del referéndum nuclear en Taiwán; final de la Copa Libertadores en Montevideo: Palmeiras vs. Estudiantes; clasificación del GP de Qatar de F1; arranca la FIL de Guadalajara (hasta el 6 dic)"
     },
     {
       "cuando": "29 nov",
-      "texto": "Elecciones generales en España y seccionales en Ecuador; reunión ministerial de la OPEP+; vuelta de cuartos en la Liga MX (Cruz Azul-León y Chivas-Pachuca)"
+      "texto": "Elecciones generales en España y seccionales en Ecuador; reunión ministerial de la OPEP+; GP de Qatar de F1; vuelta de cuartos en la Liga MX (Cruz Azul-León y Chivas-Pachuca)"
+    },
+    {
+      "cuando": "1-3 dic",
+      "texto": "Jensen Huang, de Nvidia, comparece ante comités de la Cámara de Representantes y del Senado de EE. UU."
     },
     {
       "cuando": "9 dic",
